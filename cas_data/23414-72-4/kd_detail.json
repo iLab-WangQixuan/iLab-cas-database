@@ -1,0 +1,2052 @@
+{
+    "RecordType": "CID",
+    "RecordNumber": 31896,
+    "RecordTitle": "ZINC permanganate",
+    "Section": [
+        {
+            "TOCHeading": "Structures",
+            "Description": "Structure depictions and information for 2D, 3D, and crystal related",
+            "Section": [],
+            "Information": null,
+            "URL": null,
+            "Id": 0,
+            "Section_Id": null,
+            "Record_Id": null
+        },
+        {
+            "TOCHeading": "Names and Identifiers",
+            "Description": "Record identifiers, synonyms, chemical names, descriptors, etc.",
+            "Section": [
+                {
+                    "TOCHeading": "Computed Descriptors",
+                    "Description": "Descriptors generated from chemical structure input",
+                    "Section": [
+                        {
+                            "TOCHeading": "IUPAC Name",
+                            "Description": "Chemical name computed from chemical structure that uses International Union of Pure and Applied Chemistry (IUPAC) nomenclature standards.",
+                            "Section": [],
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 12,
+                                    "Value": {
+                                        "StringWithMarkup": [
+                                            {
+                                                "String": "zinc;dipermanganate",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            }
+                                        ],
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "Number": null,
+                                        "ExternalDataURL": null
+                                    },
+                                    "Name": null,
+                                    "Description": null,
+                                    "URL": null,
+                                    "Reference": [
+                                        "Computed by LexiChem 2.6.6 (PubChem release 2019.06.18)"
+                                    ],
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null
+                                }
+                            ],
+                            "URL": "http://old.iupac.org/publications/books/seriestitles/nomenclature.html",
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "InChI",
+                            "Description": "International Chemical Identifier (InChI) computed from chemical structure using the International Union of Pure and Applied Chemistry (IUPAC) standard.",
+                            "Section": [],
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 12,
+                                    "Value": {
+                                        "StringWithMarkup": [
+                                            {
+                                                "String": "InChI=1S/2Mn.8O.Zn/q;;;;;;;;2*-1;+2",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            }
+                                        ],
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "Number": null,
+                                        "ExternalDataURL": null
+                                    },
+                                    "Name": null,
+                                    "Description": null,
+                                    "URL": null,
+                                    "Reference": [
+                                        "Computed by InChI 1.0.5 (PubChem release 2019.06.18)"
+                                    ],
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null
+                                }
+                            ],
+                            "URL": "http://www.iupac.org/home/publications/e-resources/inchi.html",
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "InChI Key",
+                            "Description": "International Chemical Identifier hash (InChIKey) computed from chemical structure using the International Union of Pure and Applied Chemistry (IUPAC) standard.",
+                            "Section": [],
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 12,
+                                    "Value": {
+                                        "StringWithMarkup": [
+                                            {
+                                                "String": "GDWLSAUXTXZYNK-UHFFFAOYSA-N",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            }
+                                        ],
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "Number": null,
+                                        "ExternalDataURL": null
+                                    },
+                                    "Name": null,
+                                    "Description": null,
+                                    "URL": null,
+                                    "Reference": [
+                                        "Computed by InChI 1.0.5 (PubChem release 2019.06.18)"
+                                    ],
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null
+                                }
+                            ],
+                            "URL": "http://www.iupac.org/home/publications/e-resources/inchi.html",
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "Canonical SMILES",
+                            "Description": "Simplified Molecular-Input Line-Entry System (SMILES) computed from chemical structure devoid of isotopic and stereochemical information.",
+                            "Section": [],
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 12,
+                                    "Value": {
+                                        "StringWithMarkup": [
+                                            {
+                                                "String": "[O-][Mn](=O)(=O)=O.[O-][Mn](=O)(=O)=O.[Zn+2]",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            }
+                                        ],
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "Number": null,
+                                        "ExternalDataURL": null
+                                    },
+                                    "Name": null,
+                                    "Description": null,
+                                    "URL": null,
+                                    "Reference": [
+                                        "Computed by OEChem 2.1.5 (PubChem release 2019.06.18)"
+                                    ],
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null
+                                }
+                            ],
+                            "URL": "http://www.daylight.com/dayhtml/doc/theory/theory.smiles.html",
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        }
+                    ],
+                    "Information": null,
+                    "URL": null,
+                    "Id": 0,
+                    "Section_Id": null,
+                    "Record_Id": null
+                },
+                {
+                    "TOCHeading": "Other Identifiers",
+                    "Description": "Important identifiers assigned to this chemical substance by authoritative organizations",
+                    "Section": [
+                        {
+                            "TOCHeading": "CAS",
+                            "Description": "A proprietary registry number assigned by the Chemical Abstracts Service (CAS) division of the American Chemical Society (ACS) often used to help describe chemical ingredients.",
+                            "Section": [],
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 2,
+                                    "Value": {
+                                        "StringWithMarkup": [
+                                            {
+                                                "String": "23414-72-4",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            }
+                                        ],
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "Number": null,
+                                        "ExternalDataURL": null
+                                    },
+                                    "Name": null,
+                                    "Description": null,
+                                    "URL": null,
+                                    "Reference": null,
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null
+                                },
+                                {
+                                    "ReferenceNumber": 4,
+                                    "Value": {
+                                        "StringWithMarkup": [
+                                            {
+                                                "String": "23414-72-4",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            }
+                                        ],
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "Number": null,
+                                        "ExternalDataURL": null
+                                    },
+                                    "Name": null,
+                                    "Description": null,
+                                    "URL": null,
+                                    "Reference": null,
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null
+                                },
+                                {
+                                    "ReferenceNumber": 5,
+                                    "Value": {
+                                        "StringWithMarkup": [
+                                            {
+                                                "String": "23414-72-4",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            }
+                                        ],
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "Number": null,
+                                        "ExternalDataURL": null
+                                    },
+                                    "Name": null,
+                                    "Description": null,
+                                    "URL": null,
+                                    "Reference": null,
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null
+                                },
+                                {
+                                    "ReferenceNumber": 7,
+                                    "Value": {
+                                        "StringWithMarkup": [
+                                            {
+                                                "String": "23414-72-4",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            }
+                                        ],
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "Number": null,
+                                        "ExternalDataURL": null
+                                    },
+                                    "Name": null,
+                                    "Description": null,
+                                    "URL": null,
+                                    "Reference": null,
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null
+                                }
+                            ],
+                            "URL": "http://en.wikipedia.org/wiki/CAS_Registry_Number",
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "European Community (EC) Number",
+                            "Description": "A seven-digit regulatory identifier currently assigned by the European Chemicals Agency (ECHA) known as a European Community (EC) number.  It is sometimes referred to as an EINECS, ELINCS, or NLP number, which are subsets of an EC number.",
+                            "Section": [],
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 5,
+                                    "Value": {
+                                        "StringWithMarkup": [
+                                            {
+                                                "String": "245-646-6",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            }
+                                        ],
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "Number": null,
+                                        "ExternalDataURL": null
+                                    },
+                                    "Name": null,
+                                    "Description": null,
+                                    "URL": null,
+                                    "Reference": null,
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null
+                                }
+                            ],
+                            "URL": "http://en.wikipedia.org/wiki/European_Community_number",
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "UN Number",
+                            "Description": "A four-digit number assigned by the United Nations Committee of Experts on the Transport of Dangerous Goods used to identify hazardous materials (hazmat) internationally. To learn information to each UN number, visit the Emergency Response Guidebook.",
+                            "Section": [],
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 1,
+                                    "Value": {
+                                        "StringWithMarkup": [
+                                            {
+                                                "String": "1515",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            }
+                                        ],
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "Number": null,
+                                        "ExternalDataURL": null
+                                    },
+                                    "Name": "UN Number",
+                                    "Description": null,
+                                    "URL": "https://pubchem.ncbi.nlm.nih.gov/erg/#1515",
+                                    "Reference": null,
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null
+                                },
+                                {
+                                    "ReferenceNumber": 3,
+                                    "Value": {
+                                        "StringWithMarkup": [
+                                            {
+                                                "String": "1515",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            }
+                                        ],
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "Number": null,
+                                        "ExternalDataURL": null
+                                    },
+                                    "Name": "UN Number",
+                                    "Description": null,
+                                    "URL": "https://pubchem.ncbi.nlm.nih.gov/erg/#1515",
+                                    "Reference": null,
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null
+                                },
+                                {
+                                    "ReferenceNumber": 9,
+                                    "Value": {
+                                        "StringWithMarkup": [
+                                            {
+                                                "String": "1515",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            }
+                                        ],
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "Number": null,
+                                        "ExternalDataURL": null
+                                    },
+                                    "Name": "UN Number",
+                                    "Description": null,
+                                    "URL": "https://pubchem.ncbi.nlm.nih.gov/erg/#1515",
+                                    "Reference": null,
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null
+                                }
+                            ],
+                            "URL": "https://pubchem.ncbi.nlm.nih.gov/erg/",
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "UNII",
+                            "Description": "A non-proprietary registry number assigned by the U.S. Food and Drug Administration (FDA) known as an UNique Ingredient Identifier (UNII) code.",
+                            "Section": [],
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 6,
+                                    "Value": {
+                                        "StringWithMarkup": [
+                                            {
+                                                "String": "0314CY55NF",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            }
+                                        ],
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "Number": null,
+                                        "ExternalDataURL": null
+                                    },
+                                    "Name": "UNII",
+                                    "Description": null,
+                                    "URL": null,
+                                    "Reference": null,
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null
+                                }
+                            ],
+                            "URL": "http://www.fda.gov/ForIndustry/DataStandards/SubstanceRegistrationSystem-UniqueIngredientIdentifierUNII/",
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "DSSTox Substance ID",
+                            "Description": "Substance identifier at the Distributed Structure-Searchable Toxicity (DSSTox) Database.",
+                            "Section": [],
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 4,
+                                    "Value": {
+                                        "StringWithMarkup": [
+                                            {
+                                                "String": "DTXSID9075038",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            }
+                                        ],
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "Number": null,
+                                        "ExternalDataURL": null
+                                    },
+                                    "Name": null,
+                                    "Description": null,
+                                    "URL": "https://comptox.epa.gov/dashboard/DTXSID9075038",
+                                    "Reference": null,
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null
+                                }
+                            ],
+                            "URL": "https://www.epa.gov/chemical-research/distributed-structure-searchable-toxicity-dsstox-database/",
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "Wikipedia",
+                            "Description": "Links to Wikipedia or wikidata for this record.",
+                            "Section": [],
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 11,
+                                    "Value": {
+                                        "StringWithMarkup": [
+                                            {
+                                                "String": "Zinc permanganate",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            }
+                                        ],
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "Number": null,
+                                        "ExternalDataURL": null
+                                    },
+                                    "Name": "Wikipedia",
+                                    "Description": null,
+                                    "URL": "https://ca.wikipedia.org/wiki/Permanganat_de_zinc",
+                                    "Reference": null,
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null
+                                }
+                            ],
+                            "URL": null,
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "Shipping Name/ Number DOT/UN/NA/IMO",
+                            "Description": "Shipping Name/ Number DOT/UN/NA/IMO",
+                            "Section": [],
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 7,
+                                    "Value": {
+                                        "StringWithMarkup": [
+                                            {
+                                                "String": "UN 1515; Zinc permanganate",
+                                                "Markup": [
+                                                    {
+                                                        "Id": null,
+                                                        "StringValue_Id": null,
+                                                        "Start": 9,
+                                                        "Length": 17,
+                                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Zinc%20permanganate",
+                                                        "Type": "PubChem Internal Link",
+                                                        "Extra": "CID-31896"
+                                                    }
+                                                ],
+                                                "Id": null,
+                                                "Value_Id": null
+                                            }
+                                        ],
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "Number": null,
+                                        "ExternalDataURL": null
+                                    },
+                                    "Name": null,
+                                    "Description": null,
+                                    "URL": null,
+                                    "Reference": null,
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null
+                                },
+                                {
+                                    "ReferenceNumber": 7,
+                                    "Value": {
+                                        "StringWithMarkup": [
+                                            {
+                                                "String": "IMO 5.1; Zinc permanganate",
+                                                "Markup": [
+                                                    {
+                                                        "Start": 9,
+                                                        "Length": 17,
+                                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Zinc%20permanganate",
+                                                        "Type": "PubChem Internal Link",
+                                                        "Extra": "CID-31896",
+                                                        "Id": null,
+                                                        "StringValue_Id": null
+                                                    }
+                                                ],
+                                                "Id": null,
+                                                "Value_Id": null
+                                            }
+                                        ],
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "Number": null,
+                                        "ExternalDataURL": null
+                                    },
+                                    "Name": null,
+                                    "Description": null,
+                                    "URL": null,
+                                    "Reference": null,
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null
+                                }
+                            ],
+                            "URL": null,
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "Standard Transportation Number",
+                            "Description": "Standard Transportation Number",
+                            "Section": [],
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 7,
+                                    "Value": {
+                                        "StringWithMarkup": [
+                                            {
+                                                "String": "49 187 57; Zinc permanganate",
+                                                "Markup": [
+                                                    {
+                                                        "Start": 11,
+                                                        "Length": 17,
+                                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Zinc%20permanganate",
+                                                        "Type": "PubChem Internal Link",
+                                                        "Extra": "CID-31896",
+                                                        "Id": null,
+                                                        "StringValue_Id": null
+                                                    }
+                                                ],
+                                                "Id": null,
+                                                "Value_Id": null
+                                            }
+                                        ],
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "Number": null,
+                                        "ExternalDataURL": null
+                                    },
+                                    "Name": null,
+                                    "Description": null,
+                                    "URL": null,
+                                    "Reference": null,
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null
+                                }
+                            ],
+                            "URL": null,
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        }
+                    ],
+                    "Information": null,
+                    "URL": null,
+                    "Id": 0,
+                    "Section_Id": null,
+                    "Record_Id": null
+                },
+                {
+                    "TOCHeading": "Synonyms",
+                    "Description": "Alternative names for this PubChem Compound record.  A compound can have many different names.  For example, acetone (CH3C(=O)CH3) is also known as propanone, propan-2-one, or dimethyl ketone.  The brand name of a product is commonly used to indicate the primary chemical ingredient(s) in the product (e.g., Tylenol, a common pain killer, is often used for acetaminophen, its active ingredient).  Another example of common synonyms is record identifiers used in different data collections, such as Chemical Abstract Service (CAS) registry numbers, FDA UNII (Unique Ingredient Identifiers), and many others.  All these various names and identifiers that designate this compound are organized under the Synonyms section.",
+                    "Section": [
+                        {
+                            "TOCHeading": "Depositor-Supplied Synonyms",
+                            "Description": "Chemical names provided by individual data contributors. Synonyms of Substances corresponding to a PubChem Compound record are combined. Some contributed names may be considered erroneous and filtered out. The link on each synonym shows which depositors provided that particular synonym for this structure.",
+                            "Section": [],
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 12,
+                                    "Value": {
+                                        "StringWithMarkup": [
+                                            {
+                                                "String": "ZINC PERMANGANATE",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "Zinc permangante",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "23414-72-4",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "Permanganic acid (hmno4), zinc salt",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "UNII-0314CY55NF",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "Permanganato de cinc [Spanish]",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "HSDB 1057",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "EINECS 245-646-6",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "UN1515",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "0314CY55NF",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "Permanganic acid (HMnO4), zinc salt (8CI,9CI)",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "Permanganato de cinc",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "zinc dipermanganate",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "zinc(II) permanganate",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "2MnO4.Zn",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "AC1L1MK5",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "DTXSID9075038",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "CTK4F1432",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "zinc, ion (zn2+) dipermanganate",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "5240AF",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "Zinc permanganate [UN1515] [Oxidizer]",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "Zinc permanganate [UN1515]  [Oxidizer]",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "LS-162882",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "Permanganic acid(HMnO4), zinc salt (2:1)",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            }
+                                        ],
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "Number": null,
+                                        "ExternalDataURL": null
+                                    },
+                                    "Name": null,
+                                    "Description": null,
+                                    "URL": null,
+                                    "Reference": null,
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null
+                                }
+                            ],
+                            "URL": null,
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        }
+                    ],
+                    "Information": null,
+                    "URL": null,
+                    "Id": 0,
+                    "Section_Id": null,
+                    "Record_Id": null
+                }
+            ],
+            "Information": null,
+            "URL": null,
+            "Id": 0,
+            "Section_Id": null,
+            "Record_Id": null
+        },
+        {
+            "TOCHeading": "Chemical and Physical Properties",
+            "Description": "Chemical and physical properties such as melting point, molecular weight, etc.",
+            "Section": [
+                {
+                    "TOCHeading": "Computed Properties",
+                    "Description": "Properties computed automatically from the given chemical structure",
+                    "Section": [
+                        {
+                            "TOCHeading": "Molecular Weight",
+                            "Description": "Molecular weight or molecular mass refers to the mass of a molecule. It is calculated as the sum of the mass of each constituent atom multiplied by the number of atoms of that element in the molecular formula.",
+                            "Section": [],
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 12,
+                                    "Value": {
+                                        "StringWithMarkup": null,
+                                        "Id": 0,
+                                        "Unit": "g/mol",
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "Number": [
+                                            303.3
+                                        ],
+                                        "ExternalDataURL": null
+                                    },
+                                    "Name": null,
+                                    "Description": null,
+                                    "URL": null,
+                                    "Reference": [
+                                        "Computed by PubChem 2.1 (PubChem release 2019.06.18)"
+                                    ],
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null
+                                }
+                            ],
+                            "URL": null,
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "Hydrogen Bond Donor Count",
+                            "Description": "Hydrogen Bond Donor count",
+                            "Section": [],
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 12,
+                                    "Value": {
+                                        "StringWithMarkup": null,
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "Number": [
+                                            0
+                                        ],
+                                        "ExternalDataURL": null
+                                    },
+                                    "Name": null,
+                                    "Description": null,
+                                    "URL": null,
+                                    "Reference": [
+                                        "Computed by Cactvs 3.4.6.11 (PubChem release 2019.06.18)"
+                                    ],
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null
+                                }
+                            ],
+                            "URL": null,
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "Hydrogen Bond Acceptor Count",
+                            "Description": "Hydrogen Bond Acceptor count",
+                            "Section": [],
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 12,
+                                    "Value": {
+                                        "StringWithMarkup": null,
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "Number": [
+                                            8
+                                        ],
+                                        "ExternalDataURL": null
+                                    },
+                                    "Name": null,
+                                    "Description": null,
+                                    "URL": null,
+                                    "Reference": [
+                                        "Computed by Cactvs 3.4.6.11 (PubChem release 2019.06.18)"
+                                    ],
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null
+                                }
+                            ],
+                            "URL": null,
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "Rotatable Bond Count",
+                            "Description": "Rotatable bond is defined as any single non-ring bond, bounded to nonterminal heavy (i.e., non-hydrogen) atom.",
+                            "Section": [],
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 12,
+                                    "Value": {
+                                        "StringWithMarkup": null,
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "Number": [
+                                            0
+                                        ],
+                                        "ExternalDataURL": null
+                                    },
+                                    "Name": null,
+                                    "Description": null,
+                                    "URL": null,
+                                    "Reference": [
+                                        "Computed by Cactvs 3.4.6.11 (PubChem release 2019.06.18)"
+                                    ],
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null
+                                }
+                            ],
+                            "URL": null,
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "Exact Mass",
+                            "Description": "The exact mass of an isotopic species is obtained by summing the masses of the individual isotopes of the molecule.",
+                            "Section": [],
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 12,
+                                    "Value": {
+                                        "StringWithMarkup": null,
+                                        "Id": 0,
+                                        "Unit": "g/mol",
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "Number": [
+                                            301.764545
+                                        ],
+                                        "ExternalDataURL": null
+                                    },
+                                    "Name": null,
+                                    "Description": null,
+                                    "URL": null,
+                                    "Reference": [
+                                        "Computed by PubChem 2.1 (PubChem release 2019.06.18)"
+                                    ],
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null
+                                }
+                            ],
+                            "URL": null,
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "Monoisotopic Mass",
+                            "Description": "The monoisotopic mass is the sum of the masses of the atoms in a molecule using the unbound, ground-state, rest mass of the principal (most abundant) isotope for each element instead of the isotopic average mass.",
+                            "Section": [],
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 12,
+                                    "Value": {
+                                        "StringWithMarkup": null,
+                                        "Id": 0,
+                                        "Unit": "g/mol",
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "Number": [
+                                            301.764545
+                                        ],
+                                        "ExternalDataURL": null
+                                    },
+                                    "Name": null,
+                                    "Description": null,
+                                    "URL": null,
+                                    "Reference": [
+                                        "Computed by PubChem 2.1 (PubChem release 2019.06.18)"
+                                    ],
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null
+                                }
+                            ],
+                            "URL": null,
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "Topological Polar Surface Area",
+                            "Description": "The topological polar surface area (TPSA) of a molecule is defined as the surface sum over all polar atoms in a molecule. ",
+                            "Section": [],
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 12,
+                                    "Value": {
+                                        "StringWithMarkup": null,
+                                        "Id": 0,
+                                        "Unit": "Å²",
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "Number": [
+                                            149
+                                        ],
+                                        "ExternalDataURL": null
+                                    },
+                                    "Name": null,
+                                    "Description": null,
+                                    "URL": null,
+                                    "Reference": [
+                                        "Computed by Cactvs 3.4.6.11 (PubChem release 2019.06.18)"
+                                    ],
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null
+                                }
+                            ],
+                            "URL": null,
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "Heavy Atom Count",
+                            "Description": "A heavy atom is defined as any atom except hydrogen in a chemical structure.",
+                            "Section": [],
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 12,
+                                    "Value": {
+                                        "StringWithMarkup": null,
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "Number": [
+                                            11
+                                        ],
+                                        "ExternalDataURL": null
+                                    },
+                                    "Name": null,
+                                    "Description": null,
+                                    "URL": null,
+                                    "Reference": [
+                                        "Computed by PubChem"
+                                    ],
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null
+                                }
+                            ],
+                            "URL": null,
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "Formal Charge",
+                            "Description": "Formal charge is the difference between the number of valence electrons of each atom and the number of electrons the atom is associated with. Formal charge assumes any shared electrons are equally shared between the two bonded atoms.",
+                            "Section": [],
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 12,
+                                    "Value": {
+                                        "StringWithMarkup": null,
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "Number": [
+                                            0
+                                        ],
+                                        "ExternalDataURL": null
+                                    },
+                                    "Name": null,
+                                    "Description": null,
+                                    "URL": null,
+                                    "Reference": [
+                                        "Computed by PubChem"
+                                    ],
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null
+                                }
+                            ],
+                            "URL": null,
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "Complexity",
+                            "Description": "The complexity rating of a compound is a rough estimate of how complicated a structure is, seen from both the point of view of the elements contained and the displayed structural features including symmetry. This complexity rating is computed using the Bertz/Hendrickson/Ihlenfeldt formula.",
+                            "Section": [],
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 12,
+                                    "Value": {
+                                        "StringWithMarkup": null,
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "Number": [
+                                            95.8
+                                        ],
+                                        "ExternalDataURL": null
+                                    },
+                                    "Name": null,
+                                    "Description": null,
+                                    "URL": null,
+                                    "Reference": [
+                                        "Computed by Cactvs 3.4.6.11 (PubChem release 2019.06.18)"
+                                    ],
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null
+                                }
+                            ],
+                            "URL": null,
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "Isotope Atom Count",
+                            "Description": "Isotopte Atom Count is the number of isotopes that are not most abundant for the corresponding chemical elements.  Isotopes are variants of a chemical element which differ in neutron number.  For example, among three isotopes of carbon (i.e., C-12, C-13, and C-14), the isotope atom count considers the C-13 and C-14 atoms, because C-12 is the most abundant isotope of carbon.",
+                            "Section": [],
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 12,
+                                    "Value": {
+                                        "StringWithMarkup": null,
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "Number": [
+                                            0
+                                        ],
+                                        "ExternalDataURL": null
+                                    },
+                                    "Name": null,
+                                    "Description": null,
+                                    "URL": null,
+                                    "Reference": [
+                                        "Computed by PubChem"
+                                    ],
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null
+                                }
+                            ],
+                            "URL": null,
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "Defined Atom Stereocenter Count",
+                            "Description": "An atom stereocenter, also known as a chiral center, is an atom that is attached to four different types of atoms (or groups of atoms) in the tetrahedral arrangement. It can have either (R)- or (S)- configurations.  Some compounds, such as racemic mixtures, have an undefined atom stereocenter, whose (R/S)-configuration is not specifically defined.",
+                            "Section": [],
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 12,
+                                    "Value": {
+                                        "StringWithMarkup": null,
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "Number": [
+                                            0
+                                        ],
+                                        "ExternalDataURL": null
+                                    },
+                                    "Name": null,
+                                    "Description": null,
+                                    "URL": null,
+                                    "Reference": [
+                                        "Computed by PubChem"
+                                    ],
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null
+                                }
+                            ],
+                            "URL": null,
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "Undefined Atom Stereocenter Count",
+                            "Description": "An atom stereocenter, also known as a chiral center, is an atom that is attached to four different types of atoms (or groups of atoms) in the tetrahedral arrangement. It can have either (R)- or (S)- configurations.  Some compounds, such as racemic mixtures, have an undefined atom stereocenter, whose (R/S)-configuration is not specifically defined.",
+                            "Section": [],
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 12,
+                                    "Value": {
+                                        "StringWithMarkup": null,
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "Number": [
+                                            0
+                                        ],
+                                        "ExternalDataURL": null
+                                    },
+                                    "Name": null,
+                                    "Description": null,
+                                    "URL": null,
+                                    "Reference": [
+                                        "Computed by PubChem"
+                                    ],
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null
+                                }
+                            ],
+                            "URL": null,
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "Defined Bond Stereocenter Count",
+                            "Description": "A bond stereocenter is a non-rotatable bond around which two atoms can have different arrangement (as in cis- and trans-forms of butene around its double bond).  Some compounds have an undefined bond stereocenter, whose stereochemistry is not specifically defined.",
+                            "Section": [],
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 12,
+                                    "Value": {
+                                        "StringWithMarkup": null,
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "Number": [
+                                            0
+                                        ],
+                                        "ExternalDataURL": null
+                                    },
+                                    "Name": null,
+                                    "Description": null,
+                                    "URL": null,
+                                    "Reference": [
+                                        "Computed by PubChem"
+                                    ],
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null
+                                }
+                            ],
+                            "URL": null,
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "Undefined Bond Stereocenter Count",
+                            "Description": "A bond stereocenter is a non-rotatable bond around which two atoms can have different arrangement (as in cis- and trans-forms of butene around its double bond).  Some compounds have an undefined bond stereocenter, whose stereochemistry is not specifically defined.",
+                            "Section": [],
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 12,
+                                    "Value": {
+                                        "StringWithMarkup": null,
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "Number": [
+                                            0
+                                        ],
+                                        "ExternalDataURL": null
+                                    },
+                                    "Name": null,
+                                    "Description": null,
+                                    "URL": null,
+                                    "Reference": [
+                                        "Computed by PubChem"
+                                    ],
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null
+                                }
+                            ],
+                            "URL": null,
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "Covalently-Bonded Unit Count",
+                            "Description": "Covalently-Bonded Unit Count ",
+                            "Section": [],
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 12,
+                                    "Value": {
+                                        "StringWithMarkup": null,
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "Number": [
+                                            3
+                                        ],
+                                        "ExternalDataURL": null
+                                    },
+                                    "Name": null,
+                                    "Description": null,
+                                    "URL": null,
+                                    "Reference": [
+                                        "Computed by PubChem"
+                                    ],
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null
+                                }
+                            ],
+                            "URL": null,
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "Compound Is Canonicalized",
+                            "Description": "Compound is canonicalized",
+                            "Section": [],
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 12,
+                                    "Value": {
+                                        "StringWithMarkup": [
+                                            {
+                                                "String": "Yes",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            }
+                                        ],
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "Number": null,
+                                        "ExternalDataURL": null
+                                    },
+                                    "Name": null,
+                                    "Description": null,
+                                    "URL": null,
+                                    "Reference": [
+                                        "Computed by PubChem (release 2019.01.04)"
+                                    ],
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null
+                                }
+                            ],
+                            "URL": null,
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        }
+                    ],
+                    "Information": null,
+                    "URL": null,
+                    "Id": 0,
+                    "Section_Id": null,
+                    "Record_Id": null
+                },
+                {
+                    "TOCHeading": "Experimental Properties",
+                    "Description": "Properties determined experimentally (See also Safety and Hazard Properties section for more information if available)",
+                    "Section": [
+                        {
+                            "TOCHeading": "Physical Description",
+                            "Description": "Physical description refers to the appearance or features of a given chemical compound including color, odor, state, taste and more in general",
+                            "Section": [],
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 1,
+                                    "Value": {
+                                        "StringWithMarkup": [
+                                            {
+                                                "String": "Zinc permanganate appears as a purplish colored crystalline solid. Noncombustible but accelerates burning of combustible material. Explosion hazard if the combustible material is finely divided. Contact with liquid combustible materials may result in spontaneous ignition. Contact with sulfuric acid may result in fires or explosions.",
+                                                "Markup": [
+                                                    {
+                                                        "Start": 0,
+                                                        "Length": 17,
+                                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Zinc%20permanganate",
+                                                        "Type": "PubChem Internal Link",
+                                                        "Extra": "CID-31896",
+                                                        "Id": null,
+                                                        "StringValue_Id": null
+                                                    },
+                                                    {
+                                                        "Start": 286,
+                                                        "Length": 13,
+                                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/sulfuric%20acid",
+                                                        "Type": "PubChem Internal Link",
+                                                        "Extra": "CID-1118",
+                                                        "Id": null,
+                                                        "StringValue_Id": null
+                                                    }
+                                                ],
+                                                "Id": null,
+                                                "Value_Id": null
+                                            }
+                                        ],
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "Number": null,
+                                        "ExternalDataURL": null
+                                    },
+                                    "Name": "Physical Description",
+                                    "Description": null,
+                                    "URL": null,
+                                    "Reference": null,
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null
+                                }
+                            ],
+                            "URL": null,
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "Color/Form",
+                            "Description": "Physical description - color",
+                            "Section": [],
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 7,
+                                    "Value": {
+                                        "StringWithMarkup": [
+                                            {
+                                                "String": "Purplish colored crystalline solid",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            }
+                                        ],
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "Number": null,
+                                        "ExternalDataURL": null
+                                    },
+                                    "Name": null,
+                                    "Description": "PEER REVIEWED",
+                                    "URL": null,
+                                    "Reference": [
+                                        "Association of American Railroads. Emergency Handling of Hazardous Materials in Surface Transportation. Washington, D.C.: Assoc. of American Railroads, Hazardous Materials Systems (BOE), 1987., p. 735"
+                                    ],
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null
+                                },
+                                {
+                                    "ReferenceNumber": 7,
+                                    "Value": {
+                                        "StringWithMarkup": [
+                                            {
+                                                "String": "Black-crystals, solution looks purple",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            }
+                                        ],
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "Number": null,
+                                        "ExternalDataURL": null
+                                    },
+                                    "Name": null,
+                                    "Description": "PEER REVIEWED",
+                                    "URL": null,
+                                    "Reference": [
+                                        "Kirk-Othmer Encyclopedia of Chemical Technology. 4th ed. Volumes 1: New York, NY. John Wiley and Sons, 1991-Present., p. V15 (95) 1023"
+                                    ],
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null
+                                }
+                            ],
+                            "URL": null,
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "Melting Point",
+                            "Description": "The melting point is the temperature at which a substance changes state from solid to liquid at atmospheric pressure. When considered as the temperature of the reverse change, from liquid to solid, it is referred to as the freezing point.",
+                            "Section": [],
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 7,
+                                    "Value": {
+                                        "StringWithMarkup": [
+                                            {
+                                                "String": "Dec @ 90 - 105 °C",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            }
+                                        ],
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "Number": null,
+                                        "ExternalDataURL": null
+                                    },
+                                    "Name": null,
+                                    "Description": "PEER REVIEWED",
+                                    "URL": null,
+                                    "Reference": [
+                                        "Kirk-Othmer Encyclopedia of Chemical Technology. 4th ed. Volumes 1: New York, NY. John Wiley and Sons, 1991-Present., p. V15 (95) 1023"
+                                    ],
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null
+                                }
+                            ],
+                            "URL": null,
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "Solubility",
+                            "Description": "The solubility of a substance is the amount of that substance that will dissolve in a given amount of solvent. The default solvent is water, if not indicated.",
+                            "Section": [],
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 7,
+                                    "Value": {
+                                        "StringWithMarkup": [
+                                            {
+                                                "String": "Very soluble in water, deliquescent",
+                                                "Markup": [
+                                                    {
+                                                        "Start": 16,
+                                                        "Length": 5,
+                                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                                                        "Type": "PubChem Internal Link",
+                                                        "Extra": "CID-962",
+                                                        "Id": null,
+                                                        "StringValue_Id": null
+                                                    }
+                                                ],
+                                                "Id": null,
+                                                "Value_Id": null
+                                            }
+                                        ],
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "Number": null,
+                                        "ExternalDataURL": null
+                                    },
+                                    "Name": null,
+                                    "Description": "PEER REVIEWED",
+                                    "URL": null,
+                                    "Reference": [
+                                        "Kirk-Othmer Encyclopedia of Chemical Technology. 4th ed. Volumes 1: New York, NY. John Wiley and Sons, 1991-Present., p. V15 (95) 1023"
+                                    ],
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null
+                                }
+                            ],
+                            "URL": null,
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "Density",
+                            "Description": "The density of a substance is its mass per unit volume.",
+                            "Section": [],
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 7,
+                                    "Value": {
+                                        "StringWithMarkup": [
+                                            {
+                                                "String": "2.45 g/cu cm",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            }
+                                        ],
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "Number": null,
+                                        "ExternalDataURL": null
+                                    },
+                                    "Name": null,
+                                    "Description": "PEER REVIEWED",
+                                    "URL": null,
+                                    "Reference": [
+                                        "Kirk-Othmer Encyclopedia of Chemical Technology. 4th ed. Volumes 1: New York, NY. John Wiley and Sons, 1991-Present., p. V15 (95) 1023"
+                                    ],
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null
+                                }
+                            ],
+                            "URL": null,
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "Stability/Shelf Life",
+                            "Description": "Tendency of a material to resist change or decomposition due to internal reaction, or due to the action of air, heat, light, pressure, etc. (See also Stability and Reactivity section under Safety and Hazards)",
+                            "Section": [],
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 7,
+                                    "Value": {
+                                        "StringWithMarkup": [
+                                            {
+                                                "String": "Decomp on exposure to light and air /Hexahydrate/",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            }
+                                        ],
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "Number": null,
+                                        "ExternalDataURL": null
+                                    },
+                                    "Name": null,
+                                    "Description": "PEER REVIEWED",
+                                    "URL": null,
+                                    "Reference": [
+                                        "Sax, N.I. and R.J. Lewis, Sr. (eds.). Hawley's Condensed Chemical Dictionary. 11th ed. New York: Van Nostrand Reinhold Co., 1987., p. 1255"
+                                    ],
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null
+                                }
+                            ],
+                            "URL": null,
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "Decomposition",
+                            "Description": "The decomposition temperature of a substance is the temperature at which the substance chemically decomposes",
+                            "Section": [],
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 7,
+                                    "Value": {
+                                        "StringWithMarkup": [
+                                            {
+                                                "String": "When heated to decomp ... emits toxic fumes of /zinc oxide/.",
+                                                "Markup": [
+                                                    {
+                                                        "Start": 48,
+                                                        "Length": 10,
+                                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/zinc%20oxide",
+                                                        "Type": "PubChem Internal Link",
+                                                        "Extra": "CID-14806",
+                                                        "Id": null,
+                                                        "StringValue_Id": null
+                                                    }
+                                                ],
+                                                "Id": null,
+                                                "Value_Id": null
+                                            }
+                                        ],
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "Number": null,
+                                        "ExternalDataURL": null
+                                    },
+                                    "Name": null,
+                                    "Description": "PEER REVIEWED",
+                                    "URL": null,
+                                    "Reference": [
+                                        "Lewis, R.J. Sax's Dangerous Properties of Industrial Materials. 9th ed. Volumes 1-3. New York, NY: Van Nostrand Reinhold, 1996., p. 3428"
+                                    ],
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null
+                                }
+                            ],
+                            "URL": null,
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "Other Experimental Properties",
+                            "Description": "Additional property information.",
+                            "Section": [],
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 7,
+                                    "Value": {
+                                        "StringWithMarkup": [
+                                            {
+                                                "String": "Hydroscopic; decomposes on exposure to light and air; soluble in water and acids; decomposes in alcohol. /Hexahydrate/",
+                                                "Markup": [
+                                                    {
+                                                        "Start": 65,
+                                                        "Length": 5,
+                                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                                                        "Type": "PubChem Internal Link",
+                                                        "Extra": "CID-962",
+                                                        "Id": null,
+                                                        "StringValue_Id": null
+                                                    }
+                                                ],
+                                                "Id": null,
+                                                "Value_Id": null
+                                            }
+                                        ],
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "Number": null,
+                                        "ExternalDataURL": null
+                                    },
+                                    "Name": null,
+                                    "Description": "PEER REVIEWED",
+                                    "URL": null,
+                                    "Reference": [
+                                        "Lewis, R.J., Sr (Ed.). Hawley's Condensed Chemical  Dictionary. 13th ed. New York, NY: John Wiley & Sons, Inc.  1997., p. 1199"
+                                    ],
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null
+                                },
+                                {
+                                    "ReferenceNumber": 7,
+                                    "Value": {
+                                        "StringWithMarkup": [
+                                            {
+                                                "String": "Violet-brown or almost black crystals /Hexahydrate/",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            }
+                                        ],
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "Number": null,
+                                        "ExternalDataURL": null
+                                    },
+                                    "Name": null,
+                                    "Description": "PEER REVIEWED",
+                                    "URL": null,
+                                    "Reference": [
+                                        "Budavari, S. (ed.). The Merck Index - An Encyclopedia of Chemicals, Drugs, and Biologicals. Whitehouse Station, NJ: Merck and Co., Inc., 1996., p. 1735"
+                                    ],
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null
+                                },
+                                {
+                                    "ReferenceNumber": 7,
+                                    "Value": {
+                                        "StringWithMarkup": [
+                                            {
+                                                "String": "Solubility: 33.3 g/100 cc cold water /Hexahydrate/",
+                                                "Markup": [
+                                                    {
+                                                        "Start": 31,
+                                                        "Length": 5,
+                                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                                                        "Type": "PubChem Internal Link",
+                                                        "Extra": "CID-962",
+                                                        "Id": null,
+                                                        "StringValue_Id": null
+                                                    }
+                                                ],
+                                                "Id": null,
+                                                "Value_Id": null
+                                            }
+                                        ],
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "Number": null,
+                                        "ExternalDataURL": null
+                                    },
+                                    "Name": null,
+                                    "Description": "PEER REVIEWED",
+                                    "URL": null,
+                                    "Reference": [
+                                        "Weast, R.C. (ed.) Handbook of Chemistry and Physics. 69th ed. Boca Raton, FL: CRC Press Inc., 1988-1989., p. B-144"
+                                    ],
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null
+                                },
+                                {
+                                    "ReferenceNumber": 7,
+                                    "Value": {
+                                        "StringWithMarkup": [
+                                            {
+                                                "String": "Black crystals, solutions look purple; rhombic; density 2.45 g/cu m; decomposes 90-105 °C /Hexahydrate/",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            }
+                                        ],
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "Number": null,
+                                        "ExternalDataURL": null
+                                    },
+                                    "Name": null,
+                                    "Description": "PEER REVIEWED",
+                                    "URL": null,
+                                    "Reference": [
+                                        "Kirk-Othmer Encyclopedia of Chemical Technology. 4th ed. Volumes 1: New York, NY. John Wiley and Sons, 1991-Present., p. V15 (95) 1023"
+                                    ],
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null
+                                }
+                            ],
+                            "URL": null,
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        }
+                    ],
+                    "Information": null,
+                    "URL": null,
+                    "Id": 0,
+                    "Section_Id": null,
+                    "Record_Id": null
+                }
+            ],
+            "Information": null,
+            "URL": null,
+            "Id": 0,
+            "Section_Id": null,
+            "Record_Id": null
+        }
+    ],
+    "Id": 0,
+    "RecordTitleCN": "",
+    "Structure": "https://pubchem.ncbi.nlm.nih.gov/image/imgsrv.fcgi?cid=31896&t=l",
+    "InChIKeyList": [
+        "GDWLSAUXTXZYNK-UHFFFAOYSA-N"
+    ],
+    "InChIList": [
+        "InChI=1S/2Mn.8O.Zn/q;;;;;;;;2*-1;+2"
+    ],
+    "MolecularWeightList": [
+        "303.3 g/mol"
+    ],
+    "ChemicalNamesList": [
+        "zinc;dipermanganate"
+    ],
+    "SMILESList": [
+        "[O-][Mn](=O)(=O)=O.[O-][Mn](=O)(=O)=O.[Zn+2]"
+    ],
+    "CasList": [
+        "23414-72-4"
+    ],
+    "MolecularFormulaList": [],
+    "ChemicalSafetyList": [
+        {
+            "Name": "Oxidizer",
+            "Src": "https://pubchem.ncbi.nlm.nih.gov/images/ghs/GHS03.svg"
+        },
+        {
+            "Name": "Health Hazard",
+            "Src": "https://pubchem.ncbi.nlm.nih.gov/images/ghs/GHS08.svg"
+        }
+    ],
+    "source": "https://baike.kingdraw.com/Scripts/app/detail.html?id=31896"
+}

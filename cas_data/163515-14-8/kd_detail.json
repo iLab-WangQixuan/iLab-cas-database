@@ -1,0 +1,2252 @@
+{
+    "RecordType": "CID",
+    "RecordNumber": 13633097,
+    "RecordTitle": "Dimethenamid-P",
+    "Section": [
+        {
+            "TOCHeading": "Structures",
+            "Description": "Structure depictions and information for 2D, 3D, and crystal related",
+            "Information": null,
+            "Section": [],
+            "URL": null,
+            "Id": 0,
+            "Section_Id": null,
+            "Record_Id": null
+        },
+        {
+            "TOCHeading": "Names and Identifiers",
+            "Description": "Record identifiers, synonyms, chemical names, descriptors, etc.",
+            "Information": null,
+            "Section": [
+                {
+                    "TOCHeading": "Computed Descriptors",
+                    "Description": "Descriptors generated from chemical structure input",
+                    "Information": null,
+                    "Section": [
+                        {
+                            "TOCHeading": "IUPAC Name",
+                            "Description": "Chemical name computed from chemical structure that uses International Union of Pure and Applied Chemistry (IUPAC) nomenclature standards.",
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 14,
+                                    "Name": null,
+                                    "Value": {
+                                        "Number": null,
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "StringWithMarkup": [
+                                            {
+                                                "String": "2-chloro-N-(2,4-dimethylthiophen-3-yl)-N-[(2S)-1-methoxypropan-2-yl]acetamide",
+                                                "Markup": [
+                                                    {
+                                                        "Id": null,
+                                                        "StringValue_Id": null,
+                                                        "Start": 9,
+                                                        "Length": 1,
+                                                        "URL": null,
+                                                        "Type": "Italics",
+                                                        "Extra": null
+                                                    },
+                                                    {
+                                                        "Id": null,
+                                                        "StringValue_Id": null,
+                                                        "Start": 39,
+                                                        "Length": 1,
+                                                        "URL": null,
+                                                        "Type": "Italics",
+                                                        "Extra": null
+                                                    },
+                                                    {
+                                                        "Id": null,
+                                                        "StringValue_Id": null,
+                                                        "Start": 44,
+                                                        "Length": 1,
+                                                        "URL": null,
+                                                        "Type": "Italics",
+                                                        "Extra": null
+                                                    }
+                                                ],
+                                                "Id": null,
+                                                "Value_Id": null
+                                            }
+                                        ],
+                                        "ExternalDataURL": null
+                                    },
+                                    "Description": null,
+                                    "URL": null,
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null,
+                                    "Reference": null
+                                }
+                            ],
+                            "Section": [],
+                            "URL": "http://old.iupac.org/publications/books/seriestitles/nomenclature.html",
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "InChI",
+                            "Description": "International Chemical Identifier (InChI) computed from chemical structure using the International Union of Pure and Applied Chemistry (IUPAC) standard.",
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 14,
+                                    "Name": null,
+                                    "Value": {
+                                        "Number": null,
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "StringWithMarkup": [
+                                            {
+                                                "String": "InChI=1S/C12H18ClNO2S/c1-8-7-17-10(3)12(8)14(11(15)5-13)9(2)6-16-4/h7,9H,5-6H2,1-4H3/t9-/m0/s1",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            }
+                                        ],
+                                        "ExternalDataURL": null
+                                    },
+                                    "Description": null,
+                                    "URL": null,
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null,
+                                    "Reference": null
+                                }
+                            ],
+                            "Section": [],
+                            "URL": "http://www.iupac.org/home/publications/e-resources/inchi.html",
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "InChI Key",
+                            "Description": "International Chemical Identifier hash (InChIKey) computed from chemical structure using the International Union of Pure and Applied Chemistry (IUPAC) standard.",
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 14,
+                                    "Name": null,
+                                    "Value": {
+                                        "Number": null,
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "StringWithMarkup": [
+                                            {
+                                                "String": "JLYFCTQDENRSOL-VIFPVBQESA-N",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            }
+                                        ],
+                                        "ExternalDataURL": null
+                                    },
+                                    "Description": null,
+                                    "URL": null,
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null,
+                                    "Reference": null
+                                }
+                            ],
+                            "Section": [],
+                            "URL": "http://www.iupac.org/home/publications/e-resources/inchi.html",
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "Canonical SMILES",
+                            "Description": "Simplified Molecular-Input Line-Entry System (SMILES) computed from chemical structure devoid of isotopic and stereochemical information.",
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 14,
+                                    "Name": null,
+                                    "Value": {
+                                        "Number": null,
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "StringWithMarkup": [
+                                            {
+                                                "String": "CC1=CSC(=C1N(C(C)COC)C(=O)CCl)C",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            }
+                                        ],
+                                        "ExternalDataURL": null
+                                    },
+                                    "Description": null,
+                                    "URL": null,
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null,
+                                    "Reference": null
+                                }
+                            ],
+                            "Section": [],
+                            "URL": "http://www.daylight.com/dayhtml/doc/theory/theory.smiles.html",
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        }
+                    ],
+                    "URL": null,
+                    "Id": 0,
+                    "Section_Id": null,
+                    "Record_Id": null
+                },
+                {
+                    "TOCHeading": "Other Identifiers",
+                    "Description": "Important identifiers assigned to this chemical substance by authoritative organizations",
+                    "Information": null,
+                    "Section": [
+                        {
+                            "TOCHeading": "CAS",
+                            "Description": "A proprietary registry number assigned by the Chemical Abstracts Service (CAS) division of the American Chemical Society (ACS) often used to help describe chemical ingredients.",
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 2,
+                                    "Name": null,
+                                    "Value": {
+                                        "Number": null,
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "StringWithMarkup": [
+                                            {
+                                                "String": "163515-14-8",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            }
+                                        ],
+                                        "ExternalDataURL": null
+                                    },
+                                    "Description": null,
+                                    "URL": null,
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null,
+                                    "Reference": null
+                                },
+                                {
+                                    "ReferenceNumber": 4,
+                                    "Name": null,
+                                    "Value": {
+                                        "Number": null,
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "StringWithMarkup": [
+                                            {
+                                                "String": "163515-14-8",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            }
+                                        ],
+                                        "ExternalDataURL": null
+                                    },
+                                    "Description": null,
+                                    "URL": null,
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null,
+                                    "Reference": null
+                                },
+                                {
+                                    "ReferenceNumber": 9,
+                                    "Name": null,
+                                    "Value": {
+                                        "Number": null,
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "StringWithMarkup": [
+                                            {
+                                                "String": "163515-14-8",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            }
+                                        ],
+                                        "ExternalDataURL": null
+                                    },
+                                    "Description": null,
+                                    "URL": null,
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null,
+                                    "Reference": null
+                                },
+                                {
+                                    "ReferenceNumber": 11,
+                                    "Name": null,
+                                    "Value": {
+                                        "Number": null,
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "StringWithMarkup": [
+                                            {
+                                                "String": "163515-14-8",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            }
+                                        ],
+                                        "ExternalDataURL": null
+                                    },
+                                    "Description": null,
+                                    "URL": null,
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null,
+                                    "Reference": null
+                                }
+                            ],
+                            "Section": [],
+                            "URL": "http://en.wikipedia.org/wiki/CAS_Registry_Number",
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "European Community (EC) Number",
+                            "Description": "A seven-digit regulatory identifier currently assigned by the European Chemicals Agency (ECHA) known as a European Community (EC) number.  It is sometimes referred to as an EINECS, ELINCS, or NLP number, which are subsets of an EC number.",
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 9,
+                                    "Name": null,
+                                    "Value": {
+                                        "Number": null,
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "StringWithMarkup": [
+                                            {
+                                                "String": "605-329-9",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            }
+                                        ],
+                                        "ExternalDataURL": null
+                                    },
+                                    "Description": null,
+                                    "URL": "https://echa.europa.eu/substance-information/-/substanceinfo/100.129.702",
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null,
+                                    "Reference": null
+                                }
+                            ],
+                            "Section": [],
+                            "URL": "http://en.wikipedia.org/wiki/European_Community_number",
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "UNII",
+                            "Description": "A non-proprietary registry number assigned by the U.S. Food and Drug Administration (FDA) known as an UNique Ingredient Identifier (UNII) code.",
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 10,
+                                    "Name": "UNII",
+                                    "Value": {
+                                        "Number": null,
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "StringWithMarkup": [
+                                            {
+                                                "String": "9H95J2H62E",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            }
+                                        ],
+                                        "ExternalDataURL": null
+                                    },
+                                    "Description": null,
+                                    "URL": null,
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null,
+                                    "Reference": null
+                                }
+                            ],
+                            "Section": [],
+                            "URL": "http://www.fda.gov/ForIndustry/DataStandards/SubstanceRegistrationSystem-UniqueIngredientIdentifierUNII/",
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "DSSTox Substance ID",
+                            "Description": "Substance identifier at the Distributed Structure-Searchable Toxicity (DSSTox) Database.",
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 4,
+                                    "Name": null,
+                                    "Value": {
+                                        "Number": null,
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "StringWithMarkup": [
+                                            {
+                                                "String": "DTXSID2034542",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            }
+                                        ],
+                                        "ExternalDataURL": null
+                                    },
+                                    "Description": null,
+                                    "URL": "https://comptox.epa.gov/dashboard/DTXSID2034542",
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null,
+                                    "Reference": null
+                                }
+                            ],
+                            "Section": [],
+                            "URL": "https://www.epa.gov/chemical-research/distributed-structure-searchable-toxicity-dsstox-database/",
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "Wikipedia",
+                            "Description": "Links to Wikipedia or wikidata for this record.",
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 13,
+                                    "Name": "Wikipedia",
+                                    "Value": {
+                                        "Number": null,
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "StringWithMarkup": [
+                                            {
+                                                "String": "Dimethenamid-p",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            }
+                                        ],
+                                        "ExternalDataURL": null
+                                    },
+                                    "Description": null,
+                                    "URL": "https://de.wikipedia.org/wiki/Dimethenamid-P",
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null,
+                                    "Reference": null
+                                }
+                            ],
+                            "Section": [],
+                            "URL": null,
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        }
+                    ],
+                    "URL": null,
+                    "Id": 0,
+                    "Section_Id": null,
+                    "Record_Id": null
+                },
+                {
+                    "TOCHeading": "Synonyms",
+                    "Description": "Alternative names for this PubChem Compound record.  A compound can have many different names.  For example, acetone (CH3C(=O)CH3) is also known as propanone, propan-2-one, or dimethyl ketone.  The brand name of a product is commonly used to indicate the primary chemical ingredient(s) in the product (e.g., Tylenol, a common pain killer, is often used for acetaminophen, its active ingredient).  Another example of common synonyms is record identifiers used in different data collections, such as Chemical Abstract Service (CAS) registry numbers, FDA UNII (Unique Ingredient Identifiers), and many others.  All these various names and identifiers that designate this compound are organized under the Synonyms section.",
+                    "Information": null,
+                    "Section": [
+                        {
+                            "TOCHeading": "Depositor-Supplied Synonyms",
+                            "Description": "Chemical names provided by individual data contributors. Synonyms of Substances corresponding to a PubChem Compound record are combined. Some contributed names may be considered erroneous and filtered out. The link on each synonym shows which depositors provided that particular synonym for this structure.",
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 14,
+                                    "Name": null,
+                                    "Value": {
+                                        "Number": null,
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "StringWithMarkup": [
+                                            {
+                                                "String": "Dimethenamid-P",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "Dimethenamide-P",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "163515-14-8",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "Dimethenamid-P [ISO]",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "(S)-dimethenamid",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "UNII-9H95J2H62E",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "CHEBI:83640",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "9H95J2H62E",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "2-chloro-N-(2,4-dimethylthiophen-3-yl)-N-[(2S)-1-methoxypropan-2-yl]acetamide",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "HSDB 7935",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "(+)-dimethenamid",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "DSSTox_CID_14542",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "DSSTox_GSID_34542",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "SCHEMBL18223",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "CHEMBL1903453",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "DTXSID2034542",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "CTK8E8703",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "(S)-2-Chloro-N-(2,4-dimethylthiophen-3-yl)-N-(1-methoxypropan-2-yl)acetamide",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "ZINC6072113",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "Tox21_303923",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "ACETAMIDE,2-CHLORO-N-(2,4-DIMETHYL-3-THIENYL)-N-[(1S)-2-METHOXY-1-METHYLETHYL]-",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "NCGC00163792-01",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "NCGC00357002-01",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "AJ-55647",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "Dimethenamid-P 10 microg/mL in Methanol",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "LS-181884",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "RT-012358",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "CAS-163515-14-8",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "Dimethenamide-P, PESTANAL(R), analytical standard",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "J-010050",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "UNII-8504Z6C4XZ component JLYFCTQDENRSOL-VIFPVBQESA-N",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "(S)-2-Chloro-N-(2,4-dimethyl-2-thienyl)-N-(2-methoxy-1-methylethyl)acetamide",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "2-chloro-n-(2,4-dimethyl-3-thienyl)-n-[(1s)-2-methoxy-1-methylethyl]-acetamide",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "Acetamide, 2-chloro-N-(2,4-dimethyl-3-thienyl)-N-((1S)-2-methoxy-1-methylethyl)-",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            }
+                                        ],
+                                        "ExternalDataURL": null
+                                    },
+                                    "Description": null,
+                                    "URL": null,
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null,
+                                    "Reference": null
+                                }
+                            ],
+                            "Section": [],
+                            "URL": null,
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        }
+                    ],
+                    "URL": null,
+                    "Id": 0,
+                    "Section_Id": null,
+                    "Record_Id": null
+                }
+            ],
+            "URL": null,
+            "Id": 0,
+            "Section_Id": null,
+            "Record_Id": null
+        },
+        {
+            "TOCHeading": "Chemical and Physical Properties",
+            "Description": "Chemical and physical properties such as melting point, molecular weight, etc.",
+            "Information": null,
+            "Section": [
+                {
+                    "TOCHeading": "Computed Properties",
+                    "Description": "Properties computed automatically from the given chemical structure",
+                    "Information": null,
+                    "Section": [
+                        {
+                            "TOCHeading": "Molecular Weight",
+                            "Description": "Molecular weight or molecular mass refers to the mass of a molecule. It is calculated as the sum of the mass of each constituent atom multiplied by the number of atoms of that element in the molecular formula.",
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 14,
+                                    "Name": null,
+                                    "Value": {
+                                        "Number": [
+                                            275.8
+                                        ],
+                                        "Id": 0,
+                                        "Unit": "g/mol",
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "StringWithMarkup": null,
+                                        "ExternalDataURL": null
+                                    },
+                                    "Description": null,
+                                    "URL": null,
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null,
+                                    "Reference": null
+                                }
+                            ],
+                            "Section": [],
+                            "URL": null,
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "XLogP3",
+                            "Description": "Computed Octanol/Water Partition Coefficient",
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 14,
+                                    "Name": "XLogP3-AA",
+                                    "Value": {
+                                        "Number": [
+                                            2.6
+                                        ],
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "StringWithMarkup": null,
+                                        "ExternalDataURL": null
+                                    },
+                                    "Description": null,
+                                    "URL": null,
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null,
+                                    "Reference": null
+                                }
+                            ],
+                            "Section": [],
+                            "URL": null,
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "Hydrogen Bond Donor Count",
+                            "Description": "Hydrogen Bond Donor count",
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 14,
+                                    "Name": null,
+                                    "Value": {
+                                        "Number": [
+                                            0
+                                        ],
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "StringWithMarkup": null,
+                                        "ExternalDataURL": null
+                                    },
+                                    "Description": null,
+                                    "URL": null,
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null,
+                                    "Reference": null
+                                }
+                            ],
+                            "Section": [],
+                            "URL": null,
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "Hydrogen Bond Acceptor Count",
+                            "Description": "Hydrogen Bond Acceptor count",
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 14,
+                                    "Name": null,
+                                    "Value": {
+                                        "Number": [
+                                            3
+                                        ],
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "StringWithMarkup": null,
+                                        "ExternalDataURL": null
+                                    },
+                                    "Description": null,
+                                    "URL": null,
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null,
+                                    "Reference": null
+                                }
+                            ],
+                            "Section": [],
+                            "URL": null,
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "Rotatable Bond Count",
+                            "Description": "Rotatable bond is defined as any single non-ring bond, bounded to nonterminal heavy (i.e., non-hydrogen) atom.",
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 14,
+                                    "Name": null,
+                                    "Value": {
+                                        "Number": [
+                                            5
+                                        ],
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "StringWithMarkup": null,
+                                        "ExternalDataURL": null
+                                    },
+                                    "Description": null,
+                                    "URL": null,
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null,
+                                    "Reference": null
+                                }
+                            ],
+                            "Section": [],
+                            "URL": null,
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "Exact Mass",
+                            "Description": "The exact mass of an isotopic species is obtained by summing the masses of the individual isotopes of the molecule.",
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 14,
+                                    "Name": null,
+                                    "Value": {
+                                        "Number": [
+                                            275.074678
+                                        ],
+                                        "Id": 0,
+                                        "Unit": "g/mol",
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "StringWithMarkup": null,
+                                        "ExternalDataURL": null
+                                    },
+                                    "Description": null,
+                                    "URL": null,
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null,
+                                    "Reference": null
+                                }
+                            ],
+                            "Section": [],
+                            "URL": null,
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "Monoisotopic Mass",
+                            "Description": "The monoisotopic mass is the sum of the masses of the atoms in a molecule using the unbound, ground-state, rest mass of the principal (most abundant) isotope for each element instead of the isotopic average mass.",
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 14,
+                                    "Name": null,
+                                    "Value": {
+                                        "Number": [
+                                            275.074678
+                                        ],
+                                        "Id": 0,
+                                        "Unit": "g/mol",
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "StringWithMarkup": null,
+                                        "ExternalDataURL": null
+                                    },
+                                    "Description": null,
+                                    "URL": null,
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null,
+                                    "Reference": null
+                                }
+                            ],
+                            "Section": [],
+                            "URL": null,
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "Topological Polar Surface Area",
+                            "Description": "The topological polar surface area (TPSA) of a molecule is defined as the surface sum over all polar atoms in a molecule. ",
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 14,
+                                    "Name": null,
+                                    "Value": {
+                                        "Number": [
+                                            57.8
+                                        ],
+                                        "Id": 0,
+                                        "Unit": "A^2",
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "StringWithMarkup": null,
+                                        "ExternalDataURL": null
+                                    },
+                                    "Description": null,
+                                    "URL": null,
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null,
+                                    "Reference": null
+                                }
+                            ],
+                            "Section": [],
+                            "URL": null,
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "Heavy Atom Count",
+                            "Description": "A heavy atom is defined as any atom except hydrogen in a chemical structure.",
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 14,
+                                    "Name": null,
+                                    "Value": {
+                                        "Number": [
+                                            17
+                                        ],
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "StringWithMarkup": null,
+                                        "ExternalDataURL": null
+                                    },
+                                    "Description": null,
+                                    "URL": null,
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null,
+                                    "Reference": null
+                                }
+                            ],
+                            "Section": [],
+                            "URL": null,
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "Formal Charge",
+                            "Description": "Formal charge is the difference between the number of valence electrons of each atom and the number of electrons the atom is associated with. Formal charge assumes any shared electrons are equally shared between the two bonded atoms.",
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 14,
+                                    "Name": null,
+                                    "Value": {
+                                        "Number": [
+                                            0
+                                        ],
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "StringWithMarkup": null,
+                                        "ExternalDataURL": null
+                                    },
+                                    "Description": null,
+                                    "URL": null,
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null,
+                                    "Reference": null
+                                }
+                            ],
+                            "Section": [],
+                            "URL": null,
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "Complexity",
+                            "Description": "The complexity rating of a compound is a rough estimate of how complicated a structure is, seen from both the point of view of the elements contained and the displayed structural features including symmetry. This complexity rating is computed using the Bertz/Hendrickson/Ihlenfeldt formula.",
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 14,
+                                    "Name": null,
+                                    "Value": {
+                                        "Number": [
+                                            265
+                                        ],
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "StringWithMarkup": null,
+                                        "ExternalDataURL": null
+                                    },
+                                    "Description": null,
+                                    "URL": null,
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null,
+                                    "Reference": null
+                                }
+                            ],
+                            "Section": [],
+                            "URL": null,
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "Isotope Atom Count",
+                            "Description": "Isotopte Atom Count is the number of isotopes that are not most abundant for the corresponding chemical elements.  Isotopes are variants of a chemical element which differ in neutron number.  For example, among three isotopes of carbon (i.e., C-12, C-13, and C-14), the isotope atom count considers the C-13 and C-14 atoms, because C-12 is the most abundant isotope of carbon.",
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 14,
+                                    "Name": null,
+                                    "Value": {
+                                        "Number": [
+                                            0
+                                        ],
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "StringWithMarkup": null,
+                                        "ExternalDataURL": null
+                                    },
+                                    "Description": null,
+                                    "URL": null,
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null,
+                                    "Reference": null
+                                }
+                            ],
+                            "Section": [],
+                            "URL": null,
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "Defined Atom Stereocenter Count",
+                            "Description": "An atom stereocenter, also known as a chiral center, is an atom that is attached to four different types of atoms (or groups of atoms) in the tetrahedral arrangement. It can have either (R)- or (S)- configurations.  Some compounds, such as racemic mixtures, have an undefined atom stereocenter, whose (R/S)-configuration is not specifically defined.",
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 14,
+                                    "Name": null,
+                                    "Value": {
+                                        "Number": [
+                                            1
+                                        ],
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "StringWithMarkup": null,
+                                        "ExternalDataURL": null
+                                    },
+                                    "Description": null,
+                                    "URL": null,
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null,
+                                    "Reference": null
+                                }
+                            ],
+                            "Section": [],
+                            "URL": null,
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "Undefined Atom Stereocenter Count",
+                            "Description": "An atom stereocenter, also known as a chiral center, is an atom that is attached to four different types of atoms (or groups of atoms) in the tetrahedral arrangement. It can have either (R)- or (S)- configurations.  Some compounds, such as racemic mixtures, have an undefined atom stereocenter, whose (R/S)-configuration is not specifically defined.",
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 14,
+                                    "Name": null,
+                                    "Value": {
+                                        "Number": [
+                                            0
+                                        ],
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "StringWithMarkup": null,
+                                        "ExternalDataURL": null
+                                    },
+                                    "Description": null,
+                                    "URL": null,
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null,
+                                    "Reference": null
+                                }
+                            ],
+                            "Section": [],
+                            "URL": null,
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "Defined Bond Stereocenter Count",
+                            "Description": "A bond stereocenter is a non-rotatable bond around which two atoms can have different arrangement (as in cis- and trans-forms of butene around its double bond).  Some compounds have an undefined bond stereocenter, whose stereochemistry is not specifically defined.",
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 14,
+                                    "Name": null,
+                                    "Value": {
+                                        "Number": [
+                                            0
+                                        ],
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "StringWithMarkup": null,
+                                        "ExternalDataURL": null
+                                    },
+                                    "Description": null,
+                                    "URL": null,
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null,
+                                    "Reference": null
+                                }
+                            ],
+                            "Section": [],
+                            "URL": null,
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "Undefined Bond Stereocenter Count",
+                            "Description": "A bond stereocenter is a non-rotatable bond around which two atoms can have different arrangement (as in cis- and trans-forms of butene around its double bond).  Some compounds have an undefined bond stereocenter, whose stereochemistry is not specifically defined.",
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 14,
+                                    "Name": null,
+                                    "Value": {
+                                        "Number": [
+                                            0
+                                        ],
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "StringWithMarkup": null,
+                                        "ExternalDataURL": null
+                                    },
+                                    "Description": null,
+                                    "URL": null,
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null,
+                                    "Reference": null
+                                }
+                            ],
+                            "Section": [],
+                            "URL": null,
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "Covalently-Bonded Unit Count",
+                            "Description": "Covalently-Bonded Unit Count ",
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 14,
+                                    "Name": null,
+                                    "Value": {
+                                        "Number": [
+                                            1
+                                        ],
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "StringWithMarkup": null,
+                                        "ExternalDataURL": null
+                                    },
+                                    "Description": null,
+                                    "URL": null,
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null,
+                                    "Reference": null
+                                }
+                            ],
+                            "Section": [],
+                            "URL": null,
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "Compound Is Canonicalized",
+                            "Description": "Compound is canonicalized",
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 14,
+                                    "Name": null,
+                                    "Value": {
+                                        "Number": null,
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "StringWithMarkup": [
+                                            {
+                                                "String": "Yes",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            }
+                                        ],
+                                        "ExternalDataURL": null
+                                    },
+                                    "Description": null,
+                                    "URL": null,
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null,
+                                    "Reference": null
+                                }
+                            ],
+                            "Section": [],
+                            "URL": null,
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        }
+                    ],
+                    "URL": null,
+                    "Id": 0,
+                    "Section_Id": null,
+                    "Record_Id": null
+                },
+                {
+                    "TOCHeading": "Experimental Properties",
+                    "Description": "Properties determined experimentally (See also Safety and Hazard Properties section for more information if available)",
+                    "Information": null,
+                    "Section": [
+                        {
+                            "TOCHeading": "Color/Form",
+                            "Description": "Physical description - color",
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 11,
+                                    "Name": null,
+                                    "Value": {
+                                        "Number": null,
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "StringWithMarkup": [
+                                            {
+                                                "String": "Faintly yellow viscous liquid",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            }
+                                        ],
+                                        "ExternalDataURL": null
+                                    },
+                                    "Description": "PEER REVIEWED",
+                                    "URL": null,
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null,
+                                    "Reference": [
+                                        "O'Neil, M.J. (ed.). The Merck Index - An Encyclopedia of Chemicals, Drugs, and Biologicals. Cambridge, UK:  Royal Society of Chemistry, 2013., p. 585"
+                                    ]
+                                },
+                                {
+                                    "ReferenceNumber": 11,
+                                    "Name": null,
+                                    "Value": {
+                                        "Number": null,
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "StringWithMarkup": [
+                                            {
+                                                "String": "Yellow-brown, clear liquid",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            }
+                                        ],
+                                        "ExternalDataURL": null
+                                    },
+                                    "Description": "PEER REVIEWED",
+                                    "URL": null,
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null,
+                                    "Reference": [
+                                        "MacBean C, ed; e-Pesticide Manual. 15th ed., ver. 5.1, Alton, UK: British Crop Protection Council. Dimethenamid-P (163505-14-8) (2008-2010)"
+                                    ]
+                                },
+                                {
+                                    "ReferenceNumber": 11,
+                                    "Name": null,
+                                    "Value": {
+                                        "Number": null,
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "StringWithMarkup": [
+                                            {
+                                                "String": "Dark brown liquid",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            }
+                                        ],
+                                        "ExternalDataURL": null
+                                    },
+                                    "Description": "PEER REVIEWED",
+                                    "URL": null,
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null,
+                                    "Reference": [
+                                        "Crop Protection Handbook Volume 100, Meister Media Worldwide, Willoughby, OH 2014, p. 254"
+                                    ]
+                                }
+                            ],
+                            "Section": [],
+                            "URL": null,
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "Odor",
+                            "Description": "Physical description - odor",
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 11,
+                                    "Name": null,
+                                    "Value": {
+                                        "Number": null,
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "StringWithMarkup": [
+                                            {
+                                                "String": "Aromatic",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            }
+                                        ],
+                                        "ExternalDataURL": null
+                                    },
+                                    "Description": "PEER REVIEWED",
+                                    "URL": null,
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null,
+                                    "Reference": [
+                                        "Crop Protection Handbook Volume 100, Meister Media Worldwide, Willoughby, OH 2014, p. 254"
+                                    ]
+                                },
+                                {
+                                    "ReferenceNumber": 11,
+                                    "Name": null,
+                                    "Value": {
+                                        "Number": null,
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "StringWithMarkup": [
+                                            {
+                                                "String": "Faint aromatic odor",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            }
+                                        ],
+                                        "ExternalDataURL": null
+                                    },
+                                    "Description": "PEER REVIEWED",
+                                    "URL": null,
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null,
+                                    "Reference": [
+                                        "European Commission; Review report for the active substance dimethenamid-p. SANCO/1402/2001-Final (3 July 2003). Available form, as of Aug 10, 2018: http://europa.eu/geninfo/query/index.do?swlang=en"
+                                    ]
+                                }
+                            ],
+                            "Section": [],
+                            "URL": null,
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "Boiling Point",
+                            "Description": "The boiling point of a substance is the temperature at which the vapor pressure of the liquid equals the pressure surrounding the liquid and the liquid changes into a vapor",
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 11,
+                                    "Name": null,
+                                    "Value": {
+                                        "Number": null,
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "StringWithMarkup": [
+                                            {
+                                                "String": ">= 280 °C",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            }
+                                        ],
+                                        "ExternalDataURL": null
+                                    },
+                                    "Description": "PEER REVIEWED",
+                                    "URL": null,
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null,
+                                    "Reference": [
+                                        "APVMA; Evaluation of the active DIMETHENAMID - P in the product FRONTIER - P HERBICIDE, August 2007. Australian Pesticides and Veterinary Medicines Authority, Canberra, Australia. Available from, as of Aug 10, 2018: https://apvma.gov.au/sites/default/files/publication/13671-prs-dimethenamid-p.pdf"
+                                    ]
+                                }
+                            ],
+                            "Section": [],
+                            "URL": null,
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "Melting Point",
+                            "Description": "The melting point is the temperature at which a substance changes state from solid to liquid at atmospheric pressure. When considered as the temperature of the reverse change, from liquid to solid, it is referred to as the freezing point.",
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 11,
+                                    "Name": null,
+                                    "Value": {
+                                        "Number": null,
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "StringWithMarkup": [
+                                            {
+                                                "String": "<-50 °C",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            }
+                                        ],
+                                        "ExternalDataURL": null
+                                    },
+                                    "Description": "PEER REVIEWED",
+                                    "URL": null,
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null,
+                                    "Reference": [
+                                        "MacBean C, ed; e-Pesticide Manual. 15th ed., ver. 5.1, Alton, UK: British Crop Protection Council. Dimethenamid-P (163505-14-8) (2008-2010)"
+                                    ]
+                                }
+                            ],
+                            "Section": [],
+                            "URL": null,
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "Solubility",
+                            "Description": "The solubility of a substance is the amount of that substance that will dissolve in a given amount of solvent. The default solvent is water, if not indicated.",
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 11,
+                                    "Name": null,
+                                    "Value": {
+                                        "Number": null,
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "StringWithMarkup": [
+                                            {
+                                                "String": "In water, 1449 mg/L at 25 °C",
+                                                "Markup": [
+                                                    {
+                                                        "Id": null,
+                                                        "StringValue_Id": null,
+                                                        "Start": 3,
+                                                        "Length": 5,
+                                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                                                        "Type": "PubChem Internal Link",
+                                                        "Extra": "CID-962"
+                                                    }
+                                                ],
+                                                "Id": null,
+                                                "Value_Id": null
+                                            }
+                                        ],
+                                        "ExternalDataURL": null
+                                    },
+                                    "Description": "PEER REVIEWED",
+                                    "URL": null,
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null,
+                                    "Reference": [
+                                        "MacBean C, ed; e-Pesticide Manual. 15th ed., ver. 5.1, Alton, UK: British Crop Protection Council. Dimethenamid-P (163505-14-8) (2008-2010)"
+                                    ]
+                                },
+                                {
+                                    "ReferenceNumber": 11,
+                                    "Name": null,
+                                    "Value": {
+                                        "Number": null,
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "StringWithMarkup": [
+                                            {
+                                                "String": "In hexane 20.8 g/100 mL; miscible with acetone, acetonitrile, toluene, and n-octanol (all at 25 °C)",
+                                                "Markup": [
+                                                    {
+                                                        "Id": null,
+                                                        "StringValue_Id": null,
+                                                        "Start": 3,
+                                                        "Length": 6,
+                                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/hexane",
+                                                        "Type": "PubChem Internal Link",
+                                                        "Extra": "CID-8058"
+                                                    },
+                                                    {
+                                                        "Id": null,
+                                                        "StringValue_Id": null,
+                                                        "Start": 39,
+                                                        "Length": 7,
+                                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/acetone",
+                                                        "Type": "PubChem Internal Link",
+                                                        "Extra": "CID-180"
+                                                    },
+                                                    {
+                                                        "Id": null,
+                                                        "StringValue_Id": null,
+                                                        "Start": 48,
+                                                        "Length": 12,
+                                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/acetonitrile",
+                                                        "Type": "PubChem Internal Link",
+                                                        "Extra": "CID-6342"
+                                                    },
+                                                    {
+                                                        "Id": null,
+                                                        "StringValue_Id": null,
+                                                        "Start": 62,
+                                                        "Length": 7,
+                                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/toluene",
+                                                        "Type": "PubChem Internal Link",
+                                                        "Extra": "CID-1140"
+                                                    },
+                                                    {
+                                                        "Id": null,
+                                                        "StringValue_Id": null,
+                                                        "Start": 75,
+                                                        "Length": 9,
+                                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/n-octanol",
+                                                        "Type": "PubChem Internal Link",
+                                                        "Extra": "CID-957"
+                                                    }
+                                                ],
+                                                "Id": null,
+                                                "Value_Id": null
+                                            }
+                                        ],
+                                        "ExternalDataURL": null
+                                    },
+                                    "Description": "PEER REVIEWED",
+                                    "URL": null,
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null,
+                                    "Reference": [
+                                        "MacBean C, ed; e-Pesticide Manual. 15th ed., ver. 5.1, Alton, UK: British Crop Protection Council. Dimethenamid-P (163505-14-8) (2008-2010)"
+                                    ]
+                                }
+                            ],
+                            "Section": [],
+                            "URL": null,
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "Density",
+                            "Description": "The density of a substance is its mass per unit volume.",
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 11,
+                                    "Name": null,
+                                    "Value": {
+                                        "Number": null,
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "StringWithMarkup": [
+                                            {
+                                                "String": "1.195 at 25 °C",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            }
+                                        ],
+                                        "ExternalDataURL": null
+                                    },
+                                    "Description": "PEER REVIEWED",
+                                    "URL": null,
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null,
+                                    "Reference": [
+                                        "MMacBean C, ed; e-Pesticide Manual. 15th ed., ver. 5.1, Alton, UK: British Crop Protection Council. Dimethenamid-P (163505-14-8) (2008-2010)"
+                                    ]
+                                }
+                            ],
+                            "Section": [],
+                            "URL": null,
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "Vapor Pressure",
+                            "Description": "Vapor pressure is the pressure of a vapor in thermodynamic equilibrium with its condensed phases in a closed system.",
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 11,
+                                    "Name": null,
+                                    "Value": {
+                                        "Number": null,
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "StringWithMarkup": [
+                                            {
+                                                "String": "1.83X10-5 mm Hg /2.51 mPa/ at 25 °C",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            }
+                                        ],
+                                        "ExternalDataURL": null
+                                    },
+                                    "Description": "PEER REVIEWED",
+                                    "URL": null,
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null,
+                                    "Reference": [
+                                        "MacBean C, ed; e-Pesticide Manual. 15th ed., ver. 5.1, Alton, UK: British Crop Protection Council. Dimethenamid-P (163505-14-8) (2008-2010)"
+                                    ]
+                                }
+                            ],
+                            "Section": [],
+                            "URL": null,
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "Octanol/Water Partition Coefficient",
+                            "Description": "Octanol/Water Partition Coefficient, used as a measure of molecular lipophilicity",
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 11,
+                                    "Name": null,
+                                    "Value": {
+                                        "Number": null,
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "StringWithMarkup": [
+                                            {
+                                                "String": "log Kow = 1.89",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            }
+                                        ],
+                                        "ExternalDataURL": null
+                                    },
+                                    "Description": "PEER REVIEWED",
+                                    "URL": null,
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null,
+                                    "Reference": [
+                                        "MacBean C, ed; e-Pesticide Manual. 15th ed., ver. 5.1, Alton, UK: British Crop Protection Council. Dimethenamid-P (163505-14-8) (2008-2010)"
+                                    ]
+                                }
+                            ],
+                            "Section": [],
+                            "URL": null,
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "Stability/Shelf Life",
+                            "Description": "Tendency of a material to resist change or decomposition due to internal reaction, or due to the action of air, heat, light, pressure, etc. (See also Stability and Reactivity section under Safety and Hazards)",
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 11,
+                                    "Name": null,
+                                    "Value": {
+                                        "Number": null,
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "StringWithMarkup": [
+                                            {
+                                                "String": "Stable under recommended storage conditions.",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            }
+                                        ],
+                                        "ExternalDataURL": null
+                                    },
+                                    "Description": "PEER REVIEWED",
+                                    "URL": null,
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null,
+                                    "Reference": [
+                                        "Sigma-Aldrich; Safety Data Sheet for Dimethenamid-P. Product Number: 33697, Version 5.3 (Revision Date 10/20/2016). Available from, as of July 16, 2018: http://www.sigmaaldrich.com/safety-center.html"
+                                    ]
+                                }
+                            ],
+                            "Section": [],
+                            "URL": null,
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "Decomposition",
+                            "Description": "The decomposition temperature of a substance is the temperature at which the substance chemically decomposes",
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 11,
+                                    "Name": null,
+                                    "Value": {
+                                        "Number": null,
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "StringWithMarkup": [
+                                            {
+                                                "String": "Hazardous decomposition products formed under fire conditions: Carbon oxides, nitrogen oxides (NOx), sulfur oxides, hydrogen chloride gas.",
+                                                "Markup": [
+                                                    {
+                                                        "Id": null,
+                                                        "StringValue_Id": null,
+                                                        "Start": 116,
+                                                        "Length": 17,
+                                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/hydrogen%20chloride",
+                                                        "Type": "PubChem Internal Link",
+                                                        "Extra": "CID-313"
+                                                    }
+                                                ],
+                                                "Id": null,
+                                                "Value_Id": null
+                                            }
+                                        ],
+                                        "ExternalDataURL": null
+                                    },
+                                    "Description": "PEER REVIEWED",
+                                    "URL": null,
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null,
+                                    "Reference": [
+                                        "Sigma-Aldrich; Safety Data Sheet for Dimethenamid-P. Product Number: 33697, Version 5.3 (Revision Date 10/20/2016). Available from, as of July 16, 2018: http://www.sigmaaldrich.com/safety-center.html"
+                                    ]
+                                }
+                            ],
+                            "Section": [],
+                            "URL": null,
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "Viscosity",
+                            "Description": "Viscosity is a measure of a fluid's resistance to flow. It describes the internal friction of a moving fluid.",
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 11,
+                                    "Name": null,
+                                    "Value": {
+                                        "Number": null,
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "StringWithMarkup": [
+                                            {
+                                                "String": "25.6 cPs at 25 °C",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            }
+                                        ],
+                                        "ExternalDataURL": null
+                                    },
+                                    "Description": "PEER REVIEWED",
+                                    "URL": null,
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null,
+                                    "Reference": [
+                                        "CA DPR; California Department of Pesticide Regulation Public Report 2007-2. Dimethenamid-P.  Tracking ID Number 218783 (2007). Available from, as of Aug 10, 2018: https://www.cdpr.ca.gov/docs/registration/ais/publicreports/5919.pdf"
+                                    ]
+                                }
+                            ],
+                            "Section": [],
+                            "URL": null,
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "Corrosivity",
+                            "Description": "A measure of a corrosive substance that will destroy and damage other substances with which it comes into contact",
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 11,
+                                    "Name": null,
+                                    "Value": {
+                                        "Number": null,
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "StringWithMarkup": [
+                                            {
+                                                "String": "Non-corrosive for 2 years in HDPE /high density polyethylene/ and stainless steel containers at 5 °C",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            }
+                                        ],
+                                        "ExternalDataURL": null
+                                    },
+                                    "Description": "PEER REVIEWED",
+                                    "URL": null,
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null,
+                                    "Reference": [
+                                        "CA DPR; California Department of Pesticide Regulation Public Report 2007-2. Dimethenamid-P.  Tracking ID Number 218783 (2007). Available from, as of Aug 10, 2018: https://www.cdpr.ca.gov/docs/registration/ais/publicreports/5919.pdf"
+                                    ]
+                                }
+                            ],
+                            "Section": [],
+                            "URL": null,
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "Other Experimental Properties",
+                            "Description": "Additional property information.",
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 11,
+                                    "Name": null,
+                                    "Value": {
+                                        "Number": null,
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "StringWithMarkup": [
+                                            {
+                                                "String": "BP: 122.6 °C at 0.07 mm Hg",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            }
+                                        ],
+                                        "ExternalDataURL": null
+                                    },
+                                    "Description": "PEER REVIEWED",
+                                    "URL": null,
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null,
+                                    "Reference": [
+                                        "MacBean C, ed; e-Pesticide Manual. 15th ed., ver. 5.1, Alton, UK: British Crop Protection Council. Dimethenamid-P (163505-14-8) (2008-2010)"
+                                    ]
+                                },
+                                {
+                                    "ReferenceNumber": 11,
+                                    "Name": null,
+                                    "Value": {
+                                        "Number": null,
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "StringWithMarkup": [
+                                            {
+                                                "String": "Henry's Law constant = 4.7X10-9 atm-cu m/mol at 25 °C (estimated from vapor pressure and water solubility)",
+                                                "Markup": [
+                                                    {
+                                                        "Id": null,
+                                                        "StringValue_Id": null,
+                                                        "Start": 89,
+                                                        "Length": 5,
+                                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                                                        "Type": "PubChem Internal Link",
+                                                        "Extra": "CID-962"
+                                                    }
+                                                ],
+                                                "Id": null,
+                                                "Value_Id": null
+                                            }
+                                        ],
+                                        "ExternalDataURL": null
+                                    },
+                                    "Description": "PEER REVIEWED",
+                                    "URL": null,
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null,
+                                    "Reference": [
+                                        "US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.11. Nov, 2012. Available from, as of August 10, 2018: http://www2.epa.gov/tsca-screening-tools"
+                                    ]
+                                },
+                                {
+                                    "ReferenceNumber": 11,
+                                    "Name": null,
+                                    "Value": {
+                                        "Number": null,
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "StringWithMarkup": [
+                                            {
+                                                "String": "Hydroxyl radical reaction rate constant = 5.2X10-11 cu-cm/molc sec at 25 °C (est)",
+                                                "Markup": [
+                                                    {
+                                                        "Id": null,
+                                                        "StringValue_Id": null,
+                                                        "Start": 0,
+                                                        "Length": 8,
+                                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Hydroxyl",
+                                                        "Type": "PubChem Internal Link",
+                                                        "Extra": "CID-961"
+                                                    }
+                                                ],
+                                                "Id": null,
+                                                "Value_Id": null
+                                            }
+                                        ],
+                                        "ExternalDataURL": null
+                                    },
+                                    "Description": "PEER REVIEWED",
+                                    "URL": null,
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null,
+                                    "Reference": [
+                                        "US EPA; Estimation Program Interface (EPI) Suite. Ver. 4.11. Nov, 2012. Available from, as of August 10, 2018: http://www2.epa.gov/tsca-screening-tools"
+                                    ]
+                                }
+                            ],
+                            "Section": [],
+                            "URL": null,
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        }
+                    ],
+                    "URL": null,
+                    "Id": 0,
+                    "Section_Id": null,
+                    "Record_Id": null
+                }
+            ],
+            "URL": null,
+            "Id": 0,
+            "Section_Id": null,
+            "Record_Id": null
+        },
+        {
+            "TOCHeading": "Spectral Information",
+            "Description": "Spectral data for chemical compounds",
+            "Information": null,
+            "Section": [
+                {
+                    "TOCHeading": "UV Spectra",
+                    "Description": "Ultraviolet (UV) spectroscopy refers to absorption spectroscopy or reflectance spectroscopy in the ultraviolet spectral region.",
+                    "Information": [
+                        {
+                            "ReferenceNumber": 11,
+                            "Name": null,
+                            "Value": {
+                                "Number": null,
+                                "Id": 0,
+                                "Unit": null,
+                                "InformationItem_Id": null,
+                                "ExternalTableName": null,
+                                "ExternalTableNumRows": null,
+                                "StringWithMarkup": [
+                                    {
+                                        "String": "UV/VIS absorption (max.): 7560 at 236nm, l x Mol-1 x cm-1 (99.4%)",
+                                        "Markup": null,
+                                        "Id": null,
+                                        "Value_Id": null
+                                    }
+                                ],
+                                "ExternalDataURL": null
+                            },
+                            "Description": "PEER REVIEWED",
+                            "URL": null,
+                            "Id": 0,
+                            "SectionItem_Id": null,
+                            "Unit": null,
+                            "Reference": [
+                                "European Commission; Review report for the active substance dimethenamid-p. SANCO/1402/2001-Final (3 July 2003). Available form, as of Aug 10, 2018: http://europa.eu/geninfo/query/index.do?swlang=en"
+                            ]
+                        }
+                    ],
+                    "Section": [],
+                    "URL": null,
+                    "Id": 0,
+                    "Section_Id": null,
+                    "Record_Id": null
+                }
+            ],
+            "URL": null,
+            "Id": 0,
+            "Section_Id": null,
+            "Record_Id": null
+        }
+    ],
+    "Id": 0,
+    "RecordTitleCN": "",
+    "Structure": "https://pubchem.ncbi.nlm.nih.gov/image/imgsrv.fcgi?cid=13633097&t=l",
+    "InChIKeyList": [
+        "JLYFCTQDENRSOL-VIFPVBQESA-N"
+    ],
+    "InChIList": [
+        "InChI=1S/C12H18ClNO2S/c1-8-7-17-10(3)12(8)14(11(15)5-13)9(2)6-16-4/h7,9H,5-6H2,1-4H3/t9-/m0/s1"
+    ],
+    "MolecularWeightList": [
+        "275.8 g/mol"
+    ],
+    "ChemicalNamesList": [
+        "2-chloro-N-(2,4-dimethylthiophen-3-yl)-N-[(2S)-1-methoxypropan-2-yl]acetamide"
+    ],
+    "SMILESList": [
+        "CC1=CSC(=C1N(C(C)COC)C(=O)CCl)C"
+    ],
+    "CasList": [
+        "163515-14-8"
+    ],
+    "MolecularFormulaList": [],
+    "ChemicalSafetyList": [
+        {
+            "Name": "Irritant",
+            "Src": "https://pubchem.ncbi.nlm.nih.gov/images/ghs/GHS07.svg"
+        },
+        {
+            "Name": "Environmental Hazard",
+            "Src": "https://pubchem.ncbi.nlm.nih.gov/images/ghs/GHS09.svg"
+        },
+        {
+            "Name": "Acute Toxic",
+            "Src": "https://pubchem.ncbi.nlm.nih.gov/images/ghs/GHS06.svg"
+        },
+        {
+            "Name": "Health Hazard",
+            "Src": "https://pubchem.ncbi.nlm.nih.gov/images/ghs/GHS08.svg"
+        }
+    ],
+    "source": "https://baike.kingdraw.com/Scripts/app/detail.html?id=13633097"
+}

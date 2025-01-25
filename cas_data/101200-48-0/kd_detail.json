@@ -1,0 +1,3087 @@
+{
+    "Id": 0,
+    "RecordType": "CID",
+    "RecordNumber": 153909,
+    "RecordTitle": "苯磺隆;2-[N-(4-甲氧基-6-甲基-1,3,5-三嗪-2-基)-N-甲基氨基甲酰胺基磺酰基]苯甲酸甲酯;Tribenuron-methyl",
+    "RecordTitleCN": "苯磺隆;2-[N-(4-甲氧基-6-甲基-1,3,5-三嗪-2-基)-N-甲基氨基甲酰胺基磺酰基]苯甲酸甲酯",
+    "Structure": "https://pubchem.ncbi.nlm.nih.gov/image/imgsrv.fcgi?cid=153909&t=l",
+    "InChIKeyList": [
+        "VLCQZHSMCYCDJL-UHFFFAOYSA-N"
+    ],
+    "InChIList": [
+        "InChI=1S/C15H17N5O6S/c1-9-16-13(18-14(17-9)26-4)20(2)15(22)19-27(23,24)11-8-6-5-7-10(11)12(21)25-3/h5-8H,1-4H3,(H,19,22)"
+    ],
+    "MolecularWeightList": [
+        "395.4 g/mol"
+    ],
+    "ChemicalNamesList": [
+        "methyl 2-[[(4-methoxy-6-methyl-1,3,5-triazin-2-yl)-methylcarbamoyl]sulfamoyl]benzoate"
+    ],
+    "SMILESList": [
+        "CC1=NC(=NC(=N1)OC)N(C)C(=O)NS(=O)(=O)C2=CC=CC=C2C(=O)OC"
+    ],
+    "CasList": [
+        "101200-48-0"
+    ],
+    "MolecularFormulaList": [],
+    "ChemicalSafetyList": [
+        {
+            "Name": "Irritant",
+            "Src": "https://pubchem.ncbi.nlm.nih.gov/images/ghs/GHS07.svg"
+        },
+        {
+            "Name": "Environmental Hazard",
+            "Src": "https://pubchem.ncbi.nlm.nih.gov/images/ghs/GHS09.svg"
+        }
+    ],
+    "Section": [
+        {
+            "TOCHeading": "Structures",
+            "Description": "Structure depictions and information for 2D, 3D, and crystal related",
+            "Information": null,
+            "Section": [
+                {
+                    "TOCHeading": "Crystal Structures",
+                    "Description": "This section provides links to crystallographic information in the Cambridge Structural Database (CSD) hosted by the Cambridge Crystallographic Data Centre (CCDC).",
+                    "Information": null,
+                    "Section": [],
+                    "URL": "https://www.ccdc.cam.ac.uk/pages/Home.aspx",
+                    "Id": 0,
+                    "Section_Id": null,
+                    "Record_Id": null
+                }
+            ],
+            "URL": null,
+            "Id": 0,
+            "Section_Id": null,
+            "Record_Id": null
+        },
+        {
+            "TOCHeading": "Names and Identifiers",
+            "Description": "Record identifiers, synonyms, chemical names, descriptors, etc.",
+            "Information": null,
+            "Section": [
+                {
+                    "TOCHeading": "Computed Descriptors",
+                    "Description": "Descriptors generated from chemical structure input",
+                    "Information": null,
+                    "Section": [
+                        {
+                            "TOCHeading": "IUPAC Name",
+                            "Description": "Chemical name computed from chemical structure that uses International Union of Pure and Applied Chemistry (IUPAC) nomenclature standards.",
+                            "Information": [
+                                {
+                                    "Id": 0,
+                                    "ReferenceNumber": 28,
+                                    "SectionItem_Id": null,
+                                    "Value": {
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "Number": null,
+                                        "ExternalTableNumRows": null,
+                                        "StringWithMarkup": [
+                                            {
+                                                "Id": null,
+                                                "String": "methyl 2-[[(4-methoxy-6-methyl-1,3,5-triazin-2-yl)-methylcarbamoyl]sulfamoyl]benzoate",
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            }
+                                        ],
+                                        "ExternalDataURL": null
+                                    },
+                                    "Name": null,
+                                    "URL": null,
+                                    "Description": null,
+                                    "Reference": [
+                                        "Computed by LexiChem 2.6.6 (PubChem release 2019.06.18)"
+                                    ],
+                                    "Unit": null
+                                }
+                            ],
+                            "Section": [],
+                            "URL": "http://old.iupac.org/publications/books/seriestitles/nomenclature.html",
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "InChI",
+                            "Description": "International Chemical Identifier (InChI) computed from chemical structure using the International Union of Pure and Applied Chemistry (IUPAC) standard.",
+                            "Information": [
+                                {
+                                    "Id": 0,
+                                    "ReferenceNumber": 28,
+                                    "SectionItem_Id": null,
+                                    "Value": {
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "Number": null,
+                                        "ExternalTableNumRows": null,
+                                        "StringWithMarkup": [
+                                            {
+                                                "Id": null,
+                                                "String": "InChI=1S/C15H17N5O6S/c1-9-16-13(18-14(17-9)26-4)20(2)15(22)19-27(23,24)11-8-6-5-7-10(11)12(21)25-3/h5-8H,1-4H3,(H,19,22)",
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            }
+                                        ],
+                                        "ExternalDataURL": null
+                                    },
+                                    "Name": null,
+                                    "URL": null,
+                                    "Description": null,
+                                    "Reference": [
+                                        "Computed by InChI 1.0.5 (PubChem release 2019.06.18)"
+                                    ],
+                                    "Unit": null
+                                }
+                            ],
+                            "Section": [],
+                            "URL": "http://www.iupac.org/home/publications/e-resources/inchi.html",
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "InChI Key",
+                            "Description": "International Chemical Identifier hash (InChIKey) computed from chemical structure using the International Union of Pure and Applied Chemistry (IUPAC) standard.",
+                            "Information": [
+                                {
+                                    "Id": 0,
+                                    "ReferenceNumber": 28,
+                                    "SectionItem_Id": null,
+                                    "Value": {
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "Number": null,
+                                        "ExternalTableNumRows": null,
+                                        "StringWithMarkup": [
+                                            {
+                                                "Id": null,
+                                                "String": "VLCQZHSMCYCDJL-UHFFFAOYSA-N",
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            }
+                                        ],
+                                        "ExternalDataURL": null
+                                    },
+                                    "Name": null,
+                                    "URL": null,
+                                    "Description": null,
+                                    "Reference": [
+                                        "Computed by InChI 1.0.5 (PubChem release 2019.06.18)"
+                                    ],
+                                    "Unit": null
+                                }
+                            ],
+                            "Section": [],
+                            "URL": "http://www.iupac.org/home/publications/e-resources/inchi.html",
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "Canonical SMILES",
+                            "Description": "Simplified Molecular-Input Line-Entry System (SMILES) computed from chemical structure devoid of isotopic and stereochemical information.",
+                            "Information": [
+                                {
+                                    "Id": 0,
+                                    "ReferenceNumber": 28,
+                                    "SectionItem_Id": null,
+                                    "Value": {
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "Number": null,
+                                        "ExternalTableNumRows": null,
+                                        "StringWithMarkup": [
+                                            {
+                                                "Id": null,
+                                                "String": "CC1=NC(=NC(=N1)OC)N(C)C(=O)NS(=O)(=O)C2=CC=CC=C2C(=O)OC",
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            }
+                                        ],
+                                        "ExternalDataURL": null
+                                    },
+                                    "Name": null,
+                                    "URL": null,
+                                    "Description": null,
+                                    "Reference": [
+                                        "Computed by OEChem 2.1.5 (PubChem release 2019.06.18)"
+                                    ],
+                                    "Unit": null
+                                }
+                            ],
+                            "Section": [],
+                            "URL": "http://www.daylight.com/dayhtml/doc/theory/theory.smiles.html",
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        }
+                    ],
+                    "URL": null,
+                    "Id": 0,
+                    "Section_Id": null,
+                    "Record_Id": null
+                },
+                {
+                    "TOCHeading": "Other Identifiers",
+                    "Description": "Important identifiers assigned to this chemical substance by authoritative organizations",
+                    "Information": null,
+                    "Section": [
+                        {
+                            "TOCHeading": "CAS",
+                            "Description": "A proprietary registry number assigned by the Chemical Abstracts Service (CAS) division of the American Chemical Society (ACS) often used to help describe chemical ingredients.",
+                            "Information": [
+                                {
+                                    "Id": 0,
+                                    "ReferenceNumber": 3,
+                                    "SectionItem_Id": null,
+                                    "Value": {
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "Number": null,
+                                        "ExternalTableNumRows": null,
+                                        "StringWithMarkup": [
+                                            {
+                                                "Id": null,
+                                                "String": "101200-48-0",
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            }
+                                        ],
+                                        "ExternalDataURL": null
+                                    },
+                                    "Name": null,
+                                    "URL": null,
+                                    "Description": null,
+                                    "Reference": null,
+                                    "Unit": null
+                                },
+                                {
+                                    "Id": 0,
+                                    "ReferenceNumber": 5,
+                                    "SectionItem_Id": null,
+                                    "Value": {
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "Number": null,
+                                        "ExternalTableNumRows": null,
+                                        "StringWithMarkup": [
+                                            {
+                                                "Id": null,
+                                                "String": "101200-48-0",
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            }
+                                        ],
+                                        "ExternalDataURL": null
+                                    },
+                                    "Name": null,
+                                    "URL": null,
+                                    "Description": null,
+                                    "Reference": null,
+                                    "Unit": null
+                                },
+                                {
+                                    "Id": 0,
+                                    "ReferenceNumber": 7,
+                                    "SectionItem_Id": null,
+                                    "Value": {
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "Number": null,
+                                        "ExternalTableNumRows": null,
+                                        "StringWithMarkup": [
+                                            {
+                                                "Id": null,
+                                                "String": "101200-48-0",
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            }
+                                        ],
+                                        "ExternalDataURL": null
+                                    },
+                                    "Name": null,
+                                    "URL": null,
+                                    "Description": null,
+                                    "Reference": null,
+                                    "Unit": null
+                                },
+                                {
+                                    "Id": 0,
+                                    "ReferenceNumber": 12,
+                                    "SectionItem_Id": null,
+                                    "Value": {
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "Number": null,
+                                        "ExternalTableNumRows": null,
+                                        "StringWithMarkup": [
+                                            {
+                                                "Id": null,
+                                                "String": "101200-48-0",
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            }
+                                        ],
+                                        "ExternalDataURL": null
+                                    },
+                                    "Name": null,
+                                    "URL": null,
+                                    "Description": null,
+                                    "Reference": null,
+                                    "Unit": null
+                                },
+                                {
+                                    "Id": 0,
+                                    "ReferenceNumber": 13,
+                                    "SectionItem_Id": null,
+                                    "Value": {
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "Number": null,
+                                        "ExternalTableNumRows": null,
+                                        "StringWithMarkup": [
+                                            {
+                                                "Id": null,
+                                                "String": "101200-48-0",
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            }
+                                        ],
+                                        "ExternalDataURL": null
+                                    },
+                                    "Name": null,
+                                    "URL": null,
+                                    "Description": null,
+                                    "Reference": null,
+                                    "Unit": null
+                                },
+                                {
+                                    "Id": 0,
+                                    "ReferenceNumber": 16,
+                                    "SectionItem_Id": null,
+                                    "Value": {
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "Number": null,
+                                        "ExternalTableNumRows": null,
+                                        "StringWithMarkup": [
+                                            {
+                                                "Id": null,
+                                                "String": "101200-48-0",
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            }
+                                        ],
+                                        "ExternalDataURL": null
+                                    },
+                                    "Name": null,
+                                    "URL": null,
+                                    "Description": null,
+                                    "Reference": null,
+                                    "Unit": null
+                                },
+                                {
+                                    "Id": 0,
+                                    "ReferenceNumber": 17,
+                                    "SectionItem_Id": null,
+                                    "Value": {
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "Number": null,
+                                        "ExternalTableNumRows": null,
+                                        "StringWithMarkup": [
+                                            {
+                                                "Id": null,
+                                                "String": "101200-48-0",
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            }
+                                        ],
+                                        "ExternalDataURL": null
+                                    },
+                                    "Name": null,
+                                    "URL": null,
+                                    "Description": null,
+                                    "Reference": null,
+                                    "Unit": null
+                                },
+                                {
+                                    "Id": 0,
+                                    "ReferenceNumber": 22,
+                                    "SectionItem_Id": null,
+                                    "Value": {
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "Number": null,
+                                        "ExternalTableNumRows": null,
+                                        "StringWithMarkup": [
+                                            {
+                                                "Id": null,
+                                                "String": "101200-48-0",
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            }
+                                        ],
+                                        "ExternalDataURL": null
+                                    },
+                                    "Name": null,
+                                    "URL": null,
+                                    "Description": null,
+                                    "Reference": null,
+                                    "Unit": null
+                                }
+                            ],
+                            "Section": [],
+                            "URL": "http://en.wikipedia.org/wiki/CAS_Registry_Number",
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "European Community (EC) Number",
+                            "Description": "A seven-digit regulatory identifier currently assigned by the European Chemicals Agency (ECHA) known as a European Community (EC) number.  It is sometimes referred to as an EINECS, ELINCS, or NLP number, which are subsets of an EC number.",
+                            "Information": [
+                                {
+                                    "Id": 0,
+                                    "ReferenceNumber": 12,
+                                    "SectionItem_Id": null,
+                                    "Value": {
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "Number": null,
+                                        "ExternalTableNumRows": null,
+                                        "StringWithMarkup": [
+                                            {
+                                                "Id": null,
+                                                "String": "401-190-1",
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            }
+                                        ],
+                                        "ExternalDataURL": null
+                                    },
+                                    "Name": null,
+                                    "URL": "https://echa.europa.eu/substance-information/-/substanceinfo/100.100.313",
+                                    "Description": null,
+                                    "Reference": null,
+                                    "Unit": null
+                                },
+                                {
+                                    "Id": 0,
+                                    "ReferenceNumber": 13,
+                                    "SectionItem_Id": null,
+                                    "Value": {
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "Number": null,
+                                        "ExternalTableNumRows": null,
+                                        "StringWithMarkup": [
+                                            {
+                                                "Id": null,
+                                                "String": "600-172-2",
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            }
+                                        ],
+                                        "ExternalDataURL": null
+                                    },
+                                    "Name": null,
+                                    "URL": "https://echa.europa.eu/substance-information/-/substanceinfo/100.112.083",
+                                    "Description": null,
+                                    "Reference": null,
+                                    "Unit": null
+                                }
+                            ],
+                            "Section": [],
+                            "URL": "http://en.wikipedia.org/wiki/European_Community_number",
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "ICSC Number",
+                            "Description": "An identifier assigned by the International Labour Organization (ILO) known as an International Chemical Safety Card number.",
+                            "Information": [
+                                {
+                                    "Id": 0,
+                                    "ReferenceNumber": 17,
+                                    "SectionItem_Id": null,
+                                    "Value": {
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "Number": null,
+                                        "ExternalTableNumRows": null,
+                                        "StringWithMarkup": [
+                                            {
+                                                "Id": null,
+                                                "String": "1359",
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            }
+                                        ],
+                                        "ExternalDataURL": null
+                                    },
+                                    "Name": null,
+                                    "URL": "http://www.ilo.org/dyn/icsc/showcard.display?p_card_id=1359",
+                                    "Description": null,
+                                    "Reference": null,
+                                    "Unit": null
+                                }
+                            ],
+                            "Section": [],
+                            "URL": "http://www.ilo.org/safework/info/publications/WCMS_113134/lang--en/index.htm",
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "RTECS Number",
+                            "Description": "An identifier of the Registry of Toxic Effects of Chemical Substances (RTECS) database of toxicity information.",
+                            "Information": [
+                                {
+                                    "Id": 0,
+                                    "ReferenceNumber": 22,
+                                    "SectionItem_Id": null,
+                                    "Value": {
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "Number": null,
+                                        "ExternalTableNumRows": null,
+                                        "StringWithMarkup": [
+                                            {
+                                                "Id": null,
+                                                "String": "DH3565000",
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            }
+                                        ],
+                                        "ExternalDataURL": null
+                                    },
+                                    "Name": null,
+                                    "URL": "https://www.cdc.gov/niosh-rtecs/DH3665C8.html",
+                                    "Description": null,
+                                    "Reference": null,
+                                    "Unit": null
+                                }
+                            ],
+                            "Section": [],
+                            "URL": "http://www.cdc.gov/niosh/rtecs/",
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "UNII",
+                            "Description": "A non-proprietary registry number assigned by the U.S. Food and Drug Administration (FDA) known as an UNique Ingredient Identifier (UNII) code.",
+                            "Information": [
+                                {
+                                    "Id": 0,
+                                    "ReferenceNumber": 14,
+                                    "SectionItem_Id": null,
+                                    "Value": {
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "Number": null,
+                                        "ExternalTableNumRows": null,
+                                        "StringWithMarkup": [
+                                            {
+                                                "Id": null,
+                                                "String": "D0493A985P",
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            }
+                                        ],
+                                        "ExternalDataURL": null
+                                    },
+                                    "Name": "UNII",
+                                    "URL": null,
+                                    "Description": null,
+                                    "Reference": null,
+                                    "Unit": null
+                                }
+                            ],
+                            "Section": [],
+                            "URL": "http://www.fda.gov/ForIndustry/DataStandards/SubstanceRegistrationSystem-UniqueIngredientIdentifierUNII/",
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "DSSTox Substance ID",
+                            "Description": "Substance identifier at the Distributed Structure-Searchable Toxicity (DSSTox) Database.",
+                            "Information": [
+                                {
+                                    "Id": 0,
+                                    "ReferenceNumber": 7,
+                                    "SectionItem_Id": null,
+                                    "Value": {
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "Number": null,
+                                        "ExternalTableNumRows": null,
+                                        "StringWithMarkup": [
+                                            {
+                                                "Id": null,
+                                                "String": "DTXSID8024101",
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            }
+                                        ],
+                                        "ExternalDataURL": null
+                                    },
+                                    "Name": null,
+                                    "URL": "https://comptox.epa.gov/dashboard/DTXSID8024101",
+                                    "Description": null,
+                                    "Reference": null,
+                                    "Unit": null
+                                }
+                            ],
+                            "Section": [],
+                            "URL": "https://www.epa.gov/chemical-research/distributed-structure-searchable-toxicity-dsstox-database/",
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "Wikipedia",
+                            "Description": "Links to Wikipedia or wikidata for this record.",
+                            "Information": [
+                                {
+                                    "Id": 0,
+                                    "ReferenceNumber": 26,
+                                    "SectionItem_Id": null,
+                                    "Value": {
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "Number": null,
+                                        "ExternalTableNumRows": null,
+                                        "StringWithMarkup": [
+                                            {
+                                                "Id": null,
+                                                "String": "Tribenuron-methyl",
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            }
+                                        ],
+                                        "ExternalDataURL": null
+                                    },
+                                    "Name": "Wikipedia",
+                                    "URL": "https://de.wikipedia.org/wiki/Tribenuron-methyl",
+                                    "Description": null,
+                                    "Reference": null,
+                                    "Unit": null
+                                }
+                            ],
+                            "Section": [],
+                            "URL": null,
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "Shipping Name/ Number DOT/UN/NA/IMO",
+                            "Description": "Shipping Name/ Number DOT/UN/NA/IMO",
+                            "Information": [
+                                {
+                                    "Id": 0,
+                                    "ReferenceNumber": 16,
+                                    "SectionItem_Id": null,
+                                    "Value": {
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "Number": null,
+                                        "ExternalTableNumRows": null,
+                                        "StringWithMarkup": [
+                                            {
+                                                "Id": null,
+                                                "String": "UN 2763; Triazine pesticide, solid, toxic, not otherwise specified",
+                                                "Value_Id": null,
+                                                "Markup": [
+                                                    {
+                                                        "Start": 9,
+                                                        "Length": 8,
+                                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Triazine",
+                                                        "Type": "PubChem Internal Link",
+                                                        "Extra": "CID-70292631",
+                                                        "Id": null,
+                                                        "StringValue_Id": null
+                                                    }
+                                                ]
+                                            }
+                                        ],
+                                        "ExternalDataURL": null
+                                    },
+                                    "Name": null,
+                                    "URL": null,
+                                    "Description": null,
+                                    "Reference": null,
+                                    "Unit": null
+                                },
+                                {
+                                    "Id": 0,
+                                    "ReferenceNumber": 16,
+                                    "SectionItem_Id": null,
+                                    "Value": {
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "Number": null,
+                                        "ExternalTableNumRows": null,
+                                        "StringWithMarkup": [
+                                            {
+                                                "Id": null,
+                                                "String": "UN 2998; Triazine pesticide, liquid, toxic, not otherwise specified",
+                                                "Value_Id": null,
+                                                "Markup": [
+                                                    {
+                                                        "Start": 9,
+                                                        "Length": 8,
+                                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Triazine",
+                                                        "Type": "PubChem Internal Link",
+                                                        "Extra": "CID-70292631",
+                                                        "Id": null,
+                                                        "StringValue_Id": null
+                                                    }
+                                                ]
+                                            }
+                                        ],
+                                        "ExternalDataURL": null
+                                    },
+                                    "Name": null,
+                                    "URL": null,
+                                    "Description": null,
+                                    "Reference": null,
+                                    "Unit": null
+                                },
+                                {
+                                    "Id": 0,
+                                    "ReferenceNumber": 16,
+                                    "SectionItem_Id": null,
+                                    "Value": {
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "Number": null,
+                                        "ExternalTableNumRows": null,
+                                        "StringWithMarkup": [
+                                            {
+                                                "Id": null,
+                                                "String": "UN 2997; Triazine pesticide, liquid, toxic, flammable, not otherwise specified (flashpoint 23 °C or more)",
+                                                "Value_Id": null,
+                                                "Markup": [
+                                                    {
+                                                        "Start": 9,
+                                                        "Length": 8,
+                                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Triazine",
+                                                        "Type": "PubChem Internal Link",
+                                                        "Extra": "CID-70292631",
+                                                        "Id": null,
+                                                        "StringValue_Id": null
+                                                    }
+                                                ]
+                                            }
+                                        ],
+                                        "ExternalDataURL": null
+                                    },
+                                    "Name": null,
+                                    "URL": null,
+                                    "Description": null,
+                                    "Reference": null,
+                                    "Unit": null
+                                },
+                                {
+                                    "Id": 0,
+                                    "ReferenceNumber": 16,
+                                    "SectionItem_Id": null,
+                                    "Value": {
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "Number": null,
+                                        "ExternalTableNumRows": null,
+                                        "StringWithMarkup": [
+                                            {
+                                                "Id": null,
+                                                "String": "UN 2764; Triazine pesticide, liquid, flammable, toxic, not otherwise specified (flashpoint less than 23 °C)",
+                                                "Value_Id": null,
+                                                "Markup": [
+                                                    {
+                                                        "Start": 9,
+                                                        "Length": 8,
+                                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Triazine",
+                                                        "Type": "PubChem Internal Link",
+                                                        "Extra": "CID-70292631",
+                                                        "Id": null,
+                                                        "StringValue_Id": null
+                                                    }
+                                                ]
+                                            }
+                                        ],
+                                        "ExternalDataURL": null
+                                    },
+                                    "Name": null,
+                                    "URL": null,
+                                    "Description": null,
+                                    "Reference": null,
+                                    "Unit": null
+                                },
+                                {
+                                    "Id": 0,
+                                    "ReferenceNumber": 16,
+                                    "SectionItem_Id": null,
+                                    "Value": {
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "Number": null,
+                                        "ExternalTableNumRows": null,
+                                        "StringWithMarkup": [
+                                            {
+                                                "Id": null,
+                                                "String": "IMO 6.1; Triazine pesticides, liquid, toxic, flammable, not otherwise specified (flashpoint 23 °C or more)",
+                                                "Value_Id": null,
+                                                "Markup": [
+                                                    {
+                                                        "Start": 9,
+                                                        "Length": 8,
+                                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Triazine",
+                                                        "Type": "PubChem Internal Link",
+                                                        "Extra": "CID-70292631",
+                                                        "Id": null,
+                                                        "StringValue_Id": null
+                                                    }
+                                                ]
+                                            }
+                                        ],
+                                        "ExternalDataURL": null
+                                    },
+                                    "Name": null,
+                                    "URL": null,
+                                    "Description": null,
+                                    "Reference": null,
+                                    "Unit": null
+                                },
+                                {
+                                    "Id": 0,
+                                    "ReferenceNumber": 16,
+                                    "SectionItem_Id": null,
+                                    "Value": {
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "Number": null,
+                                        "ExternalTableNumRows": null,
+                                        "StringWithMarkup": [
+                                            {
+                                                "Id": null,
+                                                "String": "IMO 3.2; Triazine pesticides, liquid, flammable, toxic, not otherwise specified (flashpoint 23 deg or more); (cmpds & prepn)",
+                                                "Value_Id": null,
+                                                "Markup": [
+                                                    {
+                                                        "Start": 9,
+                                                        "Length": 8,
+                                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Triazine",
+                                                        "Type": "PubChem Internal Link",
+                                                        "Extra": "CID-70292631",
+                                                        "Id": null,
+                                                        "StringValue_Id": null
+                                                    }
+                                                ]
+                                            }
+                                        ],
+                                        "ExternalDataURL": null
+                                    },
+                                    "Name": null,
+                                    "URL": null,
+                                    "Description": null,
+                                    "Reference": null,
+                                    "Unit": null
+                                }
+                            ],
+                            "Section": [],
+                            "URL": null,
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        }
+                    ],
+                    "URL": null,
+                    "Id": 0,
+                    "Section_Id": null,
+                    "Record_Id": null
+                },
+                {
+                    "TOCHeading": "Synonyms",
+                    "Description": "Alternative names for this PubChem Compound record.  A compound can have many different names.  For example, acetone (CH3C(=O)CH3) is also known as propanone, propan-2-one, or dimethyl ketone.  The brand name of a product is commonly used to indicate the primary chemical ingredient(s) in the product (e.g., Tylenol, a common pain killer, is often used for acetaminophen, its active ingredient).  Another example of common synonyms is record identifiers used in different data collections, such as Chemical Abstract Service (CAS) registry numbers, FDA UNII (Unique Ingredient Identifiers), and many others.  All these various names and identifiers that designate this compound are organized under the Synonyms section.",
+                    "Information": null,
+                    "Section": [
+                        {
+                            "TOCHeading": "MeSH Entry Terms",
+                            "Description": "Medical Subject Heading (MeSH) names or identifiers matching this PubChem Compound record.  The matching between the MeSH and compound records is performed by name matching (i.e., identical common names).",
+                            "Information": [
+                                {
+                                    "Id": 0,
+                                    "ReferenceNumber": 29,
+                                    "SectionItem_Id": null,
+                                    "Value": {
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "Number": null,
+                                        "ExternalTableNumRows": null,
+                                        "StringWithMarkup": [
+                                            {
+                                                "Id": null,
+                                                "String": "benzoic acid, 2-(((((4-methoxy-6-methyl-1,3,5-triazin-2- yl)methylamino)carbonyl)amino)sulfonyl)-, methyl ester",
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "Id": null,
+                                                "String": "methyl 2-(((((4-methoxy-6-methyl-1,3,5-triazin-2-yl)amino)carbonyl)amino)sulfonyl)benzoate",
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "Id": null,
+                                                "String": "metsulfuron methyl",
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "Id": null,
+                                                "String": "metsulfuron-methyl",
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "Id": null,
+                                                "String": "triazine-2-14C metsulfuron-methyl",
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "Id": null,
+                                                "String": "tribenuron methyl",
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "Id": null,
+                                                "String": "tribenuron-methyl",
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            }
+                                        ],
+                                        "ExternalDataURL": null
+                                    },
+                                    "Name": null,
+                                    "URL": null,
+                                    "Description": null,
+                                    "Reference": null,
+                                    "Unit": null
+                                }
+                            ],
+                            "Section": [],
+                            "URL": null,
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "Depositor-Supplied Synonyms",
+                            "Description": "Chemical names provided by individual data contributors. Synonyms of Substances corresponding to a PubChem Compound record are combined. Some contributed names may be considered erroneous and filtered out. The link on each synonym shows which depositors provided that particular synonym for this structure.",
+                            "Information": [
+                                {
+                                    "Id": 0,
+                                    "ReferenceNumber": 28,
+                                    "SectionItem_Id": null,
+                                    "Value": {
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "Number": null,
+                                        "ExternalTableNumRows": null,
+                                        "StringWithMarkup": [
+                                            {
+                                                "Id": null,
+                                                "String": "TRIBENURON-METHYL",
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "Id": null,
+                                                "String": "Tribenuron methyl",
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "Id": null,
+                                                "String": "101200-48-0",
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "Id": null,
+                                                "String": "Express",
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "Id": null,
+                                                "String": "Sulfmethmeton-methyl",
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "Id": null,
+                                                "String": "Tribenuron methyl ester",
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "Id": null,
+                                                "String": "Cameo",
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "Id": null,
+                                                "String": "Cameo (pesticide)",
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "Id": null,
+                                                "String": "Camer (pesticide)",
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "Id": null,
+                                                "String": "Express (pesticide)",
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "Id": null,
+                                                "String": "Express 75 DF",
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "Id": null,
+                                                "String": "Tribenuron-methyl [ISO]",
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "Id": null,
+                                                "String": "HCHA 92 HE",
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "Id": null,
+                                                "String": "UNII-D0493A985P",
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "Id": null,
+                                                "String": "HSDB 6851",
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "Id": null,
+                                                "String": "DPX-L 5300",
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "Id": null,
+                                                "String": "EPA Pesticide Chemical Code 128887",
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "Id": null,
+                                                "String": "CHEBI:9678",
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "Id": null,
+                                                "String": "CHEMBL1229780",
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "Id": null,
+                                                "String": "L 5300",
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "Id": null,
+                                                "String": "VLCQZHSMCYCDJL-UHFFFAOYSA-N",
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "Id": null,
+                                                "String": "METHYL 2-[4-METHOXY-6-METHYL-1,3,5-TRAZIN-2-YL(METHYL)CARBAMOYLSULFAMOYL]BENZOATE",
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "Id": null,
+                                                "String": "D0493A985P",
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "Id": null,
+                                                "String": "Benzoic acid, 2-[[[[(4-methoxy-6-methyl-1,3,5-triazin-2-yl)methylamino]carbonyl]amino]sulfonyl]-, methyl ester",
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "Id": null,
+                                                "String": "methyl 2-[[(4-methoxy-6-methyl-1,3,5-triazin-2-yl)-methyl-carbamoyl]sulfamoyl]benzoate",
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "Id": null,
+                                                "String": "Methyl 2-((((N-(4-methoxy-6-methyl-1,3,5-triazin-2-yl)methylamino)carbonyl)amino)sulfonyl)benzoate",
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "Id": null,
+                                                "String": "methyl 2-[({[(4-methoxy-6-methyl-1,3,5-triazin-2-yl)(methyl)amino]carbonyl}amino)sulfonyl]benzoate",
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "Id": null,
+                                                "String": "Methyl 2-(N-((4-methoxy-6-methyl-1,3,5-triazin-2-yl)(methyl)carbamoyl)sulfamoyl)benzoate",
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "Id": null,
+                                                "String": "methyl 2-[[(4-methoxy-6-methyl-1,3,5-triazin-2-yl)-methylcarbamoyl]sulfamoyl]benzoate",
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "Id": null,
+                                                "String": "methyl 2-{[(4-methoxy-6-methyl-1,3,5-triazin-2-yl)(methyl)carbamoyl]sulfamoyl}benzoate",
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "Id": null,
+                                                "String": "1TB",
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "Id": null,
+                                                "String": "Benzoic acid, 2-(((((4-methoxy-6-methyl-1,3,5-triazin-2-yl)methylamino)carbonyl)amino)sulfonyl)-, methyl ester",
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "Id": null,
+                                                "String": "C15H17N5O6S",
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "Id": null,
+                                                "String": "Tribenuron Methylester",
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "Id": null,
+                                                "String": "AC1L4BBU",
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "Id": null,
+                                                "String": "DSSTox_CID_4101",
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "Id": null,
+                                                "String": "EC 401-190-1",
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "Id": null,
+                                                "String": "DSSTox_RID_77288",
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "Id": null,
+                                                "String": "DSSTox_GSID_24101",
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "Id": null,
+                                                "String": "SCHEMBL54532",
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "Id": null,
+                                                "String": "DTXSID8024101",
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "Id": null,
+                                                "String": "CTK8E9007",
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "Id": null,
+                                                "String": "DPX-?L5300",
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "Id": null,
+                                                "String": "HMS1786D20",
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "Id": null,
+                                                "String": "ZINC900618",
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "Id": null,
+                                                "String": "Tox21_202549",
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "Id": null,
+                                                "String": "BDBM50424586",
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "Id": null,
+                                                "String": "MFCD03955329",
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "Id": null,
+                                                "String": "AKOS002529017",
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "Id": null,
+                                                "String": "DB03656",
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "Id": null,
+                                                "String": "MCULE-3666428067",
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "Id": null,
+                                                "String": "RTR-000338",
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "Id": null,
+                                                "String": "NCGC00163779-01",
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "Id": null,
+                                                "String": "NCGC00163779-02",
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "Id": null,
+                                                "String": "NCGC00260098-01",
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "Id": null,
+                                                "String": "AC-18021",
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "Id": null,
+                                                "String": "AN-34198",
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "Id": null,
+                                                "String": "AS-12372",
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "Id": null,
+                                                "String": "CC-35271",
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "Id": null,
+                                                "String": "LS-37832",
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "Id": null,
+                                                "String": "SC-79588",
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "Id": null,
+                                                "String": "AB0011821",
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "Id": null,
+                                                "String": "TR-000338",
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "Id": null,
+                                                "String": "CAS-101200-48-0",
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "Id": null,
+                                                "String": "FT-0631010",
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "Id": null,
+                                                "String": "C10962",
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "Id": null,
+                                                "String": "200T480",
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "Id": null,
+                                                "String": "A800350",
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "Id": null,
+                                                "String": "C-21627",
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "Id": null,
+                                                "String": "I06-1075",
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "Id": null,
+                                                "String": "J-000336",
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "Id": null,
+                                                "String": "Tribenuron-methyl, PESTANAL(R), analytical standard",
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "Id": null,
+                                                "String": "Methyl 2-(N-(4-methoxy-6-methyl-1,3,5-triazin-2-yl)-N-methylcarbamoylsulfamoyl)benzoate",
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "Id": null,
+                                                "String": "2-[[-N-[4-methoxy-6-methyl-1,3,5-triazin-2-yl]N-methylaminocarbonyl]aminosulfonyl]benzoic acid, methyl ester",
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "Id": null,
+                                                "String": "2-[[[(4-methoxy-6-methyl-1,3,5-triazin-2-yl)-methylamino]-oxomethyl]sulfamoyl]benzoic acid methyl ester",
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "Id": null,
+                                                "String": "Methyl 2-(((((4-methoxy-6-methyl-1,3,5-triazin-2-yl)methylamino)carbonyl)amino)sulfonyl)benzoate",
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            }
+                                        ],
+                                        "ExternalDataURL": null
+                                    },
+                                    "Name": null,
+                                    "URL": null,
+                                    "Description": null,
+                                    "Reference": null,
+                                    "Unit": null
+                                }
+                            ],
+                            "Section": [],
+                            "URL": null,
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        }
+                    ],
+                    "URL": null,
+                    "Id": 0,
+                    "Section_Id": null,
+                    "Record_Id": null
+                }
+            ],
+            "URL": null,
+            "Id": 0,
+            "Section_Id": null,
+            "Record_Id": null
+        },
+        {
+            "TOCHeading": "Chemical and Physical Properties",
+            "Description": "Chemical and physical properties such as melting point, molecular weight, etc.",
+            "Information": null,
+            "Section": [
+                {
+                    "TOCHeading": "Computed Properties",
+                    "Description": "Properties computed automatically from the given chemical structure",
+                    "Information": null,
+                    "Section": [
+                        {
+                            "TOCHeading": "Molecular Weight",
+                            "Description": "Molecular weight or molecular mass refers to the mass of a molecule. It is calculated as the sum of the mass of each constituent atom multiplied by the number of atoms of that element in the molecular formula.",
+                            "Information": [
+                                {
+                                    "Id": 0,
+                                    "ReferenceNumber": 28,
+                                    "SectionItem_Id": null,
+                                    "Value": {
+                                        "Id": 0,
+                                        "Unit": "g/mol",
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "Number": [
+                                            395.4
+                                        ],
+                                        "ExternalTableNumRows": null,
+                                        "StringWithMarkup": null,
+                                        "ExternalDataURL": null
+                                    },
+                                    "Name": null,
+                                    "URL": null,
+                                    "Description": null,
+                                    "Reference": [
+                                        "Computed by PubChem 2.1 (PubChem release 2019.06.18)"
+                                    ],
+                                    "Unit": null
+                                }
+                            ],
+                            "Section": [],
+                            "URL": null,
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "XLogP3",
+                            "Description": "Computed Octanol/Water Partition Coefficient",
+                            "Information": [
+                                {
+                                    "Id": 0,
+                                    "ReferenceNumber": 28,
+                                    "SectionItem_Id": null,
+                                    "Value": {
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "Number": [
+                                            1.2
+                                        ],
+                                        "ExternalTableNumRows": null,
+                                        "StringWithMarkup": null,
+                                        "ExternalDataURL": null
+                                    },
+                                    "Name": "XLogP3-AA",
+                                    "URL": null,
+                                    "Description": null,
+                                    "Reference": [
+                                        "Computed by XLogP3 3.0 (PubChem release 2019.06.18)"
+                                    ],
+                                    "Unit": null
+                                }
+                            ],
+                            "Section": [],
+                            "URL": null,
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "Hydrogen Bond Donor Count",
+                            "Description": "Hydrogen Bond Donor count",
+                            "Information": [
+                                {
+                                    "Id": 0,
+                                    "ReferenceNumber": 28,
+                                    "SectionItem_Id": null,
+                                    "Value": {
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "Number": [
+                                            1
+                                        ],
+                                        "ExternalTableNumRows": null,
+                                        "StringWithMarkup": null,
+                                        "ExternalDataURL": null
+                                    },
+                                    "Name": null,
+                                    "URL": null,
+                                    "Description": null,
+                                    "Reference": [
+                                        "Computed by Cactvs 3.4.6.11 (PubChem release 2019.06.18)"
+                                    ],
+                                    "Unit": null
+                                }
+                            ],
+                            "Section": [],
+                            "URL": null,
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "Hydrogen Bond Acceptor Count",
+                            "Description": "Hydrogen Bond Acceptor count",
+                            "Information": [
+                                {
+                                    "Id": 0,
+                                    "ReferenceNumber": 28,
+                                    "SectionItem_Id": null,
+                                    "Value": {
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "Number": [
+                                            9
+                                        ],
+                                        "ExternalTableNumRows": null,
+                                        "StringWithMarkup": null,
+                                        "ExternalDataURL": null
+                                    },
+                                    "Name": null,
+                                    "URL": null,
+                                    "Description": null,
+                                    "Reference": [
+                                        "Computed by Cactvs 3.4.6.11 (PubChem release 2019.06.18)"
+                                    ],
+                                    "Unit": null
+                                }
+                            ],
+                            "Section": [],
+                            "URL": null,
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "Rotatable Bond Count",
+                            "Description": "Rotatable bond is defined as any single non-ring bond, bounded to nonterminal heavy (i.e., non-hydrogen) atom.",
+                            "Information": [
+                                {
+                                    "Id": 0,
+                                    "ReferenceNumber": 28,
+                                    "SectionItem_Id": null,
+                                    "Value": {
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "Number": [
+                                            6
+                                        ],
+                                        "ExternalTableNumRows": null,
+                                        "StringWithMarkup": null,
+                                        "ExternalDataURL": null
+                                    },
+                                    "Name": null,
+                                    "URL": null,
+                                    "Description": null,
+                                    "Reference": [
+                                        "Computed by Cactvs 3.4.6.11 (PubChem release 2019.06.18)"
+                                    ],
+                                    "Unit": null
+                                }
+                            ],
+                            "Section": [],
+                            "URL": null,
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "Exact Mass",
+                            "Description": "The exact mass of an isotopic species is obtained by summing the masses of the individual isotopes of the molecule.",
+                            "Information": [
+                                {
+                                    "Id": 0,
+                                    "ReferenceNumber": 28,
+                                    "SectionItem_Id": null,
+                                    "Value": {
+                                        "Id": 0,
+                                        "Unit": "g/mol",
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "Number": [
+                                            395.089954
+                                        ],
+                                        "ExternalTableNumRows": null,
+                                        "StringWithMarkup": null,
+                                        "ExternalDataURL": null
+                                    },
+                                    "Name": null,
+                                    "URL": null,
+                                    "Description": null,
+                                    "Reference": [
+                                        "Computed by PubChem 2.1 (PubChem release 2019.06.18)"
+                                    ],
+                                    "Unit": null
+                                }
+                            ],
+                            "Section": [],
+                            "URL": null,
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "Monoisotopic Mass",
+                            "Description": "The monoisotopic mass is the sum of the masses of the atoms in a molecule using the unbound, ground-state, rest mass of the principal (most abundant) isotope for each element instead of the isotopic average mass.",
+                            "Information": [
+                                {
+                                    "Id": 0,
+                                    "ReferenceNumber": 28,
+                                    "SectionItem_Id": null,
+                                    "Value": {
+                                        "Id": 0,
+                                        "Unit": "g/mol",
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "Number": [
+                                            395.089954
+                                        ],
+                                        "ExternalTableNumRows": null,
+                                        "StringWithMarkup": null,
+                                        "ExternalDataURL": null
+                                    },
+                                    "Name": null,
+                                    "URL": null,
+                                    "Description": null,
+                                    "Reference": [
+                                        "Computed by PubChem 2.1 (PubChem release 2019.06.18)"
+                                    ],
+                                    "Unit": null
+                                }
+                            ],
+                            "Section": [],
+                            "URL": null,
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "Topological Polar Surface Area",
+                            "Description": "The topological polar surface area (TPSA) of a molecule is defined as the surface sum over all polar atoms in a molecule. ",
+                            "Information": [
+                                {
+                                    "Id": 0,
+                                    "ReferenceNumber": 28,
+                                    "SectionItem_Id": null,
+                                    "Value": {
+                                        "Id": 0,
+                                        "Unit": "Å²",
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "Number": [
+                                            149
+                                        ],
+                                        "ExternalTableNumRows": null,
+                                        "StringWithMarkup": null,
+                                        "ExternalDataURL": null
+                                    },
+                                    "Name": null,
+                                    "URL": null,
+                                    "Description": null,
+                                    "Reference": [
+                                        "Computed by Cactvs 3.4.6.11 (PubChem release 2019.06.18)"
+                                    ],
+                                    "Unit": null
+                                }
+                            ],
+                            "Section": [],
+                            "URL": null,
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "Heavy Atom Count",
+                            "Description": "A heavy atom is defined as any atom except hydrogen in a chemical structure.",
+                            "Information": [
+                                {
+                                    "Id": 0,
+                                    "ReferenceNumber": 28,
+                                    "SectionItem_Id": null,
+                                    "Value": {
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "Number": [
+                                            27
+                                        ],
+                                        "ExternalTableNumRows": null,
+                                        "StringWithMarkup": null,
+                                        "ExternalDataURL": null
+                                    },
+                                    "Name": null,
+                                    "URL": null,
+                                    "Description": null,
+                                    "Reference": [
+                                        "Computed by PubChem"
+                                    ],
+                                    "Unit": null
+                                }
+                            ],
+                            "Section": [],
+                            "URL": null,
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "Formal Charge",
+                            "Description": "Formal charge is the difference between the number of valence electrons of each atom and the number of electrons the atom is associated with. Formal charge assumes any shared electrons are equally shared between the two bonded atoms.",
+                            "Information": [
+                                {
+                                    "Id": 0,
+                                    "ReferenceNumber": 28,
+                                    "SectionItem_Id": null,
+                                    "Value": {
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "Number": [
+                                            0
+                                        ],
+                                        "ExternalTableNumRows": null,
+                                        "StringWithMarkup": null,
+                                        "ExternalDataURL": null
+                                    },
+                                    "Name": null,
+                                    "URL": null,
+                                    "Description": null,
+                                    "Reference": [
+                                        "Computed by PubChem"
+                                    ],
+                                    "Unit": null
+                                }
+                            ],
+                            "Section": [],
+                            "URL": null,
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "Complexity",
+                            "Description": "The complexity rating of a compound is a rough estimate of how complicated a structure is, seen from both the point of view of the elements contained and the displayed structural features including symmetry. This complexity rating is computed using the Bertz/Hendrickson/Ihlenfeldt formula.",
+                            "Information": [
+                                {
+                                    "Id": 0,
+                                    "ReferenceNumber": 28,
+                                    "SectionItem_Id": null,
+                                    "Value": {
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "Number": [
+                                            639
+                                        ],
+                                        "ExternalTableNumRows": null,
+                                        "StringWithMarkup": null,
+                                        "ExternalDataURL": null
+                                    },
+                                    "Name": null,
+                                    "URL": null,
+                                    "Description": null,
+                                    "Reference": [
+                                        "Computed by Cactvs 3.4.6.11 (PubChem release 2019.06.18)"
+                                    ],
+                                    "Unit": null
+                                }
+                            ],
+                            "Section": [],
+                            "URL": null,
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "Isotope Atom Count",
+                            "Description": "Isotopte Atom Count is the number of isotopes that are not most abundant for the corresponding chemical elements.  Isotopes are variants of a chemical element which differ in neutron number.  For example, among three isotopes of carbon (i.e., C-12, C-13, and C-14), the isotope atom count considers the C-13 and C-14 atoms, because C-12 is the most abundant isotope of carbon.",
+                            "Information": [
+                                {
+                                    "Id": 0,
+                                    "ReferenceNumber": 28,
+                                    "SectionItem_Id": null,
+                                    "Value": {
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "Number": [
+                                            0
+                                        ],
+                                        "ExternalTableNumRows": null,
+                                        "StringWithMarkup": null,
+                                        "ExternalDataURL": null
+                                    },
+                                    "Name": null,
+                                    "URL": null,
+                                    "Description": null,
+                                    "Reference": [
+                                        "Computed by PubChem"
+                                    ],
+                                    "Unit": null
+                                }
+                            ],
+                            "Section": [],
+                            "URL": null,
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "Defined Atom Stereocenter Count",
+                            "Description": "An atom stereocenter, also known as a chiral center, is an atom that is attached to four different types of atoms (or groups of atoms) in the tetrahedral arrangement. It can have either (R)- or (S)- configurations.  Some compounds, such as racemic mixtures, have an undefined atom stereocenter, whose (R/S)-configuration is not specifically defined.",
+                            "Information": [
+                                {
+                                    "Id": 0,
+                                    "ReferenceNumber": 28,
+                                    "SectionItem_Id": null,
+                                    "Value": {
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "Number": [
+                                            0
+                                        ],
+                                        "ExternalTableNumRows": null,
+                                        "StringWithMarkup": null,
+                                        "ExternalDataURL": null
+                                    },
+                                    "Name": null,
+                                    "URL": null,
+                                    "Description": null,
+                                    "Reference": [
+                                        "Computed by PubChem"
+                                    ],
+                                    "Unit": null
+                                }
+                            ],
+                            "Section": [],
+                            "URL": null,
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "Undefined Atom Stereocenter Count",
+                            "Description": "An atom stereocenter, also known as a chiral center, is an atom that is attached to four different types of atoms (or groups of atoms) in the tetrahedral arrangement. It can have either (R)- or (S)- configurations.  Some compounds, such as racemic mixtures, have an undefined atom stereocenter, whose (R/S)-configuration is not specifically defined.",
+                            "Information": [
+                                {
+                                    "Id": 0,
+                                    "ReferenceNumber": 28,
+                                    "SectionItem_Id": null,
+                                    "Value": {
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "Number": [
+                                            0
+                                        ],
+                                        "ExternalTableNumRows": null,
+                                        "StringWithMarkup": null,
+                                        "ExternalDataURL": null
+                                    },
+                                    "Name": null,
+                                    "URL": null,
+                                    "Description": null,
+                                    "Reference": [
+                                        "Computed by PubChem"
+                                    ],
+                                    "Unit": null
+                                }
+                            ],
+                            "Section": [],
+                            "URL": null,
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "Defined Bond Stereocenter Count",
+                            "Description": "A bond stereocenter is a non-rotatable bond around which two atoms can have different arrangement (as in cis- and trans-forms of butene around its double bond).  Some compounds have an undefined bond stereocenter, whose stereochemistry is not specifically defined.",
+                            "Information": [
+                                {
+                                    "Id": 0,
+                                    "ReferenceNumber": 28,
+                                    "SectionItem_Id": null,
+                                    "Value": {
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "Number": [
+                                            0
+                                        ],
+                                        "ExternalTableNumRows": null,
+                                        "StringWithMarkup": null,
+                                        "ExternalDataURL": null
+                                    },
+                                    "Name": null,
+                                    "URL": null,
+                                    "Description": null,
+                                    "Reference": [
+                                        "Computed by PubChem"
+                                    ],
+                                    "Unit": null
+                                }
+                            ],
+                            "Section": [],
+                            "URL": null,
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "Undefined Bond Stereocenter Count",
+                            "Description": "A bond stereocenter is a non-rotatable bond around which two atoms can have different arrangement (as in cis- and trans-forms of butene around its double bond).  Some compounds have an undefined bond stereocenter, whose stereochemistry is not specifically defined.",
+                            "Information": [
+                                {
+                                    "Id": 0,
+                                    "ReferenceNumber": 28,
+                                    "SectionItem_Id": null,
+                                    "Value": {
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "Number": [
+                                            0
+                                        ],
+                                        "ExternalTableNumRows": null,
+                                        "StringWithMarkup": null,
+                                        "ExternalDataURL": null
+                                    },
+                                    "Name": null,
+                                    "URL": null,
+                                    "Description": null,
+                                    "Reference": [
+                                        "Computed by PubChem"
+                                    ],
+                                    "Unit": null
+                                }
+                            ],
+                            "Section": [],
+                            "URL": null,
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "Covalently-Bonded Unit Count",
+                            "Description": "Covalently-Bonded Unit Count ",
+                            "Information": [
+                                {
+                                    "Id": 0,
+                                    "ReferenceNumber": 28,
+                                    "SectionItem_Id": null,
+                                    "Value": {
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "Number": [
+                                            1
+                                        ],
+                                        "ExternalTableNumRows": null,
+                                        "StringWithMarkup": null,
+                                        "ExternalDataURL": null
+                                    },
+                                    "Name": null,
+                                    "URL": null,
+                                    "Description": null,
+                                    "Reference": [
+                                        "Computed by PubChem"
+                                    ],
+                                    "Unit": null
+                                }
+                            ],
+                            "Section": [],
+                            "URL": null,
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "Compound Is Canonicalized",
+                            "Description": "Compound is canonicalized",
+                            "Information": [
+                                {
+                                    "Id": 0,
+                                    "ReferenceNumber": 28,
+                                    "SectionItem_Id": null,
+                                    "Value": {
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "Number": null,
+                                        "ExternalTableNumRows": null,
+                                        "StringWithMarkup": [
+                                            {
+                                                "Id": null,
+                                                "String": "Yes",
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            }
+                                        ],
+                                        "ExternalDataURL": null
+                                    },
+                                    "Name": null,
+                                    "URL": null,
+                                    "Description": null,
+                                    "Reference": [
+                                        "Computed by PubChem (release 2019.01.04)"
+                                    ],
+                                    "Unit": null
+                                }
+                            ],
+                            "Section": [],
+                            "URL": null,
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        }
+                    ],
+                    "URL": null,
+                    "Id": 0,
+                    "Section_Id": null,
+                    "Record_Id": null
+                },
+                {
+                    "TOCHeading": "Experimental Properties",
+                    "Description": "Properties determined experimentally (See also Safety and Hazard Properties section for more information if available)",
+                    "Information": null,
+                    "Section": [
+                        {
+                            "TOCHeading": "Physical Description",
+                            "Description": "Physical description refers to the appearance or features of a given chemical compound including color, odor, state, taste and more in general",
+                            "Information": [
+                                {
+                                    "Id": 0,
+                                    "ReferenceNumber": 1,
+                                    "SectionItem_Id": null,
+                                    "Value": {
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "Number": null,
+                                        "ExternalTableNumRows": null,
+                                        "StringWithMarkup": [
+                                            {
+                                                "Id": null,
+                                                "String": "Tribenuron methyl appears as colorless crystals. Non corrosive. Used as an herbicide.",
+                                                "Value_Id": null,
+                                                "Markup": [
+                                                    {
+                                                        "Start": 0,
+                                                        "Length": 17,
+                                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Tribenuron%20methyl",
+                                                        "Type": "PubChem Internal Link",
+                                                        "Extra": "CID-153909",
+                                                        "Id": null,
+                                                        "StringValue_Id": null
+                                                    }
+                                                ]
+                                            }
+                                        ],
+                                        "ExternalDataURL": null
+                                    },
+                                    "Name": "Physical Description",
+                                    "URL": null,
+                                    "Description": null,
+                                    "Reference": null,
+                                    "Unit": null
+                                },
+                                {
+                                    "Id": 0,
+                                    "ReferenceNumber": 17,
+                                    "SectionItem_Id": null,
+                                    "Value": {
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "Number": null,
+                                        "ExternalTableNumRows": null,
+                                        "StringWithMarkup": [
+                                            {
+                                                "Id": null,
+                                                "String": "BROWN SOLID IN VARIOUS FORMS.",
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            }
+                                        ],
+                                        "ExternalDataURL": null
+                                    },
+                                    "Name": null,
+                                    "URL": null,
+                                    "Description": null,
+                                    "Reference": null,
+                                    "Unit": null
+                                }
+                            ],
+                            "Section": [],
+                            "URL": null,
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "Color/Form",
+                            "Description": "Physical description - color",
+                            "Information": [
+                                {
+                                    "Id": 0,
+                                    "ReferenceNumber": 16,
+                                    "SectionItem_Id": null,
+                                    "Value": {
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "Number": null,
+                                        "ExternalTableNumRows": null,
+                                        "StringWithMarkup": [
+                                            {
+                                                "Id": null,
+                                                "String": "Off-white powder",
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            }
+                                        ],
+                                        "ExternalDataURL": null
+                                    },
+                                    "Name": null,
+                                    "URL": null,
+                                    "Description": "PEER REVIEWED",
+                                    "Reference": [
+                                        "Tomlin CDS, ed. Tribenuron-methyl (101200-48-0). In: The e-Pesticide Manual, 13th Edition Version 3.1 (2004-05). Surrey UK, British Crop Protection Council."
+                                    ],
+                                    "Unit": null
+                                },
+                                {
+                                    "Id": 0,
+                                    "ReferenceNumber": 16,
+                                    "SectionItem_Id": null,
+                                    "Value": {
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "Number": null,
+                                        "ExternalTableNumRows": null,
+                                        "StringWithMarkup": [
+                                            {
+                                                "Id": null,
+                                                "String": "Light brown solid",
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            }
+                                        ],
+                                        "ExternalDataURL": null
+                                    },
+                                    "Name": null,
+                                    "URL": null,
+                                    "Description": "PEER REVIEWED",
+                                    "Reference": [
+                                        "Crop Protection Handbook 2004. (Formerly Farm and Chemicals  Handbook) Willoughby, OH: Meister Publishing Co., 2004., p. C 473"
+                                    ],
+                                    "Unit": null
+                                }
+                            ],
+                            "Section": [],
+                            "URL": null,
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "Odor",
+                            "Description": "Physical description - odor",
+                            "Information": [
+                                {
+                                    "Id": 0,
+                                    "ReferenceNumber": 16,
+                                    "SectionItem_Id": null,
+                                    "Value": {
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "Number": null,
+                                        "ExternalTableNumRows": null,
+                                        "StringWithMarkup": [
+                                            {
+                                                "Id": null,
+                                                "String": "Slightly pungent odor",
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            }
+                                        ],
+                                        "ExternalDataURL": null
+                                    },
+                                    "Name": null,
+                                    "URL": null,
+                                    "Description": "PEER REVIEWED",
+                                    "Reference": [
+                                        "Tomlin CDS, ed. Tribenuron-methyl (101200-48-0). In: The e-Pesticide Manual, 13th Edition Version 3.1 (2004-05). Surrey UK, British Crop Protection Council."
+                                    ],
+                                    "Unit": null
+                                }
+                            ],
+                            "Section": [],
+                            "URL": null,
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "Melting Point",
+                            "Description": "The melting point is the temperature at which a substance changes state from solid to liquid at atmospheric pressure. When considered as the temperature of the reverse change, from liquid to solid, it is referred to as the freezing point.",
+                            "Information": [
+                                {
+                                    "Id": 0,
+                                    "ReferenceNumber": 7,
+                                    "SectionItem_Id": null,
+                                    "Value": {
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "Number": null,
+                                        "ExternalTableNumRows": null,
+                                        "StringWithMarkup": [
+                                            {
+                                                "Id": null,
+                                                "String": "141.0 °C",
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            }
+                                        ],
+                                        "ExternalDataURL": null
+                                    },
+                                    "Name": "Melting Point",
+                                    "URL": null,
+                                    "Description": null,
+                                    "Reference": null,
+                                    "Unit": null
+                                },
+                                {
+                                    "Id": 0,
+                                    "ReferenceNumber": 17,
+                                    "SectionItem_Id": null,
+                                    "Value": {
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "Number": null,
+                                        "ExternalTableNumRows": null,
+                                        "StringWithMarkup": [
+                                            {
+                                                "Id": null,
+                                                "String": "141 °C",
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            }
+                                        ],
+                                        "ExternalDataURL": null
+                                    },
+                                    "Name": null,
+                                    "URL": null,
+                                    "Description": null,
+                                    "Reference": null,
+                                    "Unit": null
+                                }
+                            ],
+                            "Section": [],
+                            "URL": null,
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "Solubility",
+                            "Description": "The solubility of a substance is the amount of that substance that will dissolve in a given amount of solvent. The default solvent is water, if not indicated.",
+                            "Information": [
+                                {
+                                    "Id": 0,
+                                    "ReferenceNumber": 7,
+                                    "SectionItem_Id": null,
+                                    "Value": {
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "Number": null,
+                                        "ExternalTableNumRows": null,
+                                        "StringWithMarkup": [
+                                            {
+                                                "Id": null,
+                                                "String": "1.26e-04 M",
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            }
+                                        ],
+                                        "ExternalDataURL": null
+                                    },
+                                    "Name": "Water Solubility",
+                                    "URL": null,
+                                    "Description": null,
+                                    "Reference": [
+                                        "TOMLIN,C (2003)"
+                                    ],
+                                    "Unit": null
+                                },
+                                {
+                                    "Id": 0,
+                                    "ReferenceNumber": 16,
+                                    "SectionItem_Id": null,
+                                    "Value": {
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "Number": null,
+                                        "ExternalTableNumRows": null,
+                                        "StringWithMarkup": [
+                                            {
+                                                "Id": null,
+                                                "String": "Low solubility in organic solvents",
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            }
+                                        ],
+                                        "ExternalDataURL": null
+                                    },
+                                    "Name": null,
+                                    "URL": null,
+                                    "Description": "PEER REVIEWED",
+                                    "Reference": [
+                                        "Crop Protection Handbook 2004. (Formerly Farm and Chemicals  Handbook) Willoughby, OH: Meister Publishing Co., 2004., p. C 473"
+                                    ],
+                                    "Unit": null
+                                },
+                                {
+                                    "Id": 0,
+                                    "ReferenceNumber": 16,
+                                    "SectionItem_Id": null,
+                                    "Value": {
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "Number": null,
+                                        "ExternalTableNumRows": null,
+                                        "StringWithMarkup": [
+                                            {
+                                                "Id": null,
+                                                "String": "Solubility in acetone, 3.91X107 mg/L; acetonitrile, 4.64X10+7 mg/L; ethylhexane, 1.63X10+7 mg/L; ethyl acetate, 1.63X10+7 mg/L; n-heptane, 20800 mg/L; methanol, 2.59X10+6 mg/L, all at 20 °C",
+                                                "Value_Id": null,
+                                                "Markup": [
+                                                    {
+                                                        "Start": 14,
+                                                        "Length": 7,
+                                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/acetone",
+                                                        "Type": "PubChem Internal Link",
+                                                        "Extra": "CID-180",
+                                                        "Id": null,
+                                                        "StringValue_Id": null
+                                                    },
+                                                    {
+                                                        "Start": 38,
+                                                        "Length": 12,
+                                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/acetonitrile",
+                                                        "Type": "PubChem Internal Link",
+                                                        "Extra": "CID-6342",
+                                                        "Id": null,
+                                                        "StringValue_Id": null
+                                                    },
+                                                    {
+                                                        "Start": 97,
+                                                        "Length": 13,
+                                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/ethyl%20acetate",
+                                                        "Type": "PubChem Internal Link",
+                                                        "Extra": "CID-8857",
+                                                        "Id": null,
+                                                        "StringValue_Id": null
+                                                    },
+                                                    {
+                                                        "Start": 128,
+                                                        "Length": 9,
+                                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/n-heptane",
+                                                        "Type": "PubChem Internal Link",
+                                                        "Extra": "CID-8900",
+                                                        "Id": null,
+                                                        "StringValue_Id": null
+                                                    },
+                                                    {
+                                                        "Start": 151,
+                                                        "Length": 8,
+                                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/methanol",
+                                                        "Type": "PubChem Internal Link",
+                                                        "Extra": "CID-887",
+                                                        "Id": null,
+                                                        "StringValue_Id": null
+                                                    }
+                                                ]
+                                            }
+                                        ],
+                                        "ExternalDataURL": null
+                                    },
+                                    "Name": null,
+                                    "URL": null,
+                                    "Description": "PEER REVIEWED",
+                                    "Reference": [
+                                        "Tomlin CDS, ed. Tribenuron-methyl (101200-48-0). In: The e-Pesticide Manual, 13th Edition Version 3.1 (2004-05). Surrey UK, British Crop Protection Council."
+                                    ],
+                                    "Unit": null
+                                },
+                                {
+                                    "Id": 0,
+                                    "ReferenceNumber": 16,
+                                    "SectionItem_Id": null,
+                                    "Value": {
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "Number": null,
+                                        "ExternalTableNumRows": null,
+                                        "StringWithMarkup": [
+                                            {
+                                                "Id": null,
+                                                "String": "In water, 50 mg/L at pH 5; 2,040 mg/L at pH 7 and 18,300 mg/L at pH 9, all at 20 °C",
+                                                "Value_Id": null,
+                                                "Markup": [
+                                                    {
+                                                        "Start": 3,
+                                                        "Length": 5,
+                                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                                                        "Type": "PubChem Internal Link",
+                                                        "Extra": "CID-962",
+                                                        "Id": null,
+                                                        "StringValue_Id": null
+                                                    }
+                                                ]
+                                            }
+                                        ],
+                                        "ExternalDataURL": null
+                                    },
+                                    "Name": null,
+                                    "URL": null,
+                                    "Description": "PEER REVIEWED",
+                                    "Reference": [
+                                        "Tomlin CDS, ed. Tribenuron-methyl (101200-48-0). In: The e-Pesticide Manual, 13th Edition Version 3.1 (2004-05). Surrey UK, British Crop Protection Council."
+                                    ],
+                                    "Unit": null
+                                },
+                                {
+                                    "Id": 0,
+                                    "ReferenceNumber": 17,
+                                    "SectionItem_Id": null,
+                                    "Value": {
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "Number": null,
+                                        "ExternalTableNumRows": null,
+                                        "StringWithMarkup": [
+                                            {
+                                                "Id": null,
+                                                "String": "Solubility in water: good",
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            }
+                                        ],
+                                        "ExternalDataURL": null
+                                    },
+                                    "Name": null,
+                                    "URL": null,
+                                    "Description": null,
+                                    "Reference": null,
+                                    "Unit": null
+                                }
+                            ],
+                            "Section": [],
+                            "URL": null,
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "Density",
+                            "Description": "The density of a substance is its mass per unit volume.",
+                            "Information": [
+                                {
+                                    "Id": 0,
+                                    "ReferenceNumber": 16,
+                                    "SectionItem_Id": null,
+                                    "Value": {
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "Number": null,
+                                        "ExternalTableNumRows": null,
+                                        "StringWithMarkup": [
+                                            {
+                                                "Id": null,
+                                                "String": "1.46 at 20 °C",
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            }
+                                        ],
+                                        "ExternalDataURL": null
+                                    },
+                                    "Name": null,
+                                    "URL": null,
+                                    "Description": "PEER REVIEWED",
+                                    "Reference": [
+                                        "Tomlin CDS, ed. Tribenuron-methyl (101200-48-0). In: The e-Pesticide Manual, 13th Edition Version 3.1 (2004-05). Surrey UK, British Crop Protection Council."
+                                    ],
+                                    "Unit": null
+                                },
+                                {
+                                    "Id": 0,
+                                    "ReferenceNumber": 17,
+                                    "SectionItem_Id": null,
+                                    "Value": {
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "Number": null,
+                                        "ExternalTableNumRows": null,
+                                        "StringWithMarkup": [
+                                            {
+                                                "Id": null,
+                                                "String": "Relative density (water = 1): 1.5",
+                                                "Value_Id": null,
+                                                "Markup": [
+                                                    {
+                                                        "Start": 18,
+                                                        "Length": 5,
+                                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/water",
+                                                        "Type": "PubChem Internal Link",
+                                                        "Extra": "CID-962",
+                                                        "Id": null,
+                                                        "StringValue_Id": null
+                                                    }
+                                                ]
+                                            }
+                                        ],
+                                        "ExternalDataURL": null
+                                    },
+                                    "Name": null,
+                                    "URL": null,
+                                    "Description": null,
+                                    "Reference": null,
+                                    "Unit": null
+                                }
+                            ],
+                            "Section": [],
+                            "URL": null,
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "Vapor Pressure",
+                            "Description": "Vapor pressure is the pressure of a vapor in thermodynamic equilibrium with its condensed phases in a closed system.",
+                            "Information": [
+                                {
+                                    "Id": 0,
+                                    "ReferenceNumber": 7,
+                                    "SectionItem_Id": null,
+                                    "Value": {
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "Number": null,
+                                        "ExternalTableNumRows": null,
+                                        "StringWithMarkup": [
+                                            {
+                                                "Id": null,
+                                                "String": "3.90e-10 mmHg",
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            }
+                                        ],
+                                        "ExternalDataURL": null
+                                    },
+                                    "Name": "Vapor Pressure",
+                                    "URL": null,
+                                    "Description": null,
+                                    "Reference": null,
+                                    "Unit": null
+                                },
+                                {
+                                    "Id": 0,
+                                    "ReferenceNumber": 16,
+                                    "SectionItem_Id": null,
+                                    "Value": {
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "Number": null,
+                                        "ExternalTableNumRows": null,
+                                        "StringWithMarkup": [
+                                            {
+                                                "Id": null,
+                                                "String": "3.9X10-10 mm Hg at 25 °C",
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            }
+                                        ],
+                                        "ExternalDataURL": null
+                                    },
+                                    "Name": null,
+                                    "URL": null,
+                                    "Description": "PEER REVIEWED",
+                                    "Reference": [
+                                        "Tomlin CDS, ed. Tribenuron-methyl (101200-48-0). In: The e-Pesticide Manual, 13th Edition Version 3.1 (2004-05). Surrey UK, British Crop Protection Council."
+                                    ],
+                                    "Unit": null
+                                }
+                            ],
+                            "Section": [],
+                            "URL": null,
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "Octanol/Water Partition Coefficient",
+                            "Description": "Octanol/Water Partition Coefficient, used as a measure of molecular lipophilicity",
+                            "Information": [
+                                {
+                                    "Id": 0,
+                                    "ReferenceNumber": 16,
+                                    "SectionItem_Id": null,
+                                    "Value": {
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "Number": null,
+                                        "ExternalTableNumRows": null,
+                                        "StringWithMarkup": [
+                                            {
+                                                "Id": null,
+                                                "String": "log Kow = 0.78 at pH 7 and 25 °C",
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            }
+                                        ],
+                                        "ExternalDataURL": null
+                                    },
+                                    "Name": null,
+                                    "URL": null,
+                                    "Description": "PEER REVIEWED",
+                                    "Reference": [
+                                        "Tomlin CDS, ed. Tribenuron-methyl (101200-48-0). In: The e-Pesticide Manual, 13th Edition Version 3.1 (2004-05). Surrey UK, British Crop Protection Council."
+                                    ],
+                                    "Unit": null
+                                },
+                                {
+                                    "Id": 0,
+                                    "ReferenceNumber": 17,
+                                    "SectionItem_Id": null,
+                                    "Value": {
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "Number": null,
+                                        "ExternalTableNumRows": null,
+                                        "StringWithMarkup": [
+                                            {
+                                                "Id": null,
+                                                "String": "-0.44",
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            }
+                                        ],
+                                        "ExternalDataURL": null
+                                    },
+                                    "Name": null,
+                                    "URL": null,
+                                    "Description": null,
+                                    "Reference": null,
+                                    "Unit": null
+                                }
+                            ],
+                            "Section": [],
+                            "URL": null,
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "Henrys Law Constant",
+                            "Description": "At a constant temperature, the amount of a given gas that dissolves in a given type and volume of liquid is directly proportional to the partial pressure of that gas in equilibrium with that liquid",
+                            "Information": [
+                                {
+                                    "Id": 0,
+                                    "ReferenceNumber": 7,
+                                    "SectionItem_Id": null,
+                                    "Value": {
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "Number": null,
+                                        "ExternalTableNumRows": null,
+                                        "StringWithMarkup": [
+                                            {
+                                                "Id": null,
+                                                "String": "1.02e-13 atm-m3/mole",
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            }
+                                        ],
+                                        "ExternalDataURL": null
+                                    },
+                                    "Name": "Henrys Law Constant",
+                                    "URL": null,
+                                    "Description": null,
+                                    "Reference": null,
+                                    "Unit": null
+                                }
+                            ],
+                            "Section": [],
+                            "URL": null,
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "Stability/Shelf Life",
+                            "Description": "Tendency of a material to resist change or decomposition due to internal reaction, or due to the action of air, heat, light, pressure, etc. (See also Stability and Reactivity section under Safety and Hazards)",
+                            "Information": [
+                                {
+                                    "Id": 0,
+                                    "ReferenceNumber": 16,
+                                    "SectionItem_Id": null,
+                                    "Value": {
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "Number": null,
+                                        "ExternalTableNumRows": null,
+                                        "StringWithMarkup": [
+                                            {
+                                                "Id": null,
+                                                "String": "No significant photolysis occurs over the pH range 5-9 at 25 °C.",
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            }
+                                        ],
+                                        "ExternalDataURL": null
+                                    },
+                                    "Name": null,
+                                    "URL": null,
+                                    "Description": "PEER REVIEWED",
+                                    "Reference": [
+                                        "Tomlin CDS, ed. tribenuron-methyl (101200-48-0). In: The e-Pesticide Manual, 13th Edition Version 3.1 (2004-05). Surrey UK, British Crop Protection Council."
+                                    ],
+                                    "Unit": null
+                                }
+                            ],
+                            "Section": [],
+                            "URL": null,
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "Other Experimental Properties",
+                            "Description": "Additional property information.",
+                            "Information": [
+                                {
+                                    "Id": 0,
+                                    "ReferenceNumber": 16,
+                                    "SectionItem_Id": null,
+                                    "Value": {
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "Number": null,
+                                        "ExternalTableNumRows": null,
+                                        "StringWithMarkup": [
+                                            {
+                                                "Id": null,
+                                                "String": "/This herbicide belongs to the/ sulfonylurea family.",
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            }
+                                        ],
+                                        "ExternalDataURL": null
+                                    },
+                                    "Name": null,
+                                    "URL": null,
+                                    "Description": "PEER REVIEWED",
+                                    "Reference": [
+                                        "Crop Protection Handbook 2005. (Formerly Farm and Chemicals  Handbook) Willoughby, OH: Meister Publishing Co., 2005., p. D-413"
+                                    ],
+                                    "Unit": null
+                                },
+                                {
+                                    "Id": 0,
+                                    "ReferenceNumber": 16,
+                                    "SectionItem_Id": null,
+                                    "Value": {
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "Number": null,
+                                        "ExternalTableNumRows": null,
+                                        "StringWithMarkup": [
+                                            {
+                                                "Id": null,
+                                                "String": "Henry's Law constant = 1.02X10-13 atm-cu m/mol at 25 °C",
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            }
+                                        ],
+                                        "ExternalDataURL": null
+                                    },
+                                    "Name": null,
+                                    "URL": null,
+                                    "Description": "PEER REVIEWED",
+                                    "Reference": [
+                                        "Tomlin CDS, ed. Tribenuron-methyl (101200-48-0). In: The e-Pesticide Manual, 13th Edition Version 3.1 (2004-05). Surrey UK, British Crop Protection Council."
+                                    ],
+                                    "Unit": null
+                                },
+                                {
+                                    "Id": 0,
+                                    "ReferenceNumber": 16,
+                                    "SectionItem_Id": null,
+                                    "Value": {
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "Number": null,
+                                        "ExternalTableNumRows": null,
+                                        "StringWithMarkup": [
+                                            {
+                                                "Id": null,
+                                                "String": "Hydroxyl radical reaction rate constant = 2.96X10-12 cu cm/molec-sec at 25 °C (est)",
+                                                "Value_Id": null,
+                                                "Markup": [
+                                                    {
+                                                        "Start": 0,
+                                                        "Length": 8,
+                                                        "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Hydroxyl",
+                                                        "Type": "PubChem Internal Link",
+                                                        "Extra": "CID-961",
+                                                        "Id": null,
+                                                        "StringValue_Id": null
+                                                    }
+                                                ]
+                                            }
+                                        ],
+                                        "ExternalDataURL": null
+                                    },
+                                    "Name": null,
+                                    "URL": null,
+                                    "Description": "PEER REVIEWED",
+                                    "Reference": [
+                                        "US EPA; Estimation Program Interface (EPI) Suite. Ver.3.11. June 10, 2003. Available from, as of Sept 23, 2005: http://www.epa.gov/oppt/exposure/pubs/episuitedl.htm"
+                                    ],
+                                    "Unit": null
+                                }
+                            ],
+                            "Section": [],
+                            "URL": null,
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        }
+                    ],
+                    "URL": null,
+                    "Id": 0,
+                    "Section_Id": null,
+                    "Record_Id": null
+                }
+            ],
+            "URL": null,
+            "Id": 0,
+            "Section_Id": null,
+            "Record_Id": null
+        },
+        {
+            "TOCHeading": "Spectral Information",
+            "Description": "Spectral data for chemical compounds",
+            "Information": null,
+            "Section": [
+                {
+                    "TOCHeading": "Mass Spectrometry",
+                    "Description": "Mass spectrometry (MS or mass spec) is a technique to determine molecular structure through ionization and fragmentation of the parent compound into smaller components.",
+                    "Information": null,
+                    "Section": [],
+                    "URL": null,
+                    "Id": 0,
+                    "Section_Id": null,
+                    "Record_Id": null
+                }
+            ],
+            "URL": null,
+            "Id": 0,
+            "Section_Id": null,
+            "Record_Id": null
+        }
+    ],
+    "source": "https://baike.kingdraw.com/Scripts/app/detail.html?id=153909"
+}

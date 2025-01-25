@@ -1,0 +1,1382 @@
+{
+    "RecordType": "CID",
+    "RecordNumber": 2773328,
+    "RecordTitle": "2-氯咪唑;2-氯-1H-咪唑;2-Chloro-1H-imidazole",
+    "Section": [
+        {
+            "TOCHeading": "Structures",
+            "Description": "Structure depictions and information for 2D, 3D, and crystal related",
+            "Information": null,
+            "Section": [
+                {
+                    "TOCHeading": "Crystal Structures",
+                    "Description": "This section provides links to crystallographic information in the Cambridge Structural Database (CSD) hosted by the Cambridge Crystallographic Data Centre (CCDC).",
+                    "Information": null,
+                    "Section": [],
+                    "URL": "https://www.ccdc.cam.ac.uk/pages/Home.aspx",
+                    "Id": 0,
+                    "Section_Id": null,
+                    "Record_Id": null
+                }
+            ],
+            "URL": null,
+            "Id": 0,
+            "Section_Id": null,
+            "Record_Id": null
+        },
+        {
+            "TOCHeading": "Names and Identifiers",
+            "Description": "Record identifiers, synonyms, chemical names, descriptors, etc.",
+            "Information": null,
+            "Section": [
+                {
+                    "TOCHeading": "Computed Descriptors",
+                    "Description": "Descriptors generated from chemical structure input",
+                    "Information": null,
+                    "Section": [
+                        {
+                            "TOCHeading": "IUPAC Name",
+                            "Description": "Chemical name computed from chemical structure that uses International Union of Pure and Applied Chemistry (IUPAC) nomenclature standards.",
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 9,
+                                    "Value": {
+                                        "StringWithMarkup": [
+                                            {
+                                                "String": "2-chloro-1H-imidazole",
+                                                "Id": null,
+                                                "Value_Id": null,
+                                                "Markup": [
+                                                    {
+                                                        "Start": 10,
+                                                        "Length": 1,
+                                                        "URL": null,
+                                                        "Type": "Italics",
+                                                        "Extra": null,
+                                                        "Id": null,
+                                                        "StringValue_Id": null
+                                                    }
+                                                ]
+                                            }
+                                        ],
+                                        "Number": null,
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "ExternalDataURL": null
+                                    },
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Name": null,
+                                    "URL": null,
+                                    "Description": null,
+                                    "Reference": null,
+                                    "Unit": null
+                                }
+                            ],
+                            "Section": [],
+                            "URL": "http://old.iupac.org/publications/books/seriestitles/nomenclature.html",
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "InChI",
+                            "Description": "International Chemical Identifier (InChI) computed from chemical structure using the International Union of Pure and Applied Chemistry (IUPAC) standard.",
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 9,
+                                    "Value": {
+                                        "StringWithMarkup": [
+                                            {
+                                                "String": "InChI=1S/C3H3ClN2/c4-3-5-1-2-6-3/h1-2H,(H,5,6)",
+                                                "Id": null,
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            }
+                                        ],
+                                        "Number": null,
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "ExternalDataURL": null
+                                    },
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Name": null,
+                                    "URL": null,
+                                    "Description": null,
+                                    "Reference": null,
+                                    "Unit": null
+                                }
+                            ],
+                            "Section": [],
+                            "URL": "http://www.iupac.org/home/publications/e-resources/inchi.html",
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "InChI Key",
+                            "Description": "International Chemical Identifier hash (InChIKey) computed from chemical structure using the International Union of Pure and Applied Chemistry (IUPAC) standard.",
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 9,
+                                    "Value": {
+                                        "StringWithMarkup": [
+                                            {
+                                                "String": "OCVXSFKKWXMYPF-UHFFFAOYSA-N",
+                                                "Id": null,
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            }
+                                        ],
+                                        "Number": null,
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "ExternalDataURL": null
+                                    },
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Name": null,
+                                    "URL": null,
+                                    "Description": null,
+                                    "Reference": null,
+                                    "Unit": null
+                                }
+                            ],
+                            "Section": [],
+                            "URL": "http://www.iupac.org/home/publications/e-resources/inchi.html",
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "Canonical SMILES",
+                            "Description": "Simplified Molecular-Input Line-Entry System (SMILES) computed from chemical structure devoid of isotopic and stereochemical information.",
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 9,
+                                    "Value": {
+                                        "StringWithMarkup": [
+                                            {
+                                                "String": "C1=CN=C(N1)Cl",
+                                                "Id": null,
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            }
+                                        ],
+                                        "Number": null,
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "ExternalDataURL": null
+                                    },
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Name": null,
+                                    "URL": null,
+                                    "Description": null,
+                                    "Reference": null,
+                                    "Unit": null
+                                }
+                            ],
+                            "Section": [],
+                            "URL": "http://www.daylight.com/dayhtml/doc/theory/theory.smiles.html",
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        }
+                    ],
+                    "URL": null,
+                    "Id": 0,
+                    "Section_Id": null,
+                    "Record_Id": null
+                },
+                {
+                    "TOCHeading": "Other Identifiers",
+                    "Description": "Important identifiers assigned to this chemical substance by authoritative organizations",
+                    "Information": null,
+                    "Section": [
+                        {
+                            "TOCHeading": "CAS",
+                            "Description": "A proprietary registry number assigned by the Chemical Abstracts Service (CAS) division of the American Chemical Society (ACS) often used to help describe chemical ingredients.",
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 2,
+                                    "Value": {
+                                        "StringWithMarkup": [
+                                            {
+                                                "String": "16265-04-6",
+                                                "Id": null,
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            }
+                                        ],
+                                        "Number": null,
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "ExternalDataURL": null
+                                    },
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Name": null,
+                                    "URL": null,
+                                    "Description": null,
+                                    "Reference": null,
+                                    "Unit": null
+                                }
+                            ],
+                            "Section": [],
+                            "URL": "http://en.wikipedia.org/wiki/CAS_Registry_Number",
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "DSSTox Substance ID",
+                            "Description": "Substance identifier at the Distributed Structure-Searchable Toxicity (DSSTox) Database.",
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 2,
+                                    "Value": {
+                                        "StringWithMarkup": [
+                                            {
+                                                "String": "DTXSID60378378",
+                                                "Id": null,
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            }
+                                        ],
+                                        "Number": null,
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "ExternalDataURL": null
+                                    },
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Name": null,
+                                    "URL": "https://comptox.epa.gov/dashboard/DTXSID60378378",
+                                    "Description": null,
+                                    "Reference": null,
+                                    "Unit": null
+                                }
+                            ],
+                            "Section": [],
+                            "URL": "https://www.epa.gov/chemical-research/distributed-structure-searchable-toxicity-dsstox-database/",
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "Wikipedia",
+                            "Description": "Links to Wikipedia or wikidata for this record.",
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 8,
+                                    "Value": {
+                                        "StringWithMarkup": [
+                                            {
+                                                "String": "2-chloroimidazole",
+                                                "Id": null,
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            }
+                                        ],
+                                        "Number": null,
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "ExternalDataURL": null
+                                    },
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Name": "Wikipedia",
+                                    "URL": "https://www.wikidata.org/wiki/Q27123572",
+                                    "Description": null,
+                                    "Reference": null,
+                                    "Unit": null
+                                }
+                            ],
+                            "Section": [],
+                            "URL": null,
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        }
+                    ],
+                    "URL": null,
+                    "Id": 0,
+                    "Section_Id": null,
+                    "Record_Id": null
+                },
+                {
+                    "TOCHeading": "Synonyms",
+                    "Description": "Alternative names for this PubChem Compound record.  A compound can have many different names.  For example, acetone (CH3C(=O)CH3) is also known as propanone, propan-2-one, or dimethyl ketone.  The brand name of a product is commonly used to indicate the primary chemical ingredient(s) in the product (e.g., Tylenol, a common pain killer, is often used for acetaminophen, its active ingredient).  Another example of common synonyms is record identifiers used in different data collections, such as Chemical Abstract Service (CAS) registry numbers, FDA UNII (Unique Ingredient Identifiers), and many others.  All these various names and identifiers that designate this compound are organized under the Synonyms section.",
+                    "Information": null,
+                    "Section": [
+                        {
+                            "TOCHeading": "Depositor-Supplied Synonyms",
+                            "Description": "Chemical names provided by individual data contributors. Synonyms of Substances corresponding to a PubChem Compound record are combined. Some contributed names may be considered erroneous and filtered out. The link on each synonym shows which depositors provided that particular synonym for this structure.",
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 9,
+                                    "Value": {
+                                        "StringWithMarkup": [
+                                            {
+                                                "String": "2-Chloro-1H-imidazole",
+                                                "Id": null,
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "String": "16265-04-6",
+                                                "Id": null,
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "String": "2-chloroimidazole",
+                                                "Id": null,
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "String": "chloroimidazole",
+                                                "Id": null,
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "String": "1H-Imidazole, 2-chloro-",
+                                                "Id": null,
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "String": "CHEBI:52721",
+                                                "Id": null,
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "String": "MFCD02179530",
+                                                "Id": null,
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "String": "AK-60874",
+                                                "Id": null,
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "String": "W-205907",
+                                                "Id": null,
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "String": "2-Chloro-1H-Imidazole 97%",
+                                                "Id": null,
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "String": "sFtHEaDILiluH@",
+                                                "Id": null,
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "String": "PubChem7597",
+                                                "Id": null,
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "String": "2-chlor-1H-imidazol",
+                                                "Id": null,
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "String": "zlchem 1064",
+                                                "Id": null,
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "String": "AC1MCMSC",
+                                                "Id": null,
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "String": "ACMC-209dos",
+                                                "Id": null,
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "String": "1H-Imidazole,2-chloro-",
+                                                "Id": null,
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "String": "2-chloranyl-1H-imidazole",
+                                                "Id": null,
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "String": "SCHEMBL57633",
+                                                "Id": null,
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "String": "CHEMBL64560",
+                                                "Id": null,
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "String": "SCHEMBL4914376",
+                                                "Id": null,
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "String": "2-Chloro-1H-imidazole, 97%",
+                                                "Id": null,
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "String": "CTK4D1295",
+                                                "Id": null,
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "String": "DTXSID60378378",
+                                                "Id": null,
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "String": "ZLD0530",
+                                                "Id": null,
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "String": "OCVXSFKKWXMYPF-UHFFFAOYSA-N",
+                                                "Id": null,
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "String": "ACN-P000750",
+                                                "Id": null,
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "String": "ACT06031",
+                                                "Id": null,
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "String": "KS-00000JD8",
+                                                "Id": null,
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "String": "ZINC2577855",
+                                                "Id": null,
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "String": "ZX-AT017774",
+                                                "Id": null,
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "String": "ANW-22010",
+                                                "Id": null,
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "String": "CC-912",
+                                                "Id": null,
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "String": "FCH949769",
+                                                "Id": null,
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "String": "AKOS005256297",
+                                                "Id": null,
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "String": "AB11323",
+                                                "Id": null,
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "String": "ACN-000750",
+                                                "Id": null,
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "String": "MCULE-6072122645",
+                                                "Id": null,
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "String": "OR10411",
+                                                "Id": null,
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "String": "QC-4466",
+                                                "Id": null,
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "String": "RP00435",
+                                                "Id": null,
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "String": "AJ-42683",
+                                                "Id": null,
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "String": "AM803289",
+                                                "Id": null,
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "String": "AS-17494",
+                                                "Id": null,
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "String": "CC-09810",
+                                                "Id": null,
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "String": "CJ-10138",
+                                                "Id": null,
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "String": "SC-58414",
+                                                "Id": null,
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "String": "AX8002066",
+                                                "Id": null,
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "String": "DB-043532",
+                                                "Id": null,
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "String": "TR-006967",
+                                                "Id": null,
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "String": "FT-0637345",
+                                                "Id": null,
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "String": "V0428",
+                                                "Id": null,
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "String": "B-2486",
+                                                "Id": null,
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "String": "265C046",
+                                                "Id": null,
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "String": "A810399",
+                                                "Id": null,
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "String": "C-00284",
+                                                "Id": null,
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "String": "I14-22735",
+                                                "Id": null,
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "String": "5KX",
+                                                "Id": null,
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            }
+                                        ],
+                                        "Number": null,
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "ExternalDataURL": null
+                                    },
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Name": null,
+                                    "URL": null,
+                                    "Description": null,
+                                    "Reference": null,
+                                    "Unit": null
+                                }
+                            ],
+                            "Section": [],
+                            "URL": null,
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        }
+                    ],
+                    "URL": null,
+                    "Id": 0,
+                    "Section_Id": null,
+                    "Record_Id": null
+                }
+            ],
+            "URL": null,
+            "Id": 0,
+            "Section_Id": null,
+            "Record_Id": null
+        },
+        {
+            "TOCHeading": "Chemical and Physical Properties",
+            "Description": "Chemical and physical properties such as melting point, molecular weight, etc.",
+            "Information": null,
+            "Section": [
+                {
+                    "TOCHeading": "Computed Properties",
+                    "Description": "Properties computed automatically from the given chemical structure",
+                    "Information": null,
+                    "Section": [
+                        {
+                            "TOCHeading": "Molecular Weight",
+                            "Description": "Molecular weight or molecular mass refers to the mass of a molecule. It is calculated as the sum of the mass of each constituent atom multiplied by the number of atoms of that element in the molecular formula.",
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 9,
+                                    "Value": {
+                                        "StringWithMarkup": null,
+                                        "Number": [
+                                            102.52
+                                        ],
+                                        "Id": 0,
+                                        "Unit": "g/mol",
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "ExternalDataURL": null
+                                    },
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Name": null,
+                                    "URL": null,
+                                    "Description": null,
+                                    "Reference": null,
+                                    "Unit": null
+                                }
+                            ],
+                            "Section": [],
+                            "URL": null,
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "XLogP3",
+                            "Description": "Computed Octanol/Water Partition Coefficient",
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 9,
+                                    "Value": {
+                                        "StringWithMarkup": null,
+                                        "Number": [
+                                            1
+                                        ],
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "ExternalDataURL": null
+                                    },
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Name": "XLogP3-AA",
+                                    "URL": null,
+                                    "Description": null,
+                                    "Reference": null,
+                                    "Unit": null
+                                }
+                            ],
+                            "Section": [],
+                            "URL": null,
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "Hydrogen Bond Donor Count",
+                            "Description": "Hydrogen Bond Donor count",
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 9,
+                                    "Value": {
+                                        "StringWithMarkup": null,
+                                        "Number": [
+                                            1
+                                        ],
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "ExternalDataURL": null
+                                    },
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Name": null,
+                                    "URL": null,
+                                    "Description": null,
+                                    "Reference": null,
+                                    "Unit": null
+                                }
+                            ],
+                            "Section": [],
+                            "URL": null,
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "Hydrogen Bond Acceptor Count",
+                            "Description": "Hydrogen Bond Acceptor count",
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 9,
+                                    "Value": {
+                                        "StringWithMarkup": null,
+                                        "Number": [
+                                            1
+                                        ],
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "ExternalDataURL": null
+                                    },
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Name": null,
+                                    "URL": null,
+                                    "Description": null,
+                                    "Reference": null,
+                                    "Unit": null
+                                }
+                            ],
+                            "Section": [],
+                            "URL": null,
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "Rotatable Bond Count",
+                            "Description": "Rotatable bond is defined as any single non-ring bond, bounded to nonterminal heavy (i.e., non-hydrogen) atom.",
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 9,
+                                    "Value": {
+                                        "StringWithMarkup": null,
+                                        "Number": [
+                                            0
+                                        ],
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "ExternalDataURL": null
+                                    },
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Name": null,
+                                    "URL": null,
+                                    "Description": null,
+                                    "Reference": null,
+                                    "Unit": null
+                                }
+                            ],
+                            "Section": [],
+                            "URL": null,
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "Exact Mass",
+                            "Description": "The exact mass of an isotopic species is obtained by summing the masses of the individual isotopes of the molecule.",
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 9,
+                                    "Value": {
+                                        "StringWithMarkup": null,
+                                        "Number": [
+                                            101.998476
+                                        ],
+                                        "Id": 0,
+                                        "Unit": "g/mol",
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "ExternalDataURL": null
+                                    },
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Name": null,
+                                    "URL": null,
+                                    "Description": null,
+                                    "Reference": null,
+                                    "Unit": null
+                                }
+                            ],
+                            "Section": [],
+                            "URL": null,
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "Monoisotopic Mass",
+                            "Description": "The monoisotopic mass is the sum of the masses of the atoms in a molecule using the unbound, ground-state, rest mass of the principal (most abundant) isotope for each element instead of the isotopic average mass.",
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 9,
+                                    "Value": {
+                                        "StringWithMarkup": null,
+                                        "Number": [
+                                            101.998476
+                                        ],
+                                        "Id": 0,
+                                        "Unit": "g/mol",
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "ExternalDataURL": null
+                                    },
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Name": null,
+                                    "URL": null,
+                                    "Description": null,
+                                    "Reference": null,
+                                    "Unit": null
+                                }
+                            ],
+                            "Section": [],
+                            "URL": null,
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "Topological Polar Surface Area",
+                            "Description": "The topological polar surface area (TPSA) of a molecule is defined as the surface sum over all polar atoms in a molecule. ",
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 9,
+                                    "Value": {
+                                        "StringWithMarkup": null,
+                                        "Number": [
+                                            28.7
+                                        ],
+                                        "Id": 0,
+                                        "Unit": "A^2",
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "ExternalDataURL": null
+                                    },
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Name": null,
+                                    "URL": null,
+                                    "Description": null,
+                                    "Reference": null,
+                                    "Unit": null
+                                }
+                            ],
+                            "Section": [],
+                            "URL": null,
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "Heavy Atom Count",
+                            "Description": "A heavy atom is defined as any atom except hydrogen in a chemical structure.",
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 9,
+                                    "Value": {
+                                        "StringWithMarkup": null,
+                                        "Number": [
+                                            6
+                                        ],
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "ExternalDataURL": null
+                                    },
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Name": null,
+                                    "URL": null,
+                                    "Description": null,
+                                    "Reference": null,
+                                    "Unit": null
+                                }
+                            ],
+                            "Section": [],
+                            "URL": null,
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "Formal Charge",
+                            "Description": "Formal charge is the difference between the number of valence electrons of each atom and the number of electrons the atom is associated with. Formal charge assumes any shared electrons are equally shared between the two bonded atoms.",
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 9,
+                                    "Value": {
+                                        "StringWithMarkup": null,
+                                        "Number": [
+                                            0
+                                        ],
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "ExternalDataURL": null
+                                    },
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Name": null,
+                                    "URL": null,
+                                    "Description": null,
+                                    "Reference": null,
+                                    "Unit": null
+                                }
+                            ],
+                            "Section": [],
+                            "URL": null,
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "Complexity",
+                            "Description": "The complexity rating of a compound is a rough estimate of how complicated a structure is, seen from both the point of view of the elements contained and the displayed structural features including symmetry. This complexity rating is computed using the Bertz/Hendrickson/Ihlenfeldt formula.",
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 9,
+                                    "Value": {
+                                        "StringWithMarkup": null,
+                                        "Number": [
+                                            48.1
+                                        ],
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "ExternalDataURL": null
+                                    },
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Name": null,
+                                    "URL": null,
+                                    "Description": null,
+                                    "Reference": null,
+                                    "Unit": null
+                                }
+                            ],
+                            "Section": [],
+                            "URL": null,
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "Isotope Atom Count",
+                            "Description": "Isotopte Atom Count is the number of isotopes that are not most abundant for the corresponding chemical elements.  Isotopes are variants of a chemical element which differ in neutron number.  For example, among three isotopes of carbon (i.e., C-12, C-13, and C-14), the isotope atom count considers the C-13 and C-14 atoms, because C-12 is the most abundant isotope of carbon.",
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 9,
+                                    "Value": {
+                                        "StringWithMarkup": null,
+                                        "Number": [
+                                            0
+                                        ],
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "ExternalDataURL": null
+                                    },
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Name": null,
+                                    "URL": null,
+                                    "Description": null,
+                                    "Reference": null,
+                                    "Unit": null
+                                }
+                            ],
+                            "Section": [],
+                            "URL": null,
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "Defined Atom Stereocenter Count",
+                            "Description": "An atom stereocenter, also known as a chiral center, is an atom that is attached to four different types of atoms (or groups of atoms) in the tetrahedral arrangement. It can have either (R)- or (S)- configurations.  Some compounds, such as racemic mixtures, have an undefined atom stereocenter, whose (R/S)-configuration is not specifically defined.",
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 9,
+                                    "Value": {
+                                        "StringWithMarkup": null,
+                                        "Number": [
+                                            0
+                                        ],
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "ExternalDataURL": null
+                                    },
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Name": null,
+                                    "URL": null,
+                                    "Description": null,
+                                    "Reference": null,
+                                    "Unit": null
+                                }
+                            ],
+                            "Section": [],
+                            "URL": null,
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "Undefined Atom Stereocenter Count",
+                            "Description": "An atom stereocenter, also known as a chiral center, is an atom that is attached to four different types of atoms (or groups of atoms) in the tetrahedral arrangement. It can have either (R)- or (S)- configurations.  Some compounds, such as racemic mixtures, have an undefined atom stereocenter, whose (R/S)-configuration is not specifically defined.",
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 9,
+                                    "Value": {
+                                        "StringWithMarkup": null,
+                                        "Number": [
+                                            0
+                                        ],
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "ExternalDataURL": null
+                                    },
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Name": null,
+                                    "URL": null,
+                                    "Description": null,
+                                    "Reference": null,
+                                    "Unit": null
+                                }
+                            ],
+                            "Section": [],
+                            "URL": null,
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "Defined Bond Stereocenter Count",
+                            "Description": "A bond stereocenter is a non-rotatable bond around which two atoms can have different arrangement (as in cis- and trans-forms of butene around its double bond).  Some compounds have an undefined bond stereocenter, whose stereochemistry is not specifically defined.",
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 9,
+                                    "Value": {
+                                        "StringWithMarkup": null,
+                                        "Number": [
+                                            0
+                                        ],
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "ExternalDataURL": null
+                                    },
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Name": null,
+                                    "URL": null,
+                                    "Description": null,
+                                    "Reference": null,
+                                    "Unit": null
+                                }
+                            ],
+                            "Section": [],
+                            "URL": null,
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "Undefined Bond Stereocenter Count",
+                            "Description": "A bond stereocenter is a non-rotatable bond around which two atoms can have different arrangement (as in cis- and trans-forms of butene around its double bond).  Some compounds have an undefined bond stereocenter, whose stereochemistry is not specifically defined.",
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 9,
+                                    "Value": {
+                                        "StringWithMarkup": null,
+                                        "Number": [
+                                            0
+                                        ],
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "ExternalDataURL": null
+                                    },
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Name": null,
+                                    "URL": null,
+                                    "Description": null,
+                                    "Reference": null,
+                                    "Unit": null
+                                }
+                            ],
+                            "Section": [],
+                            "URL": null,
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "Covalently-Bonded Unit Count",
+                            "Description": "Covalently-Bonded Unit Count ",
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 9,
+                                    "Value": {
+                                        "StringWithMarkup": null,
+                                        "Number": [
+                                            1
+                                        ],
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "ExternalDataURL": null
+                                    },
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Name": null,
+                                    "URL": null,
+                                    "Description": null,
+                                    "Reference": null,
+                                    "Unit": null
+                                }
+                            ],
+                            "Section": [],
+                            "URL": null,
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "Compound Is Canonicalized",
+                            "Description": "Compound is canonicalized",
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 9,
+                                    "Value": {
+                                        "StringWithMarkup": [
+                                            {
+                                                "String": "Yes",
+                                                "Id": null,
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            }
+                                        ],
+                                        "Number": null,
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "ExternalDataURL": null
+                                    },
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Name": null,
+                                    "URL": null,
+                                    "Description": null,
+                                    "Reference": null,
+                                    "Unit": null
+                                }
+                            ],
+                            "Section": [],
+                            "URL": null,
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        }
+                    ],
+                    "URL": null,
+                    "Id": 0,
+                    "Section_Id": null,
+                    "Record_Id": null
+                }
+            ],
+            "URL": null,
+            "Id": 0,
+            "Section_Id": null,
+            "Record_Id": null
+        }
+    ],
+    "Id": 0,
+    "RecordTitleCN": "2-氯咪唑;2-氯-1H-咪唑",
+    "Structure": "https://pubchem.ncbi.nlm.nih.gov/image/imgsrv.fcgi?cid=2773328&t=l",
+    "InChIKeyList": [
+        "OCVXSFKKWXMYPF-UHFFFAOYSA-N"
+    ],
+    "InChIList": [
+        "InChI=1S/C3H3ClN2/c4-3-5-1-2-6-3/h1-2H,(H,5,6)"
+    ],
+    "MolecularWeightList": [
+        "102.52 g/mol"
+    ],
+    "ChemicalNamesList": [
+        "2-chloro-1H-imidazole"
+    ],
+    "SMILESList": [
+        "C1=CN=C(N1)Cl"
+    ],
+    "CasList": [
+        "16265-04-6"
+    ],
+    "MolecularFormulaList": [],
+    "ChemicalSafetyList": [
+        {
+            "Name": "Corrosive",
+            "Src": "https://pubchem.ncbi.nlm.nih.gov/images/ghs/GHS05.svg"
+        },
+        {
+            "Name": "Irritant",
+            "Src": "https://pubchem.ncbi.nlm.nih.gov/images/ghs/GHS07.svg"
+        }
+    ],
+    "source": "https://baike.kingdraw.com/Scripts/app/detail.html?id=2773328"
+}

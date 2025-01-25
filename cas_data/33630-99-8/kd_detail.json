@@ -1,0 +1,1905 @@
+{
+    "Id": 0,
+    "RecordType": "CID",
+    "RecordNumber": 322353,
+    "RecordTitle": "3-氨基-2-羟基吡啶;3-Amino-2-hydroxypyridine",
+    "RecordTitleCN": "3-氨基-2-羟基吡啶",
+    "Structure": "https://pubchem.ncbi.nlm.nih.gov/image/imgsrv.fcgi?cid=322353&t=l",
+    "InChIKeyList": [
+        "VTSFNCCQCOEPKF-UHFFFAOYSA-N"
+    ],
+    "InChIList": [
+        "InChI=1S/C5H6N2O/c6-4-2-1-3-7-5(4)8/h1-3H,6H2,(H,7,8)"
+    ],
+    "MolecularWeightList": [
+        "110.11 g/mol"
+    ],
+    "ChemicalNamesList": [
+        "3-amino-1H-pyridin-2-one"
+    ],
+    "SMILESList": [
+        "C1=CNC(=O)C(=C1)N"
+    ],
+    "CasList": [
+        "33630-99-8"
+    ],
+    "MolecularFormulaList": [],
+    "ChemicalSafetyList": [
+        {
+            "Name": "Corrosive",
+            "Src": "https://pubchem.ncbi.nlm.nih.gov/images/ghs/GHS05.svg"
+        },
+        {
+            "Name": "Irritant",
+            "Src": "https://pubchem.ncbi.nlm.nih.gov/images/ghs/GHS07.svg"
+        }
+    ],
+    "Section": [
+        {
+            "Id": 0,
+            "TOCHeading": "Structures",
+            "Description": "Structure depictions and information for 2D, 3D, and crystal related",
+            "Section_Id": null,
+            "Record_Id": null,
+            "URL": null,
+            "Information": null,
+            "Section": []
+        },
+        {
+            "Id": 0,
+            "TOCHeading": "Names and Identifiers",
+            "Description": "Record identifiers, synonyms, chemical names, descriptors, etc.",
+            "Section_Id": null,
+            "Record_Id": null,
+            "URL": null,
+            "Information": null,
+            "Section": [
+                {
+                    "Id": 0,
+                    "TOCHeading": "Computed Descriptors",
+                    "Description": "Descriptors generated from chemical structure input",
+                    "Section_Id": null,
+                    "Record_Id": null,
+                    "URL": null,
+                    "Information": null,
+                    "Section": [
+                        {
+                            "Id": 0,
+                            "TOCHeading": "IUPAC Name",
+                            "Description": "Chemical name computed from chemical structure that uses International Union of Pure and Applied Chemistry (IUPAC) nomenclature standards.",
+                            "Section_Id": null,
+                            "Record_Id": null,
+                            "URL": "http://old.iupac.org/publications/books/seriestitles/nomenclature.html",
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 10,
+                                    "Reference": null,
+                                    "Value": {
+                                        "Number": null,
+                                        "StringWithMarkup": [
+                                            {
+                                                "String": "3-amino-1H-pyridin-2-one",
+                                                "Markup": [
+                                                    {
+                                                        "Id": null,
+                                                        "StringValue_Id": null,
+                                                        "Start": 9,
+                                                        "Length": 1,
+                                                        "URL": null,
+                                                        "Type": "Italics",
+                                                        "Extra": null
+                                                    }
+                                                ],
+                                                "Id": null,
+                                                "Value_Id": null
+                                            }
+                                        ],
+                                        "Unit": null,
+                                        "ExternalDataURL": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "Id": 0,
+                                        "InformationItem_Id": null
+                                    },
+                                    "Name": null,
+                                    "URL": null,
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null,
+                                    "Description": null
+                                }
+                            ],
+                            "Section": []
+                        },
+                        {
+                            "Id": 0,
+                            "TOCHeading": "InChI",
+                            "Description": "International Chemical Identifier (InChI) computed from chemical structure using the International Union of Pure and Applied Chemistry (IUPAC) standard.",
+                            "Section_Id": null,
+                            "Record_Id": null,
+                            "URL": "http://www.iupac.org/home/publications/e-resources/inchi.html",
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 10,
+                                    "Reference": null,
+                                    "Value": {
+                                        "Number": null,
+                                        "StringWithMarkup": [
+                                            {
+                                                "String": "InChI=1S/C5H6N2O/c6-4-2-1-3-7-5(4)8/h1-3H,6H2,(H,7,8)",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            }
+                                        ],
+                                        "Unit": null,
+                                        "ExternalDataURL": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "Id": 0,
+                                        "InformationItem_Id": null
+                                    },
+                                    "Name": null,
+                                    "URL": null,
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null,
+                                    "Description": null
+                                }
+                            ],
+                            "Section": []
+                        },
+                        {
+                            "Id": 0,
+                            "TOCHeading": "InChI Key",
+                            "Description": "International Chemical Identifier hash (InChIKey) computed from chemical structure using the International Union of Pure and Applied Chemistry (IUPAC) standard.",
+                            "Section_Id": null,
+                            "Record_Id": null,
+                            "URL": "http://www.iupac.org/home/publications/e-resources/inchi.html",
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 10,
+                                    "Reference": null,
+                                    "Value": {
+                                        "Number": null,
+                                        "StringWithMarkup": [
+                                            {
+                                                "String": "VTSFNCCQCOEPKF-UHFFFAOYSA-N",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            }
+                                        ],
+                                        "Unit": null,
+                                        "ExternalDataURL": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "Id": 0,
+                                        "InformationItem_Id": null
+                                    },
+                                    "Name": null,
+                                    "URL": null,
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null,
+                                    "Description": null
+                                }
+                            ],
+                            "Section": []
+                        },
+                        {
+                            "Id": 0,
+                            "TOCHeading": "Canonical SMILES",
+                            "Description": "Simplified Molecular-Input Line-Entry System (SMILES) computed from chemical structure devoid of isotopic and stereochemical information.",
+                            "Section_Id": null,
+                            "Record_Id": null,
+                            "URL": "http://www.daylight.com/dayhtml/doc/theory/theory.smiles.html",
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 10,
+                                    "Reference": null,
+                                    "Value": {
+                                        "Number": null,
+                                        "StringWithMarkup": [
+                                            {
+                                                "String": "C1=CNC(=O)C(=C1)N",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            }
+                                        ],
+                                        "Unit": null,
+                                        "ExternalDataURL": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "Id": 0,
+                                        "InformationItem_Id": null
+                                    },
+                                    "Name": null,
+                                    "URL": null,
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null,
+                                    "Description": null
+                                }
+                            ],
+                            "Section": []
+                        }
+                    ]
+                },
+                {
+                    "Id": 0,
+                    "TOCHeading": "Other Identifiers",
+                    "Description": "Important identifiers assigned to this chemical substance by authoritative organizations",
+                    "Section_Id": null,
+                    "Record_Id": null,
+                    "URL": null,
+                    "Information": null,
+                    "Section": [
+                        {
+                            "Id": 0,
+                            "TOCHeading": "CAS",
+                            "Description": "A proprietary registry number assigned by the Chemical Abstracts Service (CAS) division of the American Chemical Society (ACS) often used to help describe chemical ingredients.",
+                            "Section_Id": null,
+                            "Record_Id": null,
+                            "URL": "http://en.wikipedia.org/wiki/CAS_Registry_Number",
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 1,
+                                    "Reference": null,
+                                    "Value": {
+                                        "Number": null,
+                                        "StringWithMarkup": [
+                                            {
+                                                "String": "33630-99-8",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            }
+                                        ],
+                                        "Unit": null,
+                                        "ExternalDataURL": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "Id": 0,
+                                        "InformationItem_Id": null
+                                    },
+                                    "Name": null,
+                                    "URL": null,
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null,
+                                    "Description": null
+                                },
+                                {
+                                    "ReferenceNumber": 2,
+                                    "Reference": null,
+                                    "Value": {
+                                        "Number": null,
+                                        "StringWithMarkup": [
+                                            {
+                                                "String": "33630-99-8",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            }
+                                        ],
+                                        "Unit": null,
+                                        "ExternalDataURL": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "Id": 0,
+                                        "InformationItem_Id": null
+                                    },
+                                    "Name": "CAS",
+                                    "URL": null,
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null,
+                                    "Description": null
+                                },
+                                {
+                                    "ReferenceNumber": 3,
+                                    "Reference": null,
+                                    "Value": {
+                                        "Number": null,
+                                        "StringWithMarkup": [
+                                            {
+                                                "String": "33630-99-8",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            }
+                                        ],
+                                        "Unit": null,
+                                        "ExternalDataURL": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "Id": 0,
+                                        "InformationItem_Id": null
+                                    },
+                                    "Name": null,
+                                    "URL": null,
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null,
+                                    "Description": null
+                                }
+                            ],
+                            "Section": []
+                        },
+                        {
+                            "Id": 0,
+                            "TOCHeading": "NSC Number",
+                            "Description": "The NSC number is a numeric identifier for substances submitted to the National Cancer Institute (NCI) for testing and evaluation. It is a registration number for the Developmental Therapeutics Program (DTP) repository. NSC stands for National Service Center.",
+                            "Section_Id": null,
+                            "Record_Id": null,
+                            "URL": null,
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 2,
+                                    "Reference": null,
+                                    "Value": {
+                                        "Number": null,
+                                        "StringWithMarkup": [
+                                            {
+                                                "String": "279497",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            }
+                                        ],
+                                        "Unit": null,
+                                        "ExternalDataURL": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "Id": 0,
+                                        "InformationItem_Id": null
+                                    },
+                                    "Name": "NSC Number",
+                                    "URL": "https://dtp.cancer.gov/dtpstandard/servlet/dwindex?searchtype=NSC&outputformat=html&searchlist=279497",
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null,
+                                    "Description": null
+                                }
+                            ],
+                            "Section": []
+                        },
+                        {
+                            "Id": 0,
+                            "TOCHeading": "DSSTox Substance ID",
+                            "Description": "Substance identifier at the Distributed Structure-Searchable Toxicity (DSSTox) Database.",
+                            "Section_Id": null,
+                            "Record_Id": null,
+                            "URL": "https://www.epa.gov/chemical-research/distributed-structure-searchable-toxicity-dsstox-database/",
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 3,
+                                    "Reference": null,
+                                    "Value": {
+                                        "Number": null,
+                                        "StringWithMarkup": [
+                                            {
+                                                "String": "DTXSID70187317",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            }
+                                        ],
+                                        "Unit": null,
+                                        "ExternalDataURL": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "Id": 0,
+                                        "InformationItem_Id": null
+                                    },
+                                    "Name": null,
+                                    "URL": "https://comptox.epa.gov/dashboard/DTXSID70187317",
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null,
+                                    "Description": null
+                                }
+                            ],
+                            "Section": []
+                        }
+                    ]
+                },
+                {
+                    "Id": 0,
+                    "TOCHeading": "Synonyms",
+                    "Description": "Alternative names for this PubChem Compound record.  A compound can have many different names.  For example, acetone (CH3C(=O)CH3) is also known as propanone, propan-2-one, or dimethyl ketone.  The brand name of a product is commonly used to indicate the primary chemical ingredient(s) in the product (e.g., Tylenol, a common pain killer, is often used for acetaminophen, its active ingredient).  Another example of common synonyms is record identifiers used in different data collections, such as Chemical Abstract Service (CAS) registry numbers, FDA UNII (Unique Ingredient Identifiers), and many others.  All these various names and identifiers that designate this compound are organized under the Synonyms section.",
+                    "Section_Id": null,
+                    "Record_Id": null,
+                    "URL": null,
+                    "Information": null,
+                    "Section": [
+                        {
+                            "Id": 0,
+                            "TOCHeading": "Depositor-Supplied Synonyms",
+                            "Description": "Chemical names provided by individual data contributors. Synonyms of Substances corresponding to a PubChem Compound record are combined. Some contributed names may be considered erroneous and filtered out. The link on each synonym shows which depositors provided that particular synonym for this structure.",
+                            "Section_Id": null,
+                            "Record_Id": null,
+                            "URL": null,
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 10,
+                                    "Reference": null,
+                                    "Value": {
+                                        "Number": null,
+                                        "StringWithMarkup": [
+                                            {
+                                                "String": "3-Amino-2-hydroxypyridine",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "33630-99-8",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "3-aminopyridin-2-ol",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "3-Amino-2-pyridinol",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "59315-44-5",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "3-aminopyridin-2(1H)-one",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "2(1H)-Pyridinone, 3-amino-",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "3-Amino-2-pyridone",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "3-amino-1H-pyridin-2-one",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "3-amino-pyridin-2-ol",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "2-Pyridinol, 3-amino-",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "2-HYDROXY-3-AMINOPYRIDINE",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "3-Amino-2-pyridinone",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "NSC279497",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "3-aminohydropyridin-2-one",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "3-Amino-2(1H)-pyridinone",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "2(1H)-Pyridinone,3-amino-",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "VTSFNCCQCOEPKF-UHFFFAOYSA-N",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "MFCD03411556",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "3-Amino-2-pyridinol, 97%",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "aminopyridinone",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "aminopyridone",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "Aminopyridinol",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "3-aminopyrid-2-one",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "NSC 279497",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "PubChem1263",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "3-Aminopyridine-2-ol",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "ACMC-1AJGZ",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "3-amino-2-hydroxy pyridine",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "3-amino-2-hydroxy-pyridine",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "SCHEMBL87697",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "3-azanyl-1H-pyridin-2-one",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "KSC269G4B",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "ACMC-209i21",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "SCHEMBL7834765",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "3-Amino-2(1H)-pyridinone #",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "CTK1G9340",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "CTK7H0285",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "DTXSID70187317",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "Pyridin-2(1H)-one, 3-amino-",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "3-amino-1,2-dihydropyridin-2-one",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "AC1L8692",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "ACN-S003496",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "ACT01552",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "ALBB-027684",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "KS-00000PC2",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "KS-000010TU",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "ZERO/001732",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "ZINC8698104",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "1,2-Dihydro-2-oxopyridin-3-amine",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "3-Amino-1,2-dihydro-2-oxopyridine",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "AC-074",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "ANW-27671",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "ANW-51533",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "BBL100664",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "CA-239",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "SBB051906",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "STK776258",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "STL554458",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "AKOS002670113",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "AKOS005618212",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "3-amino-2-hydroxypyridine, AldrichCPR",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "CS-W004662",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "MCULE-2705834056",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "NSC-279497",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "PB30752",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "PS-3655",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "RP08465",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "RP18977",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "RTC-062463",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "VP11025",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "VP14460",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "AJ-57936",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "AK-26159",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "AK-88485",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "AM807018",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "AN-16147",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "BC202198",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "BR-26159",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "HC150115",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "N345",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "SC-03575",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "SC-51165",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "ST041905",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "SY008406",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "TS-01536",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "AB0015719",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "AB0068998",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "AB1004961",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "ST2417486",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "TC-062463",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "TL8002536",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "FT-0601494",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "FT-0649416",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "C-8187",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "K-7745",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "Z-4054",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "MFCD03411556 (97+%)",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "630A998",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "A821885",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "AE-641/00363028",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "I02-0497",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "I02-1354",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "J-505326",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "J-511548",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "92Z",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            }
+                                        ],
+                                        "Unit": null,
+                                        "ExternalDataURL": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "Id": 0,
+                                        "InformationItem_Id": null
+                                    },
+                                    "Name": null,
+                                    "URL": null,
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null,
+                                    "Description": null
+                                }
+                            ],
+                            "Section": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Id": 0,
+            "TOCHeading": "Chemical and Physical Properties",
+            "Description": "Chemical and physical properties such as melting point, molecular weight, etc.",
+            "Section_Id": null,
+            "Record_Id": null,
+            "URL": null,
+            "Information": null,
+            "Section": [
+                {
+                    "Id": 0,
+                    "TOCHeading": "Computed Properties",
+                    "Description": "Properties computed automatically from the given chemical structure",
+                    "Section_Id": null,
+                    "Record_Id": null,
+                    "URL": null,
+                    "Information": null,
+                    "Section": [
+                        {
+                            "Id": 0,
+                            "TOCHeading": "Molecular Weight",
+                            "Description": "Molecular weight or molecular mass refers to the mass of a molecule. It is calculated as the sum of the mass of each constituent atom multiplied by the number of atoms of that element in the molecular formula.",
+                            "Section_Id": null,
+                            "Record_Id": null,
+                            "URL": null,
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 10,
+                                    "Reference": null,
+                                    "Value": {
+                                        "Number": [
+                                            110.11
+                                        ],
+                                        "StringWithMarkup": null,
+                                        "Unit": "g/mol",
+                                        "ExternalDataURL": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "Id": 0,
+                                        "InformationItem_Id": null
+                                    },
+                                    "Name": null,
+                                    "URL": null,
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null,
+                                    "Description": null
+                                }
+                            ],
+                            "Section": []
+                        },
+                        {
+                            "Id": 0,
+                            "TOCHeading": "XLogP3",
+                            "Description": "Computed Octanol/Water Partition Coefficient",
+                            "Section_Id": null,
+                            "Record_Id": null,
+                            "URL": null,
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 10,
+                                    "Reference": null,
+                                    "Value": {
+                                        "Number": [
+                                            -0.3
+                                        ],
+                                        "StringWithMarkup": null,
+                                        "Unit": null,
+                                        "ExternalDataURL": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "Id": 0,
+                                        "InformationItem_Id": null
+                                    },
+                                    "Name": "XLogP3-AA",
+                                    "URL": null,
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null,
+                                    "Description": null
+                                }
+                            ],
+                            "Section": []
+                        },
+                        {
+                            "Id": 0,
+                            "TOCHeading": "Hydrogen Bond Donor Count",
+                            "Description": "Hydrogen Bond Donor count",
+                            "Section_Id": null,
+                            "Record_Id": null,
+                            "URL": null,
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 10,
+                                    "Reference": null,
+                                    "Value": {
+                                        "Number": [
+                                            2
+                                        ],
+                                        "StringWithMarkup": null,
+                                        "Unit": null,
+                                        "ExternalDataURL": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "Id": 0,
+                                        "InformationItem_Id": null
+                                    },
+                                    "Name": null,
+                                    "URL": null,
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null,
+                                    "Description": null
+                                }
+                            ],
+                            "Section": []
+                        },
+                        {
+                            "Id": 0,
+                            "TOCHeading": "Hydrogen Bond Acceptor Count",
+                            "Description": "Hydrogen Bond Acceptor count",
+                            "Section_Id": null,
+                            "Record_Id": null,
+                            "URL": null,
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 10,
+                                    "Reference": null,
+                                    "Value": {
+                                        "Number": [
+                                            2
+                                        ],
+                                        "StringWithMarkup": null,
+                                        "Unit": null,
+                                        "ExternalDataURL": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "Id": 0,
+                                        "InformationItem_Id": null
+                                    },
+                                    "Name": null,
+                                    "URL": null,
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null,
+                                    "Description": null
+                                }
+                            ],
+                            "Section": []
+                        },
+                        {
+                            "Id": 0,
+                            "TOCHeading": "Rotatable Bond Count",
+                            "Description": "Rotatable bond is defined as any single non-ring bond, bounded to nonterminal heavy (i.e., non-hydrogen) atom.",
+                            "Section_Id": null,
+                            "Record_Id": null,
+                            "URL": null,
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 10,
+                                    "Reference": null,
+                                    "Value": {
+                                        "Number": [
+                                            0
+                                        ],
+                                        "StringWithMarkup": null,
+                                        "Unit": null,
+                                        "ExternalDataURL": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "Id": 0,
+                                        "InformationItem_Id": null
+                                    },
+                                    "Name": null,
+                                    "URL": null,
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null,
+                                    "Description": null
+                                }
+                            ],
+                            "Section": []
+                        },
+                        {
+                            "Id": 0,
+                            "TOCHeading": "Exact Mass",
+                            "Description": "The exact mass of an isotopic species is obtained by summing the masses of the individual isotopes of the molecule.",
+                            "Section_Id": null,
+                            "Record_Id": null,
+                            "URL": null,
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 10,
+                                    "Reference": null,
+                                    "Value": {
+                                        "Number": [
+                                            110.048013
+                                        ],
+                                        "StringWithMarkup": null,
+                                        "Unit": "g/mol",
+                                        "ExternalDataURL": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "Id": 0,
+                                        "InformationItem_Id": null
+                                    },
+                                    "Name": null,
+                                    "URL": null,
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null,
+                                    "Description": null
+                                }
+                            ],
+                            "Section": []
+                        },
+                        {
+                            "Id": 0,
+                            "TOCHeading": "Monoisotopic Mass",
+                            "Description": "The monoisotopic mass is the sum of the masses of the atoms in a molecule using the unbound, ground-state, rest mass of the principal (most abundant) isotope for each element instead of the isotopic average mass.",
+                            "Section_Id": null,
+                            "Record_Id": null,
+                            "URL": null,
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 10,
+                                    "Reference": null,
+                                    "Value": {
+                                        "Number": [
+                                            110.048013
+                                        ],
+                                        "StringWithMarkup": null,
+                                        "Unit": "g/mol",
+                                        "ExternalDataURL": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "Id": 0,
+                                        "InformationItem_Id": null
+                                    },
+                                    "Name": null,
+                                    "URL": null,
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null,
+                                    "Description": null
+                                }
+                            ],
+                            "Section": []
+                        },
+                        {
+                            "Id": 0,
+                            "TOCHeading": "Topological Polar Surface Area",
+                            "Description": "The topological polar surface area (TPSA) of a molecule is defined as the surface sum over all polar atoms in a molecule. ",
+                            "Section_Id": null,
+                            "Record_Id": null,
+                            "URL": null,
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 10,
+                                    "Reference": null,
+                                    "Value": {
+                                        "Number": [
+                                            55.1
+                                        ],
+                                        "StringWithMarkup": null,
+                                        "Unit": "A^2",
+                                        "ExternalDataURL": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "Id": 0,
+                                        "InformationItem_Id": null
+                                    },
+                                    "Name": null,
+                                    "URL": null,
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null,
+                                    "Description": null
+                                }
+                            ],
+                            "Section": []
+                        },
+                        {
+                            "Id": 0,
+                            "TOCHeading": "Heavy Atom Count",
+                            "Description": "A heavy atom is defined as any atom except hydrogen in a chemical structure.",
+                            "Section_Id": null,
+                            "Record_Id": null,
+                            "URL": null,
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 10,
+                                    "Reference": null,
+                                    "Value": {
+                                        "Number": [
+                                            8
+                                        ],
+                                        "StringWithMarkup": null,
+                                        "Unit": null,
+                                        "ExternalDataURL": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "Id": 0,
+                                        "InformationItem_Id": null
+                                    },
+                                    "Name": null,
+                                    "URL": null,
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null,
+                                    "Description": null
+                                }
+                            ],
+                            "Section": []
+                        },
+                        {
+                            "Id": 0,
+                            "TOCHeading": "Formal Charge",
+                            "Description": "Formal charge is the difference between the number of valence electrons of each atom and the number of electrons the atom is associated with. Formal charge assumes any shared electrons are equally shared between the two bonded atoms.",
+                            "Section_Id": null,
+                            "Record_Id": null,
+                            "URL": null,
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 10,
+                                    "Reference": null,
+                                    "Value": {
+                                        "Number": [
+                                            0
+                                        ],
+                                        "StringWithMarkup": null,
+                                        "Unit": null,
+                                        "ExternalDataURL": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "Id": 0,
+                                        "InformationItem_Id": null
+                                    },
+                                    "Name": null,
+                                    "URL": null,
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null,
+                                    "Description": null
+                                }
+                            ],
+                            "Section": []
+                        },
+                        {
+                            "Id": 0,
+                            "TOCHeading": "Complexity",
+                            "Description": "The complexity rating of a compound is a rough estimate of how complicated a structure is, seen from both the point of view of the elements contained and the displayed structural features including symmetry. This complexity rating is computed using the Bertz/Hendrickson/Ihlenfeldt formula.",
+                            "Section_Id": null,
+                            "Record_Id": null,
+                            "URL": null,
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 10,
+                                    "Reference": null,
+                                    "Value": {
+                                        "Number": [
+                                            169
+                                        ],
+                                        "StringWithMarkup": null,
+                                        "Unit": null,
+                                        "ExternalDataURL": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "Id": 0,
+                                        "InformationItem_Id": null
+                                    },
+                                    "Name": null,
+                                    "URL": null,
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null,
+                                    "Description": null
+                                }
+                            ],
+                            "Section": []
+                        },
+                        {
+                            "Id": 0,
+                            "TOCHeading": "Isotope Atom Count",
+                            "Description": "Isotopte Atom Count is the number of isotopes that are not most abundant for the corresponding chemical elements.  Isotopes are variants of a chemical element which differ in neutron number.  For example, among three isotopes of carbon (i.e., C-12, C-13, and C-14), the isotope atom count considers the C-13 and C-14 atoms, because C-12 is the most abundant isotope of carbon.",
+                            "Section_Id": null,
+                            "Record_Id": null,
+                            "URL": null,
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 10,
+                                    "Reference": null,
+                                    "Value": {
+                                        "Number": [
+                                            0
+                                        ],
+                                        "StringWithMarkup": null,
+                                        "Unit": null,
+                                        "ExternalDataURL": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "Id": 0,
+                                        "InformationItem_Id": null
+                                    },
+                                    "Name": null,
+                                    "URL": null,
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null,
+                                    "Description": null
+                                }
+                            ],
+                            "Section": []
+                        },
+                        {
+                            "Id": 0,
+                            "TOCHeading": "Defined Atom Stereocenter Count",
+                            "Description": "An atom stereocenter, also known as a chiral center, is an atom that is attached to four different types of atoms (or groups of atoms) in the tetrahedral arrangement. It can have either (R)- or (S)- configurations.  Some compounds, such as racemic mixtures, have an undefined atom stereocenter, whose (R/S)-configuration is not specifically defined.",
+                            "Section_Id": null,
+                            "Record_Id": null,
+                            "URL": null,
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 10,
+                                    "Reference": null,
+                                    "Value": {
+                                        "Number": [
+                                            0
+                                        ],
+                                        "StringWithMarkup": null,
+                                        "Unit": null,
+                                        "ExternalDataURL": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "Id": 0,
+                                        "InformationItem_Id": null
+                                    },
+                                    "Name": null,
+                                    "URL": null,
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null,
+                                    "Description": null
+                                }
+                            ],
+                            "Section": []
+                        },
+                        {
+                            "Id": 0,
+                            "TOCHeading": "Undefined Atom Stereocenter Count",
+                            "Description": "An atom stereocenter, also known as a chiral center, is an atom that is attached to four different types of atoms (or groups of atoms) in the tetrahedral arrangement. It can have either (R)- or (S)- configurations.  Some compounds, such as racemic mixtures, have an undefined atom stereocenter, whose (R/S)-configuration is not specifically defined.",
+                            "Section_Id": null,
+                            "Record_Id": null,
+                            "URL": null,
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 10,
+                                    "Reference": null,
+                                    "Value": {
+                                        "Number": [
+                                            0
+                                        ],
+                                        "StringWithMarkup": null,
+                                        "Unit": null,
+                                        "ExternalDataURL": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "Id": 0,
+                                        "InformationItem_Id": null
+                                    },
+                                    "Name": null,
+                                    "URL": null,
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null,
+                                    "Description": null
+                                }
+                            ],
+                            "Section": []
+                        },
+                        {
+                            "Id": 0,
+                            "TOCHeading": "Defined Bond Stereocenter Count",
+                            "Description": "A bond stereocenter is a non-rotatable bond around which two atoms can have different arrangement (as in cis- and trans-forms of butene around its double bond).  Some compounds have an undefined bond stereocenter, whose stereochemistry is not specifically defined.",
+                            "Section_Id": null,
+                            "Record_Id": null,
+                            "URL": null,
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 10,
+                                    "Reference": null,
+                                    "Value": {
+                                        "Number": [
+                                            0
+                                        ],
+                                        "StringWithMarkup": null,
+                                        "Unit": null,
+                                        "ExternalDataURL": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "Id": 0,
+                                        "InformationItem_Id": null
+                                    },
+                                    "Name": null,
+                                    "URL": null,
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null,
+                                    "Description": null
+                                }
+                            ],
+                            "Section": []
+                        },
+                        {
+                            "Id": 0,
+                            "TOCHeading": "Undefined Bond Stereocenter Count",
+                            "Description": "A bond stereocenter is a non-rotatable bond around which two atoms can have different arrangement (as in cis- and trans-forms of butene around its double bond).  Some compounds have an undefined bond stereocenter, whose stereochemistry is not specifically defined.",
+                            "Section_Id": null,
+                            "Record_Id": null,
+                            "URL": null,
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 10,
+                                    "Reference": null,
+                                    "Value": {
+                                        "Number": [
+                                            0
+                                        ],
+                                        "StringWithMarkup": null,
+                                        "Unit": null,
+                                        "ExternalDataURL": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "Id": 0,
+                                        "InformationItem_Id": null
+                                    },
+                                    "Name": null,
+                                    "URL": null,
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null,
+                                    "Description": null
+                                }
+                            ],
+                            "Section": []
+                        },
+                        {
+                            "Id": 0,
+                            "TOCHeading": "Covalently-Bonded Unit Count",
+                            "Description": "Covalently-Bonded Unit Count ",
+                            "Section_Id": null,
+                            "Record_Id": null,
+                            "URL": null,
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 10,
+                                    "Reference": null,
+                                    "Value": {
+                                        "Number": [
+                                            1
+                                        ],
+                                        "StringWithMarkup": null,
+                                        "Unit": null,
+                                        "ExternalDataURL": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "Id": 0,
+                                        "InformationItem_Id": null
+                                    },
+                                    "Name": null,
+                                    "URL": null,
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null,
+                                    "Description": null
+                                }
+                            ],
+                            "Section": []
+                        },
+                        {
+                            "Id": 0,
+                            "TOCHeading": "Compound Is Canonicalized",
+                            "Description": "Compound is canonicalized",
+                            "Section_Id": null,
+                            "Record_Id": null,
+                            "URL": null,
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 10,
+                                    "Reference": null,
+                                    "Value": {
+                                        "Number": null,
+                                        "StringWithMarkup": [
+                                            {
+                                                "String": "Yes",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            }
+                                        ],
+                                        "Unit": null,
+                                        "ExternalDataURL": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "Id": 0,
+                                        "InformationItem_Id": null
+                                    },
+                                    "Name": null,
+                                    "URL": null,
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null,
+                                    "Description": null
+                                }
+                            ],
+                            "Section": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Id": 0,
+            "TOCHeading": "Spectral Information",
+            "Description": "Spectral data for chemical compounds",
+            "Section_Id": null,
+            "Record_Id": null,
+            "URL": null,
+            "Information": null,
+            "Section": [
+                {
+                    "Id": 0,
+                    "TOCHeading": "Mass Spectrometry",
+                    "Description": "Mass spectrometry (MS or mass spec) is a technique to determine molecular structure through ionization and fragmentation of the parent compound into smaller components.",
+                    "Section_Id": null,
+                    "Record_Id": null,
+                    "URL": null,
+                    "Information": null,
+                    "Section": [
+                        {
+                            "Id": 0,
+                            "TOCHeading": "GC-MS",
+                            "Description": "Data from GC-MS experiments.",
+                            "Section_Id": null,
+                            "Record_Id": null,
+                            "URL": null,
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 5,
+                                    "Reference": null,
+                                    "Value": {
+                                        "Number": [
+                                            297778
+                                        ],
+                                        "StringWithMarkup": null,
+                                        "Unit": null,
+                                        "ExternalDataURL": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "Id": 0,
+                                        "InformationItem_Id": null
+                                    },
+                                    "Name": "NIST Number",
+                                    "URL": null,
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null,
+                                    "Description": null
+                                },
+                                {
+                                    "ReferenceNumber": 5,
+                                    "Reference": null,
+                                    "Value": {
+                                        "Number": null,
+                                        "StringWithMarkup": [
+                                            {
+                                                "String": "Main library",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            }
+                                        ],
+                                        "Unit": null,
+                                        "ExternalDataURL": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "Id": 0,
+                                        "InformationItem_Id": null
+                                    },
+                                    "Name": "Library",
+                                    "URL": null,
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null,
+                                    "Description": null
+                                },
+                                {
+                                    "ReferenceNumber": 5,
+                                    "Reference": null,
+                                    "Value": {
+                                        "Number": [
+                                            45
+                                        ],
+                                        "StringWithMarkup": null,
+                                        "Unit": null,
+                                        "ExternalDataURL": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "Id": 0,
+                                        "InformationItem_Id": null
+                                    },
+                                    "Name": "Total Peaks",
+                                    "URL": null,
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null,
+                                    "Description": null
+                                },
+                                {
+                                    "ReferenceNumber": 5,
+                                    "Reference": null,
+                                    "Value": {
+                                        "Number": [
+                                            110
+                                        ],
+                                        "StringWithMarkup": null,
+                                        "Unit": null,
+                                        "ExternalDataURL": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "Id": 0,
+                                        "InformationItem_Id": null
+                                    },
+                                    "Name": "m/z Top Peak",
+                                    "URL": null,
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null,
+                                    "Description": null
+                                },
+                                {
+                                    "ReferenceNumber": 5,
+                                    "Reference": null,
+                                    "Value": {
+                                        "Number": [
+                                            54
+                                        ],
+                                        "StringWithMarkup": null,
+                                        "Unit": null,
+                                        "ExternalDataURL": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "Id": 0,
+                                        "InformationItem_Id": null
+                                    },
+                                    "Name": "m/z 2nd Highest",
+                                    "URL": null,
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null,
+                                    "Description": null
+                                },
+                                {
+                                    "ReferenceNumber": 5,
+                                    "Reference": null,
+                                    "Value": {
+                                        "Number": [
+                                            55
+                                        ],
+                                        "StringWithMarkup": null,
+                                        "Unit": null,
+                                        "ExternalDataURL": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "Id": 0,
+                                        "InformationItem_Id": null
+                                    },
+                                    "Name": "m/z 3rd Highest",
+                                    "URL": null,
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null,
+                                    "Description": null
+                                },
+                                {
+                                    "ReferenceNumber": 5,
+                                    "Reference": null,
+                                    "Value": {
+                                        "Number": null,
+                                        "StringWithMarkup": null,
+                                        "Unit": null,
+                                        "ExternalDataURL": [
+                                            "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/key/92646_1"
+                                        ],
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "Id": 0,
+                                        "InformationItem_Id": null
+                                    },
+                                    "Name": "Thumbnail",
+                                    "URL": null,
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null,
+                                    "Description": null
+                                }
+                            ],
+                            "Section": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "source": "https://baike.kingdraw.com/Scripts/app/detail.html?id=322353"
+}

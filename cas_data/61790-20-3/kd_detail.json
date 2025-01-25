@@ -1,0 +1,972 @@
+{
+    "Id": 0,
+    "RecordType": "CID",
+    "RecordNumber": 91998124,
+    "RecordTitle": "Naphthalene-2-carboxylate;yttrium(3+)",
+    "Section": [
+        {
+            "Id": 0,
+            "TOCHeading": "Structures",
+            "Description": "Structure depictions and information for 2D, 3D, and crystal related",
+            "Section": [],
+            "Section_Id": null,
+            "Record_Id": null,
+            "URL": null,
+            "Information": null
+        },
+        {
+            "Id": 0,
+            "TOCHeading": "Names and Identifiers",
+            "Description": "Record identifiers, synonyms, chemical names, descriptors, etc.",
+            "Section": [
+                {
+                    "Id": 0,
+                    "TOCHeading": "Computed Descriptors",
+                    "Description": "Descriptors generated from chemical structure input",
+                    "Section": [
+                        {
+                            "Id": 0,
+                            "TOCHeading": "IUPAC Name",
+                            "Description": "Chemical name computed from chemical structure that uses International Union of Pure and Applied Chemistry (IUPAC) nomenclature standards.",
+                            "Section": [],
+                            "Section_Id": null,
+                            "Record_Id": null,
+                            "URL": "http://old.iupac.org/publications/books/seriestitles/nomenclature.html",
+                            "Information": [
+                                {
+                                    "Id": 0,
+                                    "ReferenceNumber": 5,
+                                    "Value": {
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "Number": null,
+                                        "StringWithMarkup": [
+                                            {
+                                                "Id": null,
+                                                "String": "naphthalene-2-carboxylate;yttrium(3+)",
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            }
+                                        ],
+                                        "ExternalDataURL": null
+                                    },
+                                    "SectionItem_Id": null,
+                                    "Name": null,
+                                    "URL": null,
+                                    "Description": null,
+                                    "Reference": null,
+                                    "Unit": null
+                                }
+                            ]
+                        },
+                        {
+                            "Id": 0,
+                            "TOCHeading": "InChI",
+                            "Description": "International Chemical Identifier (InChI) computed from chemical structure using the International Union of Pure and Applied Chemistry (IUPAC) standard.",
+                            "Section": [],
+                            "Section_Id": null,
+                            "Record_Id": null,
+                            "URL": "http://www.iupac.org/home/publications/e-resources/inchi.html",
+                            "Information": [
+                                {
+                                    "Id": 0,
+                                    "ReferenceNumber": 5,
+                                    "Value": {
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "Number": null,
+                                        "StringWithMarkup": [
+                                            {
+                                                "Id": null,
+                                                "String": "InChI=1S/3C11H8O2.Y/c3*12-11(13)10-6-5-8-3-1-2-4-9(8)7-10;/h3*1-7H,(H,12,13);/q;;;+3/p-3",
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            }
+                                        ],
+                                        "ExternalDataURL": null
+                                    },
+                                    "SectionItem_Id": null,
+                                    "Name": null,
+                                    "URL": null,
+                                    "Description": null,
+                                    "Reference": null,
+                                    "Unit": null
+                                }
+                            ]
+                        },
+                        {
+                            "Id": 0,
+                            "TOCHeading": "InChI Key",
+                            "Description": "International Chemical Identifier hash (InChIKey) computed from chemical structure using the International Union of Pure and Applied Chemistry (IUPAC) standard.",
+                            "Section": [],
+                            "Section_Id": null,
+                            "Record_Id": null,
+                            "URL": "http://www.iupac.org/home/publications/e-resources/inchi.html",
+                            "Information": [
+                                {
+                                    "Id": 0,
+                                    "ReferenceNumber": 5,
+                                    "Value": {
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "Number": null,
+                                        "StringWithMarkup": [
+                                            {
+                                                "Id": null,
+                                                "String": "FWTXSDMYLVRXQU-UHFFFAOYSA-K",
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            }
+                                        ],
+                                        "ExternalDataURL": null
+                                    },
+                                    "SectionItem_Id": null,
+                                    "Name": null,
+                                    "URL": null,
+                                    "Description": null,
+                                    "Reference": null,
+                                    "Unit": null
+                                }
+                            ]
+                        },
+                        {
+                            "Id": 0,
+                            "TOCHeading": "Canonical SMILES",
+                            "Description": "Simplified Molecular-Input Line-Entry System (SMILES) computed from chemical structure devoid of isotopic and stereochemical information.",
+                            "Section": [],
+                            "Section_Id": null,
+                            "Record_Id": null,
+                            "URL": "http://www.daylight.com/dayhtml/doc/theory/theory.smiles.html",
+                            "Information": [
+                                {
+                                    "Id": 0,
+                                    "ReferenceNumber": 5,
+                                    "Value": {
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "Number": null,
+                                        "StringWithMarkup": [
+                                            {
+                                                "Id": null,
+                                                "String": "C1=CC=C2C=C(C=CC2=C1)C(=O)[O-].C1=CC=C2C=C(C=CC2=C1)C(=O)[O-].C1=CC=C2C=C(C=CC2=C1)C(=O)[O-].[Y+3]",
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            }
+                                        ],
+                                        "ExternalDataURL": null
+                                    },
+                                    "SectionItem_Id": null,
+                                    "Name": null,
+                                    "URL": null,
+                                    "Description": null,
+                                    "Reference": null,
+                                    "Unit": null
+                                }
+                            ]
+                        }
+                    ],
+                    "Section_Id": null,
+                    "Record_Id": null,
+                    "URL": null,
+                    "Information": null
+                },
+                {
+                    "Id": 0,
+                    "TOCHeading": "Other Identifiers",
+                    "Description": "Important identifiers assigned to this chemical substance by authoritative organizations",
+                    "Section": [
+                        {
+                            "Id": 0,
+                            "TOCHeading": "CAS",
+                            "Description": "A proprietary registry number assigned by the Chemical Abstracts Service (CAS) division of the American Chemical Society (ACS) often used to help describe chemical ingredients.",
+                            "Section": [],
+                            "Section_Id": null,
+                            "Record_Id": null,
+                            "URL": "http://en.wikipedia.org/wiki/CAS_Registry_Number",
+                            "Information": [
+                                {
+                                    "Id": 0,
+                                    "ReferenceNumber": 1,
+                                    "Value": {
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "Number": null,
+                                        "StringWithMarkup": [
+                                            {
+                                                "Id": null,
+                                                "String": "61790-20-3",
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            }
+                                        ],
+                                        "ExternalDataURL": null
+                                    },
+                                    "SectionItem_Id": null,
+                                    "Name": null,
+                                    "URL": null,
+                                    "Description": null,
+                                    "Reference": null,
+                                    "Unit": null
+                                },
+                                {
+                                    "Id": 0,
+                                    "ReferenceNumber": 2,
+                                    "Value": {
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "Number": null,
+                                        "StringWithMarkup": [
+                                            {
+                                                "Id": null,
+                                                "String": "61790-20-3",
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            }
+                                        ],
+                                        "ExternalDataURL": null
+                                    },
+                                    "SectionItem_Id": null,
+                                    "Name": "CAS",
+                                    "URL": null,
+                                    "Description": null,
+                                    "Reference": null,
+                                    "Unit": null
+                                },
+                                {
+                                    "Id": 0,
+                                    "ReferenceNumber": 4,
+                                    "Value": {
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "Number": null,
+                                        "StringWithMarkup": [
+                                            {
+                                                "Id": null,
+                                                "String": "61790-20-3",
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            }
+                                        ],
+                                        "ExternalDataURL": null
+                                    },
+                                    "SectionItem_Id": null,
+                                    "Name": "CAS",
+                                    "URL": null,
+                                    "Description": null,
+                                    "Reference": null,
+                                    "Unit": null
+                                }
+                            ]
+                        }
+                    ],
+                    "Section_Id": null,
+                    "Record_Id": null,
+                    "URL": null,
+                    "Information": null
+                },
+                {
+                    "Id": 0,
+                    "TOCHeading": "Synonyms",
+                    "Description": "Alternative names for this PubChem Compound record.  A compound can have many different names.  For example, acetone (CH3C(=O)CH3) is also known as propanone, propan-2-one, or dimethyl ketone.  The brand name of a product is commonly used to indicate the primary chemical ingredient(s) in the product (e.g., Tylenol, a common pain killer, is often used for acetaminophen, its active ingredient).  Another example of common synonyms is record identifiers used in different data collections, such as Chemical Abstract Service (CAS) registry numbers, FDA UNII (Unique Ingredient Identifiers), and many others.  All these various names and identifiers that designate this compound are organized under the Synonyms section.",
+                    "Section": [
+                        {
+                            "Id": 0,
+                            "TOCHeading": "Depositor-Supplied Synonyms",
+                            "Description": "Chemical names provided by individual data contributors. Synonyms of Substances corresponding to a PubChem Compound record are combined. Some contributed names may be considered erroneous and filtered out. The link on each synonym shows which depositors provided that particular synonym for this structure.",
+                            "Section": [],
+                            "Section_Id": null,
+                            "Record_Id": null,
+                            "URL": null,
+                            "Information": [
+                                {
+                                    "Id": 0,
+                                    "ReferenceNumber": 5,
+                                    "Value": {
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "Number": null,
+                                        "StringWithMarkup": [
+                                            {
+                                                "Id": null,
+                                                "String": "61790-20-3",
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "Id": null,
+                                                "String": "Yttrium tri(2-naphthoate)",
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "Id": null,
+                                                "String": "naphthalene-2-carboxylic acid;yttrium",
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            }
+                                        ],
+                                        "ExternalDataURL": null
+                                    },
+                                    "SectionItem_Id": null,
+                                    "Name": null,
+                                    "URL": null,
+                                    "Description": null,
+                                    "Reference": null,
+                                    "Unit": null
+                                }
+                            ]
+                        }
+                    ],
+                    "Section_Id": null,
+                    "Record_Id": null,
+                    "URL": null,
+                    "Information": null
+                }
+            ],
+            "Section_Id": null,
+            "Record_Id": null,
+            "URL": null,
+            "Information": null
+        },
+        {
+            "Id": 0,
+            "TOCHeading": "Chemical and Physical Properties",
+            "Description": "Chemical and physical properties such as melting point, molecular weight, etc.",
+            "Section": [
+                {
+                    "Id": 0,
+                    "TOCHeading": "Computed Properties",
+                    "Description": "Properties computed automatically from the given chemical structure",
+                    "Section": [
+                        {
+                            "Id": 0,
+                            "TOCHeading": "Molecular Weight",
+                            "Description": "Molecular weight or molecular mass refers to the mass of a molecule. It is calculated as the sum of the mass of each constituent atom multiplied by the number of atoms of that element in the molecular formula.",
+                            "Section": [],
+                            "Section_Id": null,
+                            "Record_Id": null,
+                            "URL": null,
+                            "Information": [
+                                {
+                                    "Id": 0,
+                                    "ReferenceNumber": 5,
+                                    "Value": {
+                                        "Id": 0,
+                                        "Unit": "g/mol",
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "Number": [
+                                            602.431
+                                        ],
+                                        "StringWithMarkup": null,
+                                        "ExternalDataURL": null
+                                    },
+                                    "SectionItem_Id": null,
+                                    "Name": null,
+                                    "URL": null,
+                                    "Description": null,
+                                    "Reference": null,
+                                    "Unit": null
+                                }
+                            ]
+                        },
+                        {
+                            "Id": 0,
+                            "TOCHeading": "Hydrogen Bond Donor Count",
+                            "Description": "Hydrogen Bond Donor count",
+                            "Section": [],
+                            "Section_Id": null,
+                            "Record_Id": null,
+                            "URL": null,
+                            "Information": [
+                                {
+                                    "Id": 0,
+                                    "ReferenceNumber": 5,
+                                    "Value": {
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "Number": [
+                                            0.0
+                                        ],
+                                        "StringWithMarkup": null,
+                                        "ExternalDataURL": null
+                                    },
+                                    "SectionItem_Id": null,
+                                    "Name": null,
+                                    "URL": null,
+                                    "Description": null,
+                                    "Reference": null,
+                                    "Unit": null
+                                }
+                            ]
+                        },
+                        {
+                            "Id": 0,
+                            "TOCHeading": "Hydrogen Bond Acceptor Count",
+                            "Description": "Hydrogen Bond Acceptor count",
+                            "Section": [],
+                            "Section_Id": null,
+                            "Record_Id": null,
+                            "URL": null,
+                            "Information": [
+                                {
+                                    "Id": 0,
+                                    "ReferenceNumber": 5,
+                                    "Value": {
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "Number": [
+                                            6.0
+                                        ],
+                                        "StringWithMarkup": null,
+                                        "ExternalDataURL": null
+                                    },
+                                    "SectionItem_Id": null,
+                                    "Name": null,
+                                    "URL": null,
+                                    "Description": null,
+                                    "Reference": null,
+                                    "Unit": null
+                                }
+                            ]
+                        },
+                        {
+                            "Id": 0,
+                            "TOCHeading": "Rotatable Bond Count",
+                            "Description": "Rotatable bond is defined as any single non-ring bond, bounded to nonterminal heavy (i.e., non-hydrogen) atom.",
+                            "Section": [],
+                            "Section_Id": null,
+                            "Record_Id": null,
+                            "URL": null,
+                            "Information": [
+                                {
+                                    "Id": 0,
+                                    "ReferenceNumber": 5,
+                                    "Value": {
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "Number": [
+                                            0.0
+                                        ],
+                                        "StringWithMarkup": null,
+                                        "ExternalDataURL": null
+                                    },
+                                    "SectionItem_Id": null,
+                                    "Name": null,
+                                    "URL": null,
+                                    "Description": null,
+                                    "Reference": null,
+                                    "Unit": null
+                                }
+                            ]
+                        },
+                        {
+                            "Id": 0,
+                            "TOCHeading": "Exact Mass",
+                            "Description": "The exact mass of an isotopic species is obtained by summing the masses of the individual isotopes of the molecule.",
+                            "Section": [],
+                            "Section_Id": null,
+                            "Record_Id": null,
+                            "URL": null,
+                            "Information": [
+                                {
+                                    "Id": 0,
+                                    "ReferenceNumber": 5,
+                                    "Value": {
+                                        "Id": 0,
+                                        "Unit": "g/mol",
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "Number": [
+                                            602.04
+                                        ],
+                                        "StringWithMarkup": null,
+                                        "ExternalDataURL": null
+                                    },
+                                    "SectionItem_Id": null,
+                                    "Name": null,
+                                    "URL": null,
+                                    "Description": null,
+                                    "Reference": null,
+                                    "Unit": null
+                                }
+                            ]
+                        },
+                        {
+                            "Id": 0,
+                            "TOCHeading": "Monoisotopic Mass",
+                            "Description": "The monoisotopic mass is the sum of the masses of the atoms in a molecule using the unbound, ground-state, rest mass of the principal (most abundant) isotope for each element instead of the isotopic average mass.",
+                            "Section": [],
+                            "Section_Id": null,
+                            "Record_Id": null,
+                            "URL": null,
+                            "Information": [
+                                {
+                                    "Id": 0,
+                                    "ReferenceNumber": 5,
+                                    "Value": {
+                                        "Id": 0,
+                                        "Unit": "g/mol",
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "Number": [
+                                            602.04
+                                        ],
+                                        "StringWithMarkup": null,
+                                        "ExternalDataURL": null
+                                    },
+                                    "SectionItem_Id": null,
+                                    "Name": null,
+                                    "URL": null,
+                                    "Description": null,
+                                    "Reference": null,
+                                    "Unit": null
+                                }
+                            ]
+                        },
+                        {
+                            "Id": 0,
+                            "TOCHeading": "Topological Polar Surface Area",
+                            "Description": "The topological polar surface area (TPSA) of a molecule is defined as the surface sum over all polar atoms in a molecule. ",
+                            "Section": [],
+                            "Section_Id": null,
+                            "Record_Id": null,
+                            "URL": null,
+                            "Information": [
+                                {
+                                    "Id": 0,
+                                    "ReferenceNumber": 5,
+                                    "Value": {
+                                        "Id": 0,
+                                        "Unit": "A^2",
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "Number": [
+                                            120.0
+                                        ],
+                                        "StringWithMarkup": null,
+                                        "ExternalDataURL": null
+                                    },
+                                    "SectionItem_Id": null,
+                                    "Name": null,
+                                    "URL": null,
+                                    "Description": null,
+                                    "Reference": null,
+                                    "Unit": null
+                                }
+                            ]
+                        },
+                        {
+                            "Id": 0,
+                            "TOCHeading": "Heavy Atom Count",
+                            "Description": "A heavy atom is defined as any atom except hydrogen in a chemical structure.",
+                            "Section": [],
+                            "Section_Id": null,
+                            "Record_Id": null,
+                            "URL": null,
+                            "Information": [
+                                {
+                                    "Id": 0,
+                                    "ReferenceNumber": 5,
+                                    "Value": {
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "Number": [
+                                            40.0
+                                        ],
+                                        "StringWithMarkup": null,
+                                        "ExternalDataURL": null
+                                    },
+                                    "SectionItem_Id": null,
+                                    "Name": null,
+                                    "URL": null,
+                                    "Description": null,
+                                    "Reference": null,
+                                    "Unit": null
+                                }
+                            ]
+                        },
+                        {
+                            "Id": 0,
+                            "TOCHeading": "Formal Charge",
+                            "Description": "Formal charge is the difference between the number of valence electrons of each atom and the number of electrons the atom is associated with. Formal charge assumes any shared electrons are equally shared between the two bonded atoms.",
+                            "Section": [],
+                            "Section_Id": null,
+                            "Record_Id": null,
+                            "URL": null,
+                            "Information": [
+                                {
+                                    "Id": 0,
+                                    "ReferenceNumber": 5,
+                                    "Value": {
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "Number": [
+                                            0.0
+                                        ],
+                                        "StringWithMarkup": null,
+                                        "ExternalDataURL": null
+                                    },
+                                    "SectionItem_Id": null,
+                                    "Name": null,
+                                    "URL": null,
+                                    "Description": null,
+                                    "Reference": null,
+                                    "Unit": null
+                                }
+                            ]
+                        },
+                        {
+                            "Id": 0,
+                            "TOCHeading": "Complexity",
+                            "Description": "The complexity rating of a compound is a rough estimate of how complicated a structure is, seen from both the point of view of the elements contained and the displayed structural features including symmetry. This complexity rating is computed using the Bertz/Hendrickson/Ihlenfeldt formula.",
+                            "Section": [],
+                            "Section_Id": null,
+                            "Record_Id": null,
+                            "URL": null,
+                            "Information": [
+                                {
+                                    "Id": 0,
+                                    "ReferenceNumber": 5,
+                                    "Value": {
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "Number": [
+                                            195.0
+                                        ],
+                                        "StringWithMarkup": null,
+                                        "ExternalDataURL": null
+                                    },
+                                    "SectionItem_Id": null,
+                                    "Name": null,
+                                    "URL": null,
+                                    "Description": null,
+                                    "Reference": null,
+                                    "Unit": null
+                                }
+                            ]
+                        },
+                        {
+                            "Id": 0,
+                            "TOCHeading": "Isotope Atom Count",
+                            "Description": "Isotopte Atom Count is the number of isotopes that are not most abundant for the corresponding chemical elements.  Isotopes are variants of a chemical element which differ in neutron number.  For example, among three isotopes of carbon (i.e., C-12, C-13, and C-14), the isotope atom count considers the C-13 and C-14 atoms, because C-12 is the most abundant isotope of carbon.",
+                            "Section": [],
+                            "Section_Id": null,
+                            "Record_Id": null,
+                            "URL": null,
+                            "Information": [
+                                {
+                                    "Id": 0,
+                                    "ReferenceNumber": 5,
+                                    "Value": {
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "Number": [
+                                            0.0
+                                        ],
+                                        "StringWithMarkup": null,
+                                        "ExternalDataURL": null
+                                    },
+                                    "SectionItem_Id": null,
+                                    "Name": null,
+                                    "URL": null,
+                                    "Description": null,
+                                    "Reference": null,
+                                    "Unit": null
+                                }
+                            ]
+                        },
+                        {
+                            "Id": 0,
+                            "TOCHeading": "Defined Atom Stereocenter Count",
+                            "Description": "An atom stereocenter, also known as a chiral center, is an atom that is attached to four different types of atoms (or groups of atoms) in the tetrahedral arrangement. It can have either (R)- or (S)- configurations.  Some compounds, such as racemic mixtures, have an undefined atom stereocenter, whose (R/S)-configuration is not specifically defined.",
+                            "Section": [],
+                            "Section_Id": null,
+                            "Record_Id": null,
+                            "URL": null,
+                            "Information": [
+                                {
+                                    "Id": 0,
+                                    "ReferenceNumber": 5,
+                                    "Value": {
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "Number": [
+                                            0.0
+                                        ],
+                                        "StringWithMarkup": null,
+                                        "ExternalDataURL": null
+                                    },
+                                    "SectionItem_Id": null,
+                                    "Name": null,
+                                    "URL": null,
+                                    "Description": null,
+                                    "Reference": null,
+                                    "Unit": null
+                                }
+                            ]
+                        },
+                        {
+                            "Id": 0,
+                            "TOCHeading": "Undefined Atom Stereocenter Count",
+                            "Description": "An atom stereocenter, also known as a chiral center, is an atom that is attached to four different types of atoms (or groups of atoms) in the tetrahedral arrangement. It can have either (R)- or (S)- configurations.  Some compounds, such as racemic mixtures, have an undefined atom stereocenter, whose (R/S)-configuration is not specifically defined.",
+                            "Section": [],
+                            "Section_Id": null,
+                            "Record_Id": null,
+                            "URL": null,
+                            "Information": [
+                                {
+                                    "Id": 0,
+                                    "ReferenceNumber": 5,
+                                    "Value": {
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "Number": [
+                                            0.0
+                                        ],
+                                        "StringWithMarkup": null,
+                                        "ExternalDataURL": null
+                                    },
+                                    "SectionItem_Id": null,
+                                    "Name": null,
+                                    "URL": null,
+                                    "Description": null,
+                                    "Reference": null,
+                                    "Unit": null
+                                }
+                            ]
+                        },
+                        {
+                            "Id": 0,
+                            "TOCHeading": "Defined Bond Stereocenter Count",
+                            "Description": "A bond stereocenter is a non-rotatable bond around which two atoms can have different arrangement (as in cis- and trans-forms of butene around its double bond).  Some compounds have an undefined bond stereocenter, whose stereochemistry is not specifically defined.",
+                            "Section": [],
+                            "Section_Id": null,
+                            "Record_Id": null,
+                            "URL": null,
+                            "Information": [
+                                {
+                                    "Id": 0,
+                                    "ReferenceNumber": 5,
+                                    "Value": {
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "Number": [
+                                            0.0
+                                        ],
+                                        "StringWithMarkup": null,
+                                        "ExternalDataURL": null
+                                    },
+                                    "SectionItem_Id": null,
+                                    "Name": null,
+                                    "URL": null,
+                                    "Description": null,
+                                    "Reference": null,
+                                    "Unit": null
+                                }
+                            ]
+                        },
+                        {
+                            "Id": 0,
+                            "TOCHeading": "Undefined Bond Stereocenter Count",
+                            "Description": "A bond stereocenter is a non-rotatable bond around which two atoms can have different arrangement (as in cis- and trans-forms of butene around its double bond).  Some compounds have an undefined bond stereocenter, whose stereochemistry is not specifically defined.",
+                            "Section": [],
+                            "Section_Id": null,
+                            "Record_Id": null,
+                            "URL": null,
+                            "Information": [
+                                {
+                                    "Id": 0,
+                                    "ReferenceNumber": 5,
+                                    "Value": {
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "Number": [
+                                            0.0
+                                        ],
+                                        "StringWithMarkup": null,
+                                        "ExternalDataURL": null
+                                    },
+                                    "SectionItem_Id": null,
+                                    "Name": null,
+                                    "URL": null,
+                                    "Description": null,
+                                    "Reference": null,
+                                    "Unit": null
+                                }
+                            ]
+                        },
+                        {
+                            "Id": 0,
+                            "TOCHeading": "Covalently-Bonded Unit Count",
+                            "Description": "Covalently-Bonded Unit Count ",
+                            "Section": [],
+                            "Section_Id": null,
+                            "Record_Id": null,
+                            "URL": null,
+                            "Information": [
+                                {
+                                    "Id": 0,
+                                    "ReferenceNumber": 5,
+                                    "Value": {
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "Number": [
+                                            4.0
+                                        ],
+                                        "StringWithMarkup": null,
+                                        "ExternalDataURL": null
+                                    },
+                                    "SectionItem_Id": null,
+                                    "Name": null,
+                                    "URL": null,
+                                    "Description": null,
+                                    "Reference": null,
+                                    "Unit": null
+                                }
+                            ]
+                        },
+                        {
+                            "Id": 0,
+                            "TOCHeading": "Compound Is Canonicalized",
+                            "Description": "Compound is canonicalized",
+                            "Section": [],
+                            "Section_Id": null,
+                            "Record_Id": null,
+                            "URL": null,
+                            "Information": [
+                                {
+                                    "Id": 0,
+                                    "ReferenceNumber": 5,
+                                    "Value": {
+                                        "Id": 0,
+                                        "Unit": null,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "Number": null,
+                                        "StringWithMarkup": [
+                                            {
+                                                "Id": null,
+                                                "String": "Yes",
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            }
+                                        ],
+                                        "ExternalDataURL": null
+                                    },
+                                    "SectionItem_Id": null,
+                                    "Name": null,
+                                    "URL": null,
+                                    "Description": null,
+                                    "Reference": null,
+                                    "Unit": null
+                                }
+                            ]
+                        }
+                    ],
+                    "Section_Id": null,
+                    "Record_Id": null,
+                    "URL": null,
+                    "Information": null
+                }
+            ],
+            "Section_Id": null,
+            "Record_Id": null,
+            "URL": null,
+            "Information": null
+        }
+    ],
+    "RecordTitleCN": "",
+    "Structure": "https://pubchem.ncbi.nlm.nih.gov/image/imgsrv.fcgi?cid=91998124&t=l",
+    "InChIKeyList": [
+        "FWTXSDMYLVRXQU-UHFFFAOYSA-K"
+    ],
+    "InChIList": [
+        "InChI=1S/3C11H8O2.Y/c3*12-11(13)10-6-5-8-3-1-2-4-9(8)7-10;/h3*1-7H,(H,12,13);/q;;;+3/p-3"
+    ],
+    "MolecularWeightList": [
+        "602.431 g/mol"
+    ],
+    "ChemicalNamesList": [
+        "naphthalene-2-carboxylate;yttrium(3+)"
+    ],
+    "SMILESList": [
+        "C1=CC=C2C=C(C=CC2=C1)C(=O)[O-].C1=CC=C2C=C(C=CC2=C1)C(=O)[O-].C1=CC=C2C=C(C=CC2=C1)C(=O)[O-].[Y+3]"
+    ],
+    "CasList": [
+        "61790-20-3"
+    ],
+    "MolecularFormulaList": [],
+    "ChemicalSafetyList": [
+        {
+            "Name": "Irritant",
+            "Src": "https://pubchem.ncbi.nlm.nih.gov/images/ghs/GHS07.svg"
+        }
+    ],
+    "source": "https://baike.kingdraw.com/Scripts/app/detail.html?id=91998124"
+}

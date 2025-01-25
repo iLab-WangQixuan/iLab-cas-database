@@ -1,0 +1,1532 @@
+{
+    "RecordType": "CID",
+    "RecordNumber": 98765,
+    "RecordTitle": "N-苄氧羰基-N-ε-叔丁醇羰基-L-赖氨酸;(S)-2-(((Benzyloxy)carbonyl)amino)-6-((tert-butoxycarbonyl)amino)hexanoic acid",
+    "Section": [
+        {
+            "TOCHeading": "Structures",
+            "Description": "Structure depictions and information for 2D, 3D, and crystal related",
+            "Section": [],
+            "Information": null,
+            "URL": null,
+            "Id": 0,
+            "Section_Id": null,
+            "Record_Id": null
+        },
+        {
+            "TOCHeading": "Names and Identifiers",
+            "Description": "Record identifiers, synonyms, chemical names, descriptors, etc.",
+            "Section": [
+                {
+                    "TOCHeading": "Computed Descriptors",
+                    "Description": "Descriptors generated from chemical structure input",
+                    "Section": [
+                        {
+                            "TOCHeading": "IUPAC Name",
+                            "Description": "Chemical name computed from chemical structure that uses International Union of Pure and Applied Chemistry (IUPAC) nomenclature standards.",
+                            "Section": [],
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 7,
+                                    "Value": {
+                                        "Number": null,
+                                        "Unit": null,
+                                        "StringWithMarkup": [
+                                            {
+                                                "String": "(2S)-6-[(2-methylpropan-2-yl)oxycarbonylamino]-2-(phenylmethoxycarbonylamino)hexanoic acid",
+                                                "Id": null,
+                                                "Value_Id": null,
+                                                "Markup": [
+                                                    {
+                                                        "Start": 2,
+                                                        "Length": 1,
+                                                        "Type": "Italics",
+                                                        "URL": null,
+                                                        "Extra": null,
+                                                        "Id": null,
+                                                        "StringValue_Id": null
+                                                    }
+                                                ]
+                                            }
+                                        ],
+                                        "ExternalDataURL": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "Id": 0,
+                                        "InformationItem_Id": null
+                                    },
+                                    "Name": null,
+                                    "Description": null,
+                                    "URL": null,
+                                    "Reference": [
+                                        "Computed by LexiChem 2.6.6 (PubChem release 2019.06.18)"
+                                    ],
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null
+                                }
+                            ],
+                            "URL": "http://old.iupac.org/publications/books/seriestitles/nomenclature.html",
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "InChI",
+                            "Description": "International Chemical Identifier (InChI) computed from chemical structure using the International Union of Pure and Applied Chemistry (IUPAC) standard.",
+                            "Section": [],
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 7,
+                                    "Value": {
+                                        "Number": null,
+                                        "Unit": null,
+                                        "StringWithMarkup": [
+                                            {
+                                                "String": "InChI=1S/C19H28N2O6/c1-19(2,3)27-17(24)20-12-8-7-11-15(16(22)23)21-18(25)26-13-14-9-5-4-6-10-14/h4-6,9-10,15H,7-8,11-13H2,1-3H3,(H,20,24)(H,21,25)(H,22,23)/t15-/m0/s1",
+                                                "Id": null,
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            }
+                                        ],
+                                        "ExternalDataURL": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "Id": 0,
+                                        "InformationItem_Id": null
+                                    },
+                                    "Name": null,
+                                    "Description": null,
+                                    "URL": null,
+                                    "Reference": [
+                                        "Computed by InChI 1.0.5 (PubChem release 2019.06.18)"
+                                    ],
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null
+                                }
+                            ],
+                            "URL": "http://www.iupac.org/home/publications/e-resources/inchi.html",
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "InChI Key",
+                            "Description": "International Chemical Identifier hash (InChIKey) computed from chemical structure using the International Union of Pure and Applied Chemistry (IUPAC) standard.",
+                            "Section": [],
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 7,
+                                    "Value": {
+                                        "Number": null,
+                                        "Unit": null,
+                                        "StringWithMarkup": [
+                                            {
+                                                "String": "DYSBKEOCHROEGX-HNNXBMFYSA-N",
+                                                "Id": null,
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            }
+                                        ],
+                                        "ExternalDataURL": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "Id": 0,
+                                        "InformationItem_Id": null
+                                    },
+                                    "Name": null,
+                                    "Description": null,
+                                    "URL": null,
+                                    "Reference": [
+                                        "Computed by InChI 1.0.5 (PubChem release 2019.06.18)"
+                                    ],
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null
+                                }
+                            ],
+                            "URL": "http://www.iupac.org/home/publications/e-resources/inchi.html",
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "Canonical SMILES",
+                            "Description": "Simplified Molecular-Input Line-Entry System (SMILES) computed from chemical structure devoid of isotopic and stereochemical information.",
+                            "Section": [],
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 7,
+                                    "Value": {
+                                        "Number": null,
+                                        "Unit": null,
+                                        "StringWithMarkup": [
+                                            {
+                                                "String": "CC(C)(C)OC(=O)NCCCCC(C(=O)O)NC(=O)OCC1=CC=CC=C1",
+                                                "Id": null,
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            }
+                                        ],
+                                        "ExternalDataURL": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "Id": 0,
+                                        "InformationItem_Id": null
+                                    },
+                                    "Name": null,
+                                    "Description": null,
+                                    "URL": null,
+                                    "Reference": [
+                                        "Computed by OEChem 2.1.5 (PubChem release 2019.06.18)"
+                                    ],
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null
+                                }
+                            ],
+                            "URL": "http://www.daylight.com/dayhtml/doc/theory/theory.smiles.html",
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        }
+                    ],
+                    "Information": null,
+                    "URL": null,
+                    "Id": 0,
+                    "Section_Id": null,
+                    "Record_Id": null
+                },
+                {
+                    "TOCHeading": "Other Identifiers",
+                    "Description": "Important identifiers assigned to this chemical substance by authoritative organizations",
+                    "Section": [
+                        {
+                            "TOCHeading": "CAS",
+                            "Description": "A proprietary registry number assigned by the Chemical Abstracts Service (CAS) division of the American Chemical Society (ACS) often used to help describe chemical ingredients.",
+                            "Section": [],
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 1,
+                                    "Value": {
+                                        "Number": null,
+                                        "Unit": null,
+                                        "StringWithMarkup": [
+                                            {
+                                                "String": "2389-60-8",
+                                                "Id": null,
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            }
+                                        ],
+                                        "ExternalDataURL": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "Id": 0,
+                                        "InformationItem_Id": null
+                                    },
+                                    "Name": null,
+                                    "Description": null,
+                                    "URL": null,
+                                    "Reference": null,
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null
+                                },
+                                {
+                                    "ReferenceNumber": 2,
+                                    "Value": {
+                                        "Number": null,
+                                        "Unit": null,
+                                        "StringWithMarkup": [
+                                            {
+                                                "String": "2389-60-8",
+                                                "Id": null,
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            }
+                                        ],
+                                        "ExternalDataURL": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "Id": 0,
+                                        "InformationItem_Id": null
+                                    },
+                                    "Name": null,
+                                    "Description": null,
+                                    "URL": null,
+                                    "Reference": null,
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null
+                                },
+                                {
+                                    "ReferenceNumber": 3,
+                                    "Value": {
+                                        "Number": null,
+                                        "Unit": null,
+                                        "StringWithMarkup": [
+                                            {
+                                                "String": "2389-60-8",
+                                                "Id": null,
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            }
+                                        ],
+                                        "ExternalDataURL": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "Id": 0,
+                                        "InformationItem_Id": null
+                                    },
+                                    "Name": null,
+                                    "Description": null,
+                                    "URL": null,
+                                    "Reference": null,
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null
+                                }
+                            ],
+                            "URL": "http://en.wikipedia.org/wiki/CAS_Registry_Number",
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "European Community (EC) Number",
+                            "Description": "A seven-digit regulatory identifier currently assigned by the European Chemicals Agency (ECHA) known as a European Community (EC) number.  It is sometimes referred to as an EINECS, ELINCS, or NLP number, which are subsets of an EC number.",
+                            "Section": [],
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 3,
+                                    "Value": {
+                                        "Number": null,
+                                        "Unit": null,
+                                        "StringWithMarkup": [
+                                            {
+                                                "String": "219-223-1",
+                                                "Id": null,
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            }
+                                        ],
+                                        "ExternalDataURL": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "Id": 0,
+                                        "InformationItem_Id": null
+                                    },
+                                    "Name": null,
+                                    "Description": null,
+                                    "URL": "https://echa.europa.eu/substance-information/-/substanceinfo/100.017.477",
+                                    "Reference": null,
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null
+                                }
+                            ],
+                            "URL": "http://en.wikipedia.org/wiki/European_Community_number",
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "DSSTox Substance ID",
+                            "Description": "Substance identifier at the Distributed Structure-Searchable Toxicity (DSSTox) Database.",
+                            "Section": [],
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 2,
+                                    "Value": {
+                                        "Number": null,
+                                        "Unit": null,
+                                        "StringWithMarkup": [
+                                            {
+                                                "String": "DTXSID30178589",
+                                                "Id": null,
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            }
+                                        ],
+                                        "ExternalDataURL": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "Id": 0,
+                                        "InformationItem_Id": null
+                                    },
+                                    "Name": null,
+                                    "Description": null,
+                                    "URL": "https://comptox.epa.gov/dashboard/DTXSID30178589",
+                                    "Reference": null,
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null
+                                }
+                            ],
+                            "URL": "https://www.epa.gov/chemical-research/distributed-structure-searchable-toxicity-dsstox-database/",
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        }
+                    ],
+                    "Information": null,
+                    "URL": null,
+                    "Id": 0,
+                    "Section_Id": null,
+                    "Record_Id": null
+                },
+                {
+                    "TOCHeading": "Synonyms",
+                    "Description": "Alternative names for this PubChem Compound record.  A compound can have many different names.  For example, acetone (CH3C(=O)CH3) is also known as propanone, propan-2-one, or dimethyl ketone.  The brand name of a product is commonly used to indicate the primary chemical ingredient(s) in the product (e.g., Tylenol, a common pain killer, is often used for acetaminophen, its active ingredient).  Another example of common synonyms is record identifiers used in different data collections, such as Chemical Abstract Service (CAS) registry numbers, FDA UNII (Unique Ingredient Identifiers), and many others.  All these various names and identifiers that designate this compound are organized under the Synonyms section.",
+                    "Section": [
+                        {
+                            "TOCHeading": "Depositor-Supplied Synonyms",
+                            "Description": "Chemical names provided by individual data contributors. Synonyms of Substances corresponding to a PubChem Compound record are combined. Some contributed names may be considered erroneous and filtered out. The link on each synonym shows which depositors provided that particular synonym for this structure.",
+                            "Section": [],
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 7,
+                                    "Value": {
+                                        "Number": null,
+                                        "Unit": null,
+                                        "StringWithMarkup": [
+                                            {
+                                                "String": "Z-Lys(Boc)-OH",
+                                                "Id": null,
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "String": "2389-60-8",
+                                                "Id": null,
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "String": "N-Cbz-N'-Boc-L-lysine",
+                                                "Id": null,
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "String": "Nepsilon-Boc-Nalpha-Cbz-L-lysine",
+                                                "Id": null,
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "String": "(S)-2-(((Benzyloxy)carbonyl)amino)-6-((tert-butoxycarbonyl)amino)hexanoic acid",
+                                                "Id": null,
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "String": "Z-LYSINE(BOC)-OH",
+                                                "Id": null,
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "String": "MFCD00062271",
+                                                "Id": null,
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "String": "IN2-(benzyloxycarbonyl)-N6-(tert-butoxycarbonyl)-L-lysine",
+                                                "Id": null,
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "String": "(2S)-6-[(2-methylpropan-2-yl)oxycarbonylamino]-2-(phenylmethoxycarbonylamino)hexanoic acid",
+                                                "Id": null,
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "String": "J-300181",
+                                                "Id": null,
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "String": "Q-101584",
+                                                "Id": null,
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "String": "N-BENZYLOXYCARBONYL-N-EPSILON-TERT-BUTOXYCARBONYL-L-LYSINE",
+                                                "Id": null,
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "String": "(2S)-2-(benzyloxycarbonylamino)-6-(tert-butoxycarbonylamino)hexanoic acid",
+                                                "Id": null,
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "String": "(2S)-2-{[(benzyloxy)carbonyl]amino}-6-[(tert-butoxycarbonyl)amino]hexanoic acid",
+                                                "Id": null,
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "String": "(2S)-2-{[(benzyloxy)carbonyl]amino}-6-{[(tert-butoxy)carbonyl]amino}hexanoic acid",
+                                                "Id": null,
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "String": "(S)-2-(BENZYLOXYCARBONYLAMINO)-6-(TERT-BUTOXYCARBONYLAMINO)HEXANOIC ACID",
+                                                "Id": null,
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "String": "AK161808",
+                                                "Id": null,
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "String": "EINECS 219-223-1",
+                                                "Id": null,
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "String": "Lysine derivative 1",
+                                                "Id": null,
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "String": "Z-Lys(Boc)",
+                                                "Id": null,
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "String": "Z-L-Lys(Boc)OH",
+                                                "Id": null,
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "String": "AC1Q5XRK",
+                                                "Id": null,
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "String": "CBZ-LYS(BOC)-OH",
+                                                "Id": null,
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "String": "N-Benzyloxycarbonyl-N'-(tert-Butoxycarbonyl)-L-lysine",
+                                                "Id": null,
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "String": "Z-L-LYS(BOC)-OH",
+                                                "Id": null,
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "String": "AC1L40EO",
+                                                "Id": null,
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "String": "N6-Boc-N2-Cbz-L-lysine",
+                                                "Id": null,
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "String": "Nepsilon-(tert-Butoxycarbonyl)-Nalpha-carbobenzoxy-L-lysine",
+                                                "Id": null,
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "String": "KSC497A6P",
+                                                "Id": null,
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "String": "BDBM9848",
+                                                "Id": null,
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "String": "CHEMBL181392",
+                                                "Id": null,
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "String": "SCHEMBL1491720",
+                                                "Id": null,
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "String": "N-a-Z-N-Epsilon-Boc-D-lysine",
+                                                "Id": null,
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "String": "CTK3J7067",
+                                                "Id": null,
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "String": "DTXSID30178589",
+                                                "Id": null,
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "String": "DYSBKEOCHROEGX-HNNXBMFYSA-N",
+                                                "Id": null,
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "String": "n2-[(benzyloxy)carbonyl]-n6-(tert-butoxycarbonyl)-l-lysine",
+                                                "Id": null,
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "String": "KS-00000J4V",
+                                                "Id": null,
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "String": "ZINC4521276",
+                                                "Id": null,
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "String": "ANW-43623",
+                                                "Id": null,
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "String": "CZ-086",
+                                                "Id": null,
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "String": "N-CBZ-N-EPSILON-BOC-L-LYSINE",
+                                                "Id": null,
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "String": "AKOS015900397",
+                                                "Id": null,
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "String": "AB02445",
+                                                "Id": null,
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "String": "DS-7409",
+                                                "Id": null,
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "String": "FCH3601665",
+                                                "Id": null,
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "String": "RTR-011064",
+                                                "Id": null,
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "String": "AJ-51393",
+                                                "Id": null,
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "String": "AN-50810",
+                                                "Id": null,
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "String": "AB0070882",
+                                                "Id": null,
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "String": "AX8019578",
+                                                "Id": null,
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "String": "TR-011064",
+                                                "Id": null,
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "String": "FT-0629772",
+                                                "Id": null,
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "String": "V4859",
+                                                "Id": null,
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "String": "K-6469",
+                                                "Id": null,
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "String": "C-47094",
+                                                "Id": null,
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "String": "N-BENZYLOXYCARBONYL-N-EPSILON-BOC-L-LYSINE",
+                                                "Id": null,
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "String": "Nalpha-CBZ-Nepsilon-(tert-butoxycarbonyl)-L-lysine",
+                                                "Id": null,
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "String": "I14-15343",
+                                                "Id": null,
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "String": "Nalpha -CBZ-Nepsilon -(tert-butoxycarbonyl)-L-lysine",
+                                                "Id": null,
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "String": "N epsilon-(tert-Butoxycarbonyl)-N alpha-carbobenzoxy-L-lysine",
+                                                "Id": null,
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "String": "Nalpha -benzyloxycarbonyl-Nepsilon -tert-butoxycarbonyl-L-lysine",
+                                                "Id": null,
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "String": "Nalpha-benzyloxycarbonyl-Nepsilon-tert-butyloxycarbonyl-lysine",
+                                                "Id": null,
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "String": "Nalpha-benzyloxycarbonyl-Nepsilon-tert.-butoxycarbonyl-L-lysine",
+                                                "Id": null,
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "String": "(2S)-2-(benzyloxycarbonylamino)-6-(tert-butoxycarbonylamino)-hexanoic acid",
+                                                "Id": null,
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "String": "(S)-2-(benzyloxycarbonylamino)-6-(tert-butoxycarbonyl-amino)hexanoic acid",
+                                                "Id": null,
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "String": "(S)-2-Benzyloxycarbonylamino-6-tert-butoxycarbonylamino-hexanoic acid",
+                                                "Id": null,
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "String": "L-Lysine, N6-[(1,1-dimethylethoxy)carbonyl]-N2-[(phenylmethoxy)carbonyl]-",
+                                                "Id": null,
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "String": "N6-[(1,1-Dimethylethoxy)carbonyl]-N2-[(phenylmethoxy)carbonyl]-L-lysine",
+                                                "Id": null,
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            },
+                                            {
+                                                "String": "(2S)-2-[(benzyloxycarbonyl)amino]-6-[(tert-butoxycarbonyl)amino]hexanoic acid",
+                                                "Id": null,
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            }
+                                        ],
+                                        "ExternalDataURL": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "Id": 0,
+                                        "InformationItem_Id": null
+                                    },
+                                    "Name": null,
+                                    "Description": null,
+                                    "URL": null,
+                                    "Reference": null,
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null
+                                }
+                            ],
+                            "URL": null,
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        }
+                    ],
+                    "Information": null,
+                    "URL": null,
+                    "Id": 0,
+                    "Section_Id": null,
+                    "Record_Id": null
+                }
+            ],
+            "Information": null,
+            "URL": null,
+            "Id": 0,
+            "Section_Id": null,
+            "Record_Id": null
+        },
+        {
+            "TOCHeading": "Chemical and Physical Properties",
+            "Description": "Chemical and physical properties such as melting point, molecular weight, etc.",
+            "Section": [
+                {
+                    "TOCHeading": "Computed Properties",
+                    "Description": "Properties computed automatically from the given chemical structure",
+                    "Section": [
+                        {
+                            "TOCHeading": "Molecular Weight",
+                            "Description": "Molecular weight or molecular mass refers to the mass of a molecule. It is calculated as the sum of the mass of each constituent atom multiplied by the number of atoms of that element in the molecular formula.",
+                            "Section": [],
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 7,
+                                    "Value": {
+                                        "Number": [
+                                            380.4
+                                        ],
+                                        "Unit": "g/mol",
+                                        "StringWithMarkup": null,
+                                        "ExternalDataURL": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "Id": 0,
+                                        "InformationItem_Id": null
+                                    },
+                                    "Name": null,
+                                    "Description": null,
+                                    "URL": null,
+                                    "Reference": [
+                                        "Computed by PubChem 2.1 (PubChem release 2019.06.18)"
+                                    ],
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null
+                                }
+                            ],
+                            "URL": null,
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "XLogP3",
+                            "Description": "Computed Octanol/Water Partition Coefficient",
+                            "Section": [],
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 7,
+                                    "Value": {
+                                        "Number": [
+                                            2.8
+                                        ],
+                                        "Unit": null,
+                                        "StringWithMarkup": null,
+                                        "ExternalDataURL": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "Id": 0,
+                                        "InformationItem_Id": null
+                                    },
+                                    "Name": "XLogP3-AA",
+                                    "Description": null,
+                                    "URL": null,
+                                    "Reference": [
+                                        "Computed by XLogP3 3.0 (PubChem release 2019.06.18)"
+                                    ],
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null
+                                }
+                            ],
+                            "URL": null,
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "Hydrogen Bond Donor Count",
+                            "Description": "Hydrogen Bond Donor count",
+                            "Section": [],
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 7,
+                                    "Value": {
+                                        "Number": [
+                                            3
+                                        ],
+                                        "Unit": null,
+                                        "StringWithMarkup": null,
+                                        "ExternalDataURL": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "Id": 0,
+                                        "InformationItem_Id": null
+                                    },
+                                    "Name": null,
+                                    "Description": null,
+                                    "URL": null,
+                                    "Reference": [
+                                        "Computed by Cactvs 3.4.6.11 (PubChem release 2019.06.18)"
+                                    ],
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null
+                                }
+                            ],
+                            "URL": null,
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "Hydrogen Bond Acceptor Count",
+                            "Description": "Hydrogen Bond Acceptor count",
+                            "Section": [],
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 7,
+                                    "Value": {
+                                        "Number": [
+                                            6
+                                        ],
+                                        "Unit": null,
+                                        "StringWithMarkup": null,
+                                        "ExternalDataURL": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "Id": 0,
+                                        "InformationItem_Id": null
+                                    },
+                                    "Name": null,
+                                    "Description": null,
+                                    "URL": null,
+                                    "Reference": [
+                                        "Computed by Cactvs 3.4.6.11 (PubChem release 2019.06.18)"
+                                    ],
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null
+                                }
+                            ],
+                            "URL": null,
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "Rotatable Bond Count",
+                            "Description": "Rotatable bond is defined as any single non-ring bond, bounded to nonterminal heavy (i.e., non-hydrogen) atom.",
+                            "Section": [],
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 7,
+                                    "Value": {
+                                        "Number": [
+                                            12
+                                        ],
+                                        "Unit": null,
+                                        "StringWithMarkup": null,
+                                        "ExternalDataURL": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "Id": 0,
+                                        "InformationItem_Id": null
+                                    },
+                                    "Name": null,
+                                    "Description": null,
+                                    "URL": null,
+                                    "Reference": [
+                                        "Computed by Cactvs 3.4.6.11 (PubChem release 2019.06.18)"
+                                    ],
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null
+                                }
+                            ],
+                            "URL": null,
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "Exact Mass",
+                            "Description": "The exact mass of an isotopic species is obtained by summing the masses of the individual isotopes of the molecule.",
+                            "Section": [],
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 7,
+                                    "Value": {
+                                        "Number": [
+                                            380.194737
+                                        ],
+                                        "Unit": "g/mol",
+                                        "StringWithMarkup": null,
+                                        "ExternalDataURL": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "Id": 0,
+                                        "InformationItem_Id": null
+                                    },
+                                    "Name": null,
+                                    "Description": null,
+                                    "URL": null,
+                                    "Reference": [
+                                        "Computed by PubChem 2.1 (PubChem release 2019.06.18)"
+                                    ],
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null
+                                }
+                            ],
+                            "URL": null,
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "Monoisotopic Mass",
+                            "Description": "The monoisotopic mass is the sum of the masses of the atoms in a molecule using the unbound, ground-state, rest mass of the principal (most abundant) isotope for each element instead of the isotopic average mass.",
+                            "Section": [],
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 7,
+                                    "Value": {
+                                        "Number": [
+                                            380.194737
+                                        ],
+                                        "Unit": "g/mol",
+                                        "StringWithMarkup": null,
+                                        "ExternalDataURL": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "Id": 0,
+                                        "InformationItem_Id": null
+                                    },
+                                    "Name": null,
+                                    "Description": null,
+                                    "URL": null,
+                                    "Reference": [
+                                        "Computed by PubChem 2.1 (PubChem release 2019.06.18)"
+                                    ],
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null
+                                }
+                            ],
+                            "URL": null,
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "Topological Polar Surface Area",
+                            "Description": "The topological polar surface area (TPSA) of a molecule is defined as the surface sum over all polar atoms in a molecule. ",
+                            "Section": [],
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 7,
+                                    "Value": {
+                                        "Number": [
+                                            114
+                                        ],
+                                        "Unit": "Å²",
+                                        "StringWithMarkup": null,
+                                        "ExternalDataURL": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "Id": 0,
+                                        "InformationItem_Id": null
+                                    },
+                                    "Name": null,
+                                    "Description": null,
+                                    "URL": null,
+                                    "Reference": [
+                                        "Computed by Cactvs 3.4.6.11 (PubChem release 2019.06.18)"
+                                    ],
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null
+                                }
+                            ],
+                            "URL": null,
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "Heavy Atom Count",
+                            "Description": "A heavy atom is defined as any atom except hydrogen in a chemical structure.",
+                            "Section": [],
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 7,
+                                    "Value": {
+                                        "Number": [
+                                            27
+                                        ],
+                                        "Unit": null,
+                                        "StringWithMarkup": null,
+                                        "ExternalDataURL": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "Id": 0,
+                                        "InformationItem_Id": null
+                                    },
+                                    "Name": null,
+                                    "Description": null,
+                                    "URL": null,
+                                    "Reference": [
+                                        "Computed by PubChem"
+                                    ],
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null
+                                }
+                            ],
+                            "URL": null,
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "Formal Charge",
+                            "Description": "Formal charge is the difference between the number of valence electrons of each atom and the number of electrons the atom is associated with. Formal charge assumes any shared electrons are equally shared between the two bonded atoms.",
+                            "Section": [],
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 7,
+                                    "Value": {
+                                        "Number": [
+                                            0
+                                        ],
+                                        "Unit": null,
+                                        "StringWithMarkup": null,
+                                        "ExternalDataURL": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "Id": 0,
+                                        "InformationItem_Id": null
+                                    },
+                                    "Name": null,
+                                    "Description": null,
+                                    "URL": null,
+                                    "Reference": [
+                                        "Computed by PubChem"
+                                    ],
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null
+                                }
+                            ],
+                            "URL": null,
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "Complexity",
+                            "Description": "The complexity rating of a compound is a rough estimate of how complicated a structure is, seen from both the point of view of the elements contained and the displayed structural features including symmetry. This complexity rating is computed using the Bertz/Hendrickson/Ihlenfeldt formula.",
+                            "Section": [],
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 7,
+                                    "Value": {
+                                        "Number": [
+                                            483
+                                        ],
+                                        "Unit": null,
+                                        "StringWithMarkup": null,
+                                        "ExternalDataURL": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "Id": 0,
+                                        "InformationItem_Id": null
+                                    },
+                                    "Name": null,
+                                    "Description": null,
+                                    "URL": null,
+                                    "Reference": [
+                                        "Computed by Cactvs 3.4.6.11 (PubChem release 2019.06.18)"
+                                    ],
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null
+                                }
+                            ],
+                            "URL": null,
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "Isotope Atom Count",
+                            "Description": "Isotopte Atom Count is the number of isotopes that are not most abundant for the corresponding chemical elements.  Isotopes are variants of a chemical element which differ in neutron number.  For example, among three isotopes of carbon (i.e., C-12, C-13, and C-14), the isotope atom count considers the C-13 and C-14 atoms, because C-12 is the most abundant isotope of carbon.",
+                            "Section": [],
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 7,
+                                    "Value": {
+                                        "Number": [
+                                            0
+                                        ],
+                                        "Unit": null,
+                                        "StringWithMarkup": null,
+                                        "ExternalDataURL": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "Id": 0,
+                                        "InformationItem_Id": null
+                                    },
+                                    "Name": null,
+                                    "Description": null,
+                                    "URL": null,
+                                    "Reference": [
+                                        "Computed by PubChem"
+                                    ],
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null
+                                }
+                            ],
+                            "URL": null,
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "Defined Atom Stereocenter Count",
+                            "Description": "An atom stereocenter, also known as a chiral center, is an atom that is attached to four different types of atoms (or groups of atoms) in the tetrahedral arrangement. It can have either (R)- or (S)- configurations.  Some compounds, such as racemic mixtures, have an undefined atom stereocenter, whose (R/S)-configuration is not specifically defined.",
+                            "Section": [],
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 7,
+                                    "Value": {
+                                        "Number": [
+                                            1
+                                        ],
+                                        "Unit": null,
+                                        "StringWithMarkup": null,
+                                        "ExternalDataURL": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "Id": 0,
+                                        "InformationItem_Id": null
+                                    },
+                                    "Name": null,
+                                    "Description": null,
+                                    "URL": null,
+                                    "Reference": [
+                                        "Computed by PubChem"
+                                    ],
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null
+                                }
+                            ],
+                            "URL": null,
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "Undefined Atom Stereocenter Count",
+                            "Description": "An atom stereocenter, also known as a chiral center, is an atom that is attached to four different types of atoms (or groups of atoms) in the tetrahedral arrangement. It can have either (R)- or (S)- configurations.  Some compounds, such as racemic mixtures, have an undefined atom stereocenter, whose (R/S)-configuration is not specifically defined.",
+                            "Section": [],
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 7,
+                                    "Value": {
+                                        "Number": [
+                                            0
+                                        ],
+                                        "Unit": null,
+                                        "StringWithMarkup": null,
+                                        "ExternalDataURL": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "Id": 0,
+                                        "InformationItem_Id": null
+                                    },
+                                    "Name": null,
+                                    "Description": null,
+                                    "URL": null,
+                                    "Reference": [
+                                        "Computed by PubChem"
+                                    ],
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null
+                                }
+                            ],
+                            "URL": null,
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "Defined Bond Stereocenter Count",
+                            "Description": "A bond stereocenter is a non-rotatable bond around which two atoms can have different arrangement (as in cis- and trans-forms of butene around its double bond).  Some compounds have an undefined bond stereocenter, whose stereochemistry is not specifically defined.",
+                            "Section": [],
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 7,
+                                    "Value": {
+                                        "Number": [
+                                            0
+                                        ],
+                                        "Unit": null,
+                                        "StringWithMarkup": null,
+                                        "ExternalDataURL": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "Id": 0,
+                                        "InformationItem_Id": null
+                                    },
+                                    "Name": null,
+                                    "Description": null,
+                                    "URL": null,
+                                    "Reference": [
+                                        "Computed by PubChem"
+                                    ],
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null
+                                }
+                            ],
+                            "URL": null,
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "Undefined Bond Stereocenter Count",
+                            "Description": "A bond stereocenter is a non-rotatable bond around which two atoms can have different arrangement (as in cis- and trans-forms of butene around its double bond).  Some compounds have an undefined bond stereocenter, whose stereochemistry is not specifically defined.",
+                            "Section": [],
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 7,
+                                    "Value": {
+                                        "Number": [
+                                            0
+                                        ],
+                                        "Unit": null,
+                                        "StringWithMarkup": null,
+                                        "ExternalDataURL": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "Id": 0,
+                                        "InformationItem_Id": null
+                                    },
+                                    "Name": null,
+                                    "Description": null,
+                                    "URL": null,
+                                    "Reference": [
+                                        "Computed by PubChem"
+                                    ],
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null
+                                }
+                            ],
+                            "URL": null,
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "Covalently-Bonded Unit Count",
+                            "Description": "Covalently-Bonded Unit Count ",
+                            "Section": [],
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 7,
+                                    "Value": {
+                                        "Number": [
+                                            1
+                                        ],
+                                        "Unit": null,
+                                        "StringWithMarkup": null,
+                                        "ExternalDataURL": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "Id": 0,
+                                        "InformationItem_Id": null
+                                    },
+                                    "Name": null,
+                                    "Description": null,
+                                    "URL": null,
+                                    "Reference": [
+                                        "Computed by PubChem"
+                                    ],
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null
+                                }
+                            ],
+                            "URL": null,
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "Compound Is Canonicalized",
+                            "Description": "Compound is canonicalized",
+                            "Section": [],
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 7,
+                                    "Value": {
+                                        "Number": null,
+                                        "Unit": null,
+                                        "StringWithMarkup": [
+                                            {
+                                                "String": "Yes",
+                                                "Id": null,
+                                                "Value_Id": null,
+                                                "Markup": null
+                                            }
+                                        ],
+                                        "ExternalDataURL": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null,
+                                        "Id": 0,
+                                        "InformationItem_Id": null
+                                    },
+                                    "Name": null,
+                                    "Description": null,
+                                    "URL": null,
+                                    "Reference": [
+                                        "Computed by PubChem (release 2019.01.04)"
+                                    ],
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null
+                                }
+                            ],
+                            "URL": null,
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        }
+                    ],
+                    "Information": null,
+                    "URL": null,
+                    "Id": 0,
+                    "Section_Id": null,
+                    "Record_Id": null
+                }
+            ],
+            "Information": null,
+            "URL": null,
+            "Id": 0,
+            "Section_Id": null,
+            "Record_Id": null
+        }
+    ],
+    "Id": 0,
+    "RecordTitleCN": "N-苄氧羰基-N-ε-叔丁醇羰基-L-赖氨酸",
+    "Structure": "https://pubchem.ncbi.nlm.nih.gov/image/imgsrv.fcgi?cid=98765&t=l",
+    "InChIKeyList": [
+        "DYSBKEOCHROEGX-HNNXBMFYSA-N"
+    ],
+    "InChIList": [
+        "InChI=1S/C19H28N2O6/c1-19(2,3)27-17(24)20-12-8-7-11-15(16(22)23)21-18(25)26-13-14-9-5-4-6-10-14/h4-6,9-10,15H,7-8,11-13H2,1-3H3,(H,20,24)(H,21,25)(H,22,23)/t15-/m0/s1"
+    ],
+    "MolecularWeightList": [
+        "380.4 g/mol"
+    ],
+    "ChemicalNamesList": [
+        "(2S)-6-[(2-methylpropan-2-yl)oxycarbonylamino]-2-(phenylmethoxycarbonylamino)hexanoic acid"
+    ],
+    "SMILESList": [
+        "CC(C)(C)OC(=O)NCCCCC(C(=O)O)NC(=O)OCC1=CC=CC=C1"
+    ],
+    "CasList": [
+        "2389-60-8"
+    ],
+    "MolecularFormulaList": [],
+    "ChemicalSafetyList": [],
+    "source": "https://baike.kingdraw.com/Scripts/app/detail.html?id=98765"
+}

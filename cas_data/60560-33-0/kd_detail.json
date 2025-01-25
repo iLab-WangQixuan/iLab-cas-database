@@ -1,0 +1,3627 @@
+{
+    "RecordType": "CID",
+    "RecordNumber": 4826,
+    "RecordTitle": "Pinacidil",
+    "Section": [
+        {
+            "TOCHeading": "Structures",
+            "Description": "Structure depictions and information for 2D, 3D, and crystal related",
+            "Section": [],
+            "Information": null,
+            "URL": null,
+            "Id": 0,
+            "Section_Id": null,
+            "Record_Id": null
+        },
+        {
+            "TOCHeading": "Names and Identifiers",
+            "Description": "Record identifiers, synonyms, chemical names, descriptors, etc.",
+            "Section": [
+                {
+                    "TOCHeading": "Computed Descriptors",
+                    "Description": "Descriptors generated from chemical structure input",
+                    "Section": [
+                        {
+                            "TOCHeading": "IUPAC Name",
+                            "Description": "Chemical name computed from chemical structure that uses International Union of Pure and Applied Chemistry (IUPAC) nomenclature standards.",
+                            "Section": [],
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 21,
+                                    "Value": {
+                                        "StringWithMarkup": [
+                                            {
+                                                "String": "1-cyano-2-(3,3-dimethylbutan-2-yl)-3-pyridin-4-ylguanidine",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            }
+                                        ],
+                                        "Number": null,
+                                        "ExternalDataURL": null,
+                                        "Unit": null,
+                                        "Id": 0,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null
+                                    },
+                                    "Description": null,
+                                    "Name": null,
+                                    "URL": null,
+                                    "Reference": null,
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null
+                                }
+                            ],
+                            "URL": "http://old.iupac.org/publications/books/seriestitles/nomenclature.html",
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "InChI",
+                            "Description": "International Chemical Identifier (InChI) computed from chemical structure using the International Union of Pure and Applied Chemistry (IUPAC) standard.",
+                            "Section": [],
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 21,
+                                    "Value": {
+                                        "StringWithMarkup": [
+                                            {
+                                                "String": "InChI=1S/C13H19N5/c1-10(13(2,3)4)17-12(16-9-14)18-11-5-7-15-8-6-11/h5-8,10H,1-4H3,(H2,15,16,17,18)",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            }
+                                        ],
+                                        "Number": null,
+                                        "ExternalDataURL": null,
+                                        "Unit": null,
+                                        "Id": 0,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null
+                                    },
+                                    "Description": null,
+                                    "Name": null,
+                                    "URL": null,
+                                    "Reference": null,
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null
+                                }
+                            ],
+                            "URL": "http://www.iupac.org/home/publications/e-resources/inchi.html",
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "InChI Key",
+                            "Description": "International Chemical Identifier hash (InChIKey) computed from chemical structure using the International Union of Pure and Applied Chemistry (IUPAC) standard.",
+                            "Section": [],
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 21,
+                                    "Value": {
+                                        "StringWithMarkup": [
+                                            {
+                                                "String": "IVVNZDGDKPTYHK-UHFFFAOYSA-N",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            }
+                                        ],
+                                        "Number": null,
+                                        "ExternalDataURL": null,
+                                        "Unit": null,
+                                        "Id": 0,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null
+                                    },
+                                    "Description": null,
+                                    "Name": null,
+                                    "URL": null,
+                                    "Reference": null,
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null
+                                }
+                            ],
+                            "URL": "http://www.iupac.org/home/publications/e-resources/inchi.html",
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "Canonical SMILES",
+                            "Description": "Simplified Molecular-Input Line-Entry System (SMILES) computed from chemical structure devoid of isotopic and stereochemical information.",
+                            "Section": [],
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 21,
+                                    "Value": {
+                                        "StringWithMarkup": [
+                                            {
+                                                "String": "CC(C(C)(C)C)N=C(NC#N)NC1=CC=NC=C1",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            }
+                                        ],
+                                        "Number": null,
+                                        "ExternalDataURL": null,
+                                        "Unit": null,
+                                        "Id": 0,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null
+                                    },
+                                    "Description": null,
+                                    "Name": null,
+                                    "URL": null,
+                                    "Reference": null,
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null
+                                }
+                            ],
+                            "URL": "http://www.daylight.com/dayhtml/doc/theory/theory.smiles.html",
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        }
+                    ],
+                    "Information": null,
+                    "URL": null,
+                    "Id": 0,
+                    "Section_Id": null,
+                    "Record_Id": null
+                },
+                {
+                    "TOCHeading": "Other Identifiers",
+                    "Description": "Important identifiers assigned to this chemical substance by authoritative organizations",
+                    "Section": [
+                        {
+                            "TOCHeading": "CAS",
+                            "Description": "A proprietary registry number assigned by the Chemical Abstracts Service (CAS) division of the American Chemical Society (ACS) often used to help describe chemical ingredients.",
+                            "Section": [],
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 2,
+                                    "Value": {
+                                        "StringWithMarkup": [
+                                            {
+                                                "String": "60560-33-0",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            }
+                                        ],
+                                        "Number": null,
+                                        "ExternalDataURL": null,
+                                        "Unit": null,
+                                        "Id": 0,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null
+                                    },
+                                    "Description": null,
+                                    "Name": null,
+                                    "URL": null,
+                                    "Reference": null,
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null
+                                },
+                                {
+                                    "ReferenceNumber": 2,
+                                    "Value": {
+                                        "StringWithMarkup": [
+                                            {
+                                                "String": "85371-64-8 (Parent)",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            }
+                                        ],
+                                        "Number": null,
+                                        "ExternalDataURL": null,
+                                        "Unit": null,
+                                        "Id": 0,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null
+                                    },
+                                    "Description": null,
+                                    "Name": "Related CAS",
+                                    "URL": null,
+                                    "Reference": null,
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null
+                                },
+                                {
+                                    "ReferenceNumber": 4,
+                                    "Value": {
+                                        "StringWithMarkup": [
+                                            {
+                                                "String": "85371-64-8",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            }
+                                        ],
+                                        "Number": null,
+                                        "ExternalDataURL": null,
+                                        "Unit": null,
+                                        "Id": 0,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null
+                                    },
+                                    "Description": null,
+                                    "Name": "CAS",
+                                    "URL": null,
+                                    "Reference": null,
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null
+                                },
+                                {
+                                    "ReferenceNumber": 6,
+                                    "Value": {
+                                        "StringWithMarkup": [
+                                            {
+                                                "String": "60560-33-0",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            }
+                                        ],
+                                        "Number": null,
+                                        "ExternalDataURL": null,
+                                        "Unit": null,
+                                        "Id": 0,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null
+                                    },
+                                    "Description": null,
+                                    "Name": "CAS",
+                                    "URL": null,
+                                    "Reference": null,
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null
+                                },
+                                {
+                                    "ReferenceNumber": 8,
+                                    "Value": {
+                                        "StringWithMarkup": [
+                                            {
+                                                "String": "60560-33-0",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            }
+                                        ],
+                                        "Number": null,
+                                        "ExternalDataURL": null,
+                                        "Unit": null,
+                                        "Id": 0,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null
+                                    },
+                                    "Description": null,
+                                    "Name": null,
+                                    "URL": null,
+                                    "Reference": null,
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null
+                                }
+                            ],
+                            "URL": "http://en.wikipedia.org/wiki/CAS_Registry_Number",
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "European Community (EC) Number",
+                            "Description": "A seven-digit regulatory identifier currently assigned by the European Chemicals Agency (ECHA) known as a European Community (EC) number.  It is sometimes referred to as an EINECS, ELINCS, or NLP number, which are subsets of an EC number.",
+                            "Section": [],
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 8,
+                                    "Value": {
+                                        "StringWithMarkup": [
+                                            {
+                                                "String": "262-294-9",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            }
+                                        ],
+                                        "Number": null,
+                                        "ExternalDataURL": null,
+                                        "Unit": null,
+                                        "Id": 0,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null
+                                    },
+                                    "Description": null,
+                                    "Name": null,
+                                    "URL": null,
+                                    "Reference": null,
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null
+                                }
+                            ],
+                            "URL": "http://en.wikipedia.org/wiki/European_Community_number",
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "NSC Number",
+                            "Description": "The NSC number is a numeric identifier for substances submitted to the National Cancer Institute (NCI) for testing and evaluation. It is a registration number for the Developmental Therapeutics Program (DTP) repository. NSC stands for National Service Center.",
+                            "Section": [],
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 4,
+                                    "Value": {
+                                        "StringWithMarkup": [
+                                            {
+                                                "String": "759588",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            }
+                                        ],
+                                        "Number": null,
+                                        "ExternalDataURL": null,
+                                        "Unit": null,
+                                        "Id": 0,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null
+                                    },
+                                    "Description": null,
+                                    "Name": "NSC Number",
+                                    "URL": "https://dtp.cancer.gov/dtpstandard/servlet/dwindex?searchtype=NSC&outputformat=html&searchlist=759588",
+                                    "Reference": null,
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null
+                                }
+                            ],
+                            "URL": null,
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "Wikipedia",
+                            "Description": "Links to Wikipedia or wikidata for this record.",
+                            "Section": [],
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 19,
+                                    "Value": {
+                                        "StringWithMarkup": [
+                                            {
+                                                "String": "Pinacidil anhydrous",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            }
+                                        ],
+                                        "Number": null,
+                                        "ExternalDataURL": null,
+                                        "Unit": null,
+                                        "Id": 0,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null
+                                    },
+                                    "Description": null,
+                                    "Name": "Wikipedia",
+                                    "URL": "https://en.wikipedia.org/wiki/Pinacidil",
+                                    "Reference": null,
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null
+                                }
+                            ],
+                            "URL": null,
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        }
+                    ],
+                    "Information": null,
+                    "URL": null,
+                    "Id": 0,
+                    "Section_Id": null,
+                    "Record_Id": null
+                },
+                {
+                    "TOCHeading": "Synonyms",
+                    "Description": "Alternative names for this PubChem Compound record.  A compound can have many different names.  For example, acetone (CH3C(=O)CH3) is also known as propanone, propan-2-one, or dimethyl ketone.  The brand name of a product is commonly used to indicate the primary chemical ingredient(s) in the product (e.g., Tylenol, a common pain killer, is often used for acetaminophen, its active ingredient).  Another example of common synonyms is record identifiers used in different data collections, such as Chemical Abstract Service (CAS) registry numbers, FDA UNII (Unique Ingredient Identifiers), and many others.  All these various names and identifiers that designate this compound are organized under the Synonyms section.",
+                    "Section": [
+                        {
+                            "TOCHeading": "MeSH Entry Terms",
+                            "Description": "Medical Subject Heading (MeSH) names or identifiers matching this PubChem Compound record.  The matching between the MeSH and compound records is performed by name matching (i.e., identical common names).",
+                            "Section": [],
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 20,
+                                    "Value": {
+                                        "StringWithMarkup": [
+                                            {
+                                                "String": "Anhydrous, Pinacidil",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "Pinacidil",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "Pinacidil Anhydrous",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "Pindac",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            }
+                                        ],
+                                        "Number": null,
+                                        "ExternalDataURL": null,
+                                        "Unit": null,
+                                        "Id": 0,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null
+                                    },
+                                    "Description": null,
+                                    "Name": null,
+                                    "URL": null,
+                                    "Reference": null,
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null
+                                }
+                            ],
+                            "URL": null,
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "Depositor-Supplied Synonyms",
+                            "Description": "Chemical names provided by individual data contributors. Synonyms of Substances corresponding to a PubChem Compound record are combined. Some contributed names may be considered erroneous and filtered out. The link on each synonym shows which depositors provided that particular synonym for this structure.",
+                            "Section": [],
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 21,
+                                    "Value": {
+                                        "StringWithMarkup": [
+                                            {
+                                                "String": "pinacidil",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "(R,S)-Pinacidil",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "60560-33-0",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "85371-64-8",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "(+-)-Pinacidil",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "Pinacidilum [INN-Latin]",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "P 1134",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "Pinacidil anhydrous",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "EINECS 262-294-9",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "S 1230",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "N-Cyano-N'-4-pyridinyl-N''-(1,2,2-trimethylpropyl)guanidine",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "CHEMBL1159",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "MLS000069377",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "1-cyano-2-(3,3-dimethylbutan-2-yl)-3-pyridin-4-ylguanidine",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "2-Cyano-3-(4-pyridinyl)-1-(1,2,2-trimethylpropyl)guanidine",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "S-1230",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "Guanidine, N-cyano-N'-4-pyridinyl-N''-(1,2,2-trimethylpropyl)-",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "Pinacidilum",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "SMR000058360",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "P-154",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "Guanidine,N-cyano-N'-4-pyridinyl-N''-(1,2,2-trimethylpropyl)-, hydrate (1:1)",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "Pinacidil [INN]",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "(+/-)-Pinacidil",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "Pinacidil (anhydrous)",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "SR-01000075340",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "SR-05000001757",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "NCGC00025188-04",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "1-cyano-3-(4-pyridyl)-2-(1,2,2-trimethylpropyl)guanidine",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "Prestwick_396",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "ACMC-20mijl",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "Spectrum_000387",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "SpecPlus_000759",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "AC1Q4SLP",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "Opera_ID_1844",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "Prestwick0_000246",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "Prestwick1_000246",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "Prestwick2_000246",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "Prestwick3_000246",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "Spectrum2_001739",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "Spectrum5_001372",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "AC1L1J1H",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "CBiol_001878",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "Lopac0_001037",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "SCHEMBL65787",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "BSPBio_000032",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "BSPBio_001461",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "BSPBio_002360",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "KBioGR_000181",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "KBioSS_000181",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "KBioSS_000867",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "MLS002154248",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "DivK1c_006855",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "SPECTRUM2300270",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "SPBio_001818",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "SPBio_002251",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "BPBio1_000036",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "GTPL2412",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "SCHEMBL9260276",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "DTXSID7048249",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "Guanidine, N-cyano-N'-4-pyridinyl-N''-[(1R)-1,2,2-trimethylpropyl]-",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "BCBcMAP01_000050",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "BDBM86245",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "CHEBI:91706",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "CTK5F4813",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "KBio1_001799",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "KBio2_000181",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "KBio2_000867",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "KBio2_002749",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "KBio2_003435",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "KBio2_005317",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "KBio2_006003",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "KBio3_000361",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "KBio3_000362",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "IVVNZDGDKPTYHK-UHFFFAOYSA-N",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "Bio1_000164",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "Bio1_000653",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "Bio1_001142",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "Bio2_000181",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "Bio2_000661",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "HMS1361J03",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "HMS1568B14",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "HMS1791J03",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "HMS1922L10",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "HMS1989J03",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "HMS2089C19",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "HMS2094G21",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "HMS2095B14",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "HMS2234F10",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "HMS3263O15",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "HMS3267P10",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "HMS3371H14",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "HMS3402J03",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "HMS3712B14",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "Pharmakon1600-02300270",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "113563-71-6",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "NSC_4826",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "Tox21_501037",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "2-Cyano-3-(4-pyridyl)-1-(1,2,2-trimethylpropyl)guanidine monohydrate",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "2657AH",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "BDBM50103517",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "BDBM50240750",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "CCG-39493",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "NSC759588",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "AKOS001637331",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "AKOS025394868",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "Guanidine, 2-cyano-3-(4-pyridyl)-1-(1,2,2-trimethylpropyl)-, monohydrate",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "Guanidine, N-cyano-N'-4-pyridinyl-N''-(1,2,2-trimethylpropyl)-, monohydrate",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "API0008270",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "CCG-205115",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "CCG-222341",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "LP01037",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "MCULE-2402591602",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "NSC-759588",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "IDI1_033931",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "NCGC00015787-02",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "NCGC00015787-03",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "NCGC00015787-04",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "NCGC00015787-05",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "NCGC00015787-06",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "NCGC00025188-02",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "NCGC00025188-03",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "NCGC00025188-05",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "NCGC00025188-06",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "NCGC00025188-07",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "NCGC00025188-08",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "NCGC00095199-01",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "NCGC00095199-02",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "NCGC00095199-03",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "NCGC00095199-04",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "NCGC00188958-01",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "NCGC00247667-01",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "NCGC00261722-01",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "AN-35700",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "BC202316",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "LS-73486",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "SBI-0051008.P004",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "CAS_85371-64-8",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "RT-004885",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "EU-0101037",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "FT-0630932",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "SW197742-2",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "AB00052442-04",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "AB00052442_05",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "AB00052442_06",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "371P648",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "560P330",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "SR-01000075340-1",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "SR-01000075340-3",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "SR-05000001757-1",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "SR-05000001757-2",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "BRD-A43882281-001-06-4",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "BRD-A43882281-001-11-4",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "BRD-A58207013-001-01-2",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "3-cyano-2-(3,3-dimethylbutan-2-yl)-1-pyridin-4-ylguanidine",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "N-cyano-N'-(4-pyridyl)-N''-(1,2,2-trimethylpropyl)guanidine",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "2-cyano-1-(3,3-dimethylbutan-2-yl)-3-(pyridin-4-yl)guanidine",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "N''''-cyano-N-pyridin-4-yl-N''-(1,2,2-trimethylpropyl)guanidine",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "()-N-Cyano-N''-4-pyridinyl-N''''-(1,2,2-trimethylpropyl)guanidine",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "(Z)-2-cyano-1-(3,3-dimethylbutan-2-yl)-3-(pyridin-4-yl)guanidine",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "4N-cyanoimino(1,2,2-trimethylpropylamino)methyl-4-pyridinamine(Pinacidil)",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "4N-cyanoimino[1,2,2-trimethyl-(1R)-propylamino]methyl-4-pyridinamine",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "4N-cyanoimino[1,2,2-trimethyl-(1S)-propylamino]methyl-4-pyridinamine",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "N''''-cyano-N-pyridin-4-yl-N''-[(1R)-1,2,2-trimethylpropyl]guanidine",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "N''''-cyano-N-pyridin-4-yl-N''-[(1S)-1,2,2-trimethylpropyl]guanidine",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "N-Pyridin-4-yl-N''-(1,2,2-trimethyl-propyl)-cyanoguanidine (pinacidil)",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "( inverted question mark)-N-Cyano-N'-4-pyridinyl-N''-(1,2,2-trimethylpropyl)-guanidine",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "N''''-cyano-N-pyridin-4-yl-N''-(1,2,2-trimethylpropyl)guanidine ((+)-pinacidil)",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            },
+                                            {
+                                                "String": "N''''-cyano-N-pyridin-4-yl-N''-(1,2,2-trimethylpropyl)guanidine (Pinacidil)",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            }
+                                        ],
+                                        "Number": null,
+                                        "ExternalDataURL": null,
+                                        "Unit": null,
+                                        "Id": 0,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null
+                                    },
+                                    "Description": null,
+                                    "Name": null,
+                                    "URL": null,
+                                    "Reference": null,
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null
+                                }
+                            ],
+                            "URL": null,
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        }
+                    ],
+                    "Information": null,
+                    "URL": null,
+                    "Id": 0,
+                    "Section_Id": null,
+                    "Record_Id": null
+                }
+            ],
+            "Information": null,
+            "URL": null,
+            "Id": 0,
+            "Section_Id": null,
+            "Record_Id": null
+        },
+        {
+            "TOCHeading": "Chemical and Physical Properties",
+            "Description": "Chemical and physical properties such as melting point, molecular weight, etc.",
+            "Section": [
+                {
+                    "TOCHeading": "Computed Properties",
+                    "Description": "Properties computed automatically from the given chemical structure",
+                    "Section": [
+                        {
+                            "TOCHeading": "Molecular Weight",
+                            "Description": "Molecular weight or molecular mass refers to the mass of a molecule. It is calculated as the sum of the mass of each constituent atom multiplied by the number of atoms of that element in the molecular formula.",
+                            "Section": [],
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 21,
+                                    "Value": {
+                                        "StringWithMarkup": null,
+                                        "Number": [
+                                            245.32
+                                        ],
+                                        "ExternalDataURL": null,
+                                        "Unit": "g/mol",
+                                        "Id": 0,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null
+                                    },
+                                    "Description": null,
+                                    "Name": null,
+                                    "URL": null,
+                                    "Reference": null,
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null
+                                }
+                            ],
+                            "URL": null,
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "XLogP3",
+                            "Description": "Computed Octanol/Water Partition Coefficient",
+                            "Section": [],
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 21,
+                                    "Value": {
+                                        "StringWithMarkup": null,
+                                        "Number": [
+                                            2.7
+                                        ],
+                                        "ExternalDataURL": null,
+                                        "Unit": null,
+                                        "Id": 0,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null
+                                    },
+                                    "Description": null,
+                                    "Name": "XLogP3-AA",
+                                    "URL": null,
+                                    "Reference": null,
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null
+                                }
+                            ],
+                            "URL": null,
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "Hydrogen Bond Donor Count",
+                            "Description": "Hydrogen Bond Donor count",
+                            "Section": [],
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 21,
+                                    "Value": {
+                                        "StringWithMarkup": null,
+                                        "Number": [
+                                            2
+                                        ],
+                                        "ExternalDataURL": null,
+                                        "Unit": null,
+                                        "Id": 0,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null
+                                    },
+                                    "Description": null,
+                                    "Name": null,
+                                    "URL": null,
+                                    "Reference": null,
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null
+                                }
+                            ],
+                            "URL": null,
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "Hydrogen Bond Acceptor Count",
+                            "Description": "Hydrogen Bond Acceptor count",
+                            "Section": [],
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 21,
+                                    "Value": {
+                                        "StringWithMarkup": null,
+                                        "Number": [
+                                            3
+                                        ],
+                                        "ExternalDataURL": null,
+                                        "Unit": null,
+                                        "Id": 0,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null
+                                    },
+                                    "Description": null,
+                                    "Name": null,
+                                    "URL": null,
+                                    "Reference": null,
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null
+                                }
+                            ],
+                            "URL": null,
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "Rotatable Bond Count",
+                            "Description": "Rotatable bond is defined as any single non-ring bond, bounded to nonterminal heavy (i.e., non-hydrogen) atom.",
+                            "Section": [],
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 21,
+                                    "Value": {
+                                        "StringWithMarkup": null,
+                                        "Number": [
+                                            5
+                                        ],
+                                        "ExternalDataURL": null,
+                                        "Unit": null,
+                                        "Id": 0,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null
+                                    },
+                                    "Description": null,
+                                    "Name": null,
+                                    "URL": null,
+                                    "Reference": null,
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null
+                                }
+                            ],
+                            "URL": null,
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "Exact Mass",
+                            "Description": "The exact mass of an isotopic species is obtained by summing the masses of the individual isotopes of the molecule.",
+                            "Section": [],
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 21,
+                                    "Value": {
+                                        "StringWithMarkup": null,
+                                        "Number": [
+                                            245.164046
+                                        ],
+                                        "ExternalDataURL": null,
+                                        "Unit": "g/mol",
+                                        "Id": 0,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null
+                                    },
+                                    "Description": null,
+                                    "Name": null,
+                                    "URL": null,
+                                    "Reference": null,
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null
+                                }
+                            ],
+                            "URL": null,
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "Monoisotopic Mass",
+                            "Description": "The monoisotopic mass is the sum of the masses of the atoms in a molecule using the unbound, ground-state, rest mass of the principal (most abundant) isotope for each element instead of the isotopic average mass.",
+                            "Section": [],
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 21,
+                                    "Value": {
+                                        "StringWithMarkup": null,
+                                        "Number": [
+                                            245.164046
+                                        ],
+                                        "ExternalDataURL": null,
+                                        "Unit": "g/mol",
+                                        "Id": 0,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null
+                                    },
+                                    "Description": null,
+                                    "Name": null,
+                                    "URL": null,
+                                    "Reference": null,
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null
+                                }
+                            ],
+                            "URL": null,
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "Topological Polar Surface Area",
+                            "Description": "The topological polar surface area (TPSA) of a molecule is defined as the surface sum over all polar atoms in a molecule. ",
+                            "Section": [],
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 21,
+                                    "Value": {
+                                        "StringWithMarkup": null,
+                                        "Number": [
+                                            73.1
+                                        ],
+                                        "ExternalDataURL": null,
+                                        "Unit": "A^2",
+                                        "Id": 0,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null
+                                    },
+                                    "Description": null,
+                                    "Name": null,
+                                    "URL": null,
+                                    "Reference": null,
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null
+                                }
+                            ],
+                            "URL": null,
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "Heavy Atom Count",
+                            "Description": "A heavy atom is defined as any atom except hydrogen in a chemical structure.",
+                            "Section": [],
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 21,
+                                    "Value": {
+                                        "StringWithMarkup": null,
+                                        "Number": [
+                                            18
+                                        ],
+                                        "ExternalDataURL": null,
+                                        "Unit": null,
+                                        "Id": 0,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null
+                                    },
+                                    "Description": null,
+                                    "Name": null,
+                                    "URL": null,
+                                    "Reference": null,
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null
+                                }
+                            ],
+                            "URL": null,
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "Formal Charge",
+                            "Description": "Formal charge is the difference between the number of valence electrons of each atom and the number of electrons the atom is associated with. Formal charge assumes any shared electrons are equally shared between the two bonded atoms.",
+                            "Section": [],
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 21,
+                                    "Value": {
+                                        "StringWithMarkup": null,
+                                        "Number": [
+                                            0
+                                        ],
+                                        "ExternalDataURL": null,
+                                        "Unit": null,
+                                        "Id": 0,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null
+                                    },
+                                    "Description": null,
+                                    "Name": null,
+                                    "URL": null,
+                                    "Reference": null,
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null
+                                }
+                            ],
+                            "URL": null,
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "Complexity",
+                            "Description": "The complexity rating of a compound is a rough estimate of how complicated a structure is, seen from both the point of view of the elements contained and the displayed structural features including symmetry. This complexity rating is computed using the Bertz/Hendrickson/Ihlenfeldt formula.",
+                            "Section": [],
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 21,
+                                    "Value": {
+                                        "StringWithMarkup": null,
+                                        "Number": [
+                                            327
+                                        ],
+                                        "ExternalDataURL": null,
+                                        "Unit": null,
+                                        "Id": 0,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null
+                                    },
+                                    "Description": null,
+                                    "Name": null,
+                                    "URL": null,
+                                    "Reference": null,
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null
+                                }
+                            ],
+                            "URL": null,
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "Isotope Atom Count",
+                            "Description": "Isotopte Atom Count is the number of isotopes that are not most abundant for the corresponding chemical elements.  Isotopes are variants of a chemical element which differ in neutron number.  For example, among three isotopes of carbon (i.e., C-12, C-13, and C-14), the isotope atom count considers the C-13 and C-14 atoms, because C-12 is the most abundant isotope of carbon.",
+                            "Section": [],
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 21,
+                                    "Value": {
+                                        "StringWithMarkup": null,
+                                        "Number": [
+                                            0
+                                        ],
+                                        "ExternalDataURL": null,
+                                        "Unit": null,
+                                        "Id": 0,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null
+                                    },
+                                    "Description": null,
+                                    "Name": null,
+                                    "URL": null,
+                                    "Reference": null,
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null
+                                }
+                            ],
+                            "URL": null,
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "Defined Atom Stereocenter Count",
+                            "Description": "An atom stereocenter, also known as a chiral center, is an atom that is attached to four different types of atoms (or groups of atoms) in the tetrahedral arrangement. It can have either (R)- or (S)- configurations.  Some compounds, such as racemic mixtures, have an undefined atom stereocenter, whose (R/S)-configuration is not specifically defined.",
+                            "Section": [],
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 21,
+                                    "Value": {
+                                        "StringWithMarkup": null,
+                                        "Number": [
+                                            0
+                                        ],
+                                        "ExternalDataURL": null,
+                                        "Unit": null,
+                                        "Id": 0,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null
+                                    },
+                                    "Description": null,
+                                    "Name": null,
+                                    "URL": null,
+                                    "Reference": null,
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null
+                                }
+                            ],
+                            "URL": null,
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "Undefined Atom Stereocenter Count",
+                            "Description": "An atom stereocenter, also known as a chiral center, is an atom that is attached to four different types of atoms (or groups of atoms) in the tetrahedral arrangement. It can have either (R)- or (S)- configurations.  Some compounds, such as racemic mixtures, have an undefined atom stereocenter, whose (R/S)-configuration is not specifically defined.",
+                            "Section": [],
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 21,
+                                    "Value": {
+                                        "StringWithMarkup": null,
+                                        "Number": [
+                                            1
+                                        ],
+                                        "ExternalDataURL": null,
+                                        "Unit": null,
+                                        "Id": 0,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null
+                                    },
+                                    "Description": null,
+                                    "Name": null,
+                                    "URL": null,
+                                    "Reference": null,
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null
+                                }
+                            ],
+                            "URL": null,
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "Defined Bond Stereocenter Count",
+                            "Description": "A bond stereocenter is a non-rotatable bond around which two atoms can have different arrangement (as in cis- and trans-forms of butene around its double bond).  Some compounds have an undefined bond stereocenter, whose stereochemistry is not specifically defined.",
+                            "Section": [],
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 21,
+                                    "Value": {
+                                        "StringWithMarkup": null,
+                                        "Number": [
+                                            0
+                                        ],
+                                        "ExternalDataURL": null,
+                                        "Unit": null,
+                                        "Id": 0,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null
+                                    },
+                                    "Description": null,
+                                    "Name": null,
+                                    "URL": null,
+                                    "Reference": null,
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null
+                                }
+                            ],
+                            "URL": null,
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "Undefined Bond Stereocenter Count",
+                            "Description": "A bond stereocenter is a non-rotatable bond around which two atoms can have different arrangement (as in cis- and trans-forms of butene around its double bond).  Some compounds have an undefined bond stereocenter, whose stereochemistry is not specifically defined.",
+                            "Section": [],
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 21,
+                                    "Value": {
+                                        "StringWithMarkup": null,
+                                        "Number": [
+                                            0
+                                        ],
+                                        "ExternalDataURL": null,
+                                        "Unit": null,
+                                        "Id": 0,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null
+                                    },
+                                    "Description": null,
+                                    "Name": null,
+                                    "URL": null,
+                                    "Reference": null,
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null
+                                }
+                            ],
+                            "URL": null,
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "Covalently-Bonded Unit Count",
+                            "Description": "Covalently-Bonded Unit Count ",
+                            "Section": [],
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 21,
+                                    "Value": {
+                                        "StringWithMarkup": null,
+                                        "Number": [
+                                            1
+                                        ],
+                                        "ExternalDataURL": null,
+                                        "Unit": null,
+                                        "Id": 0,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null
+                                    },
+                                    "Description": null,
+                                    "Name": null,
+                                    "URL": null,
+                                    "Reference": null,
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null
+                                }
+                            ],
+                            "URL": null,
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        },
+                        {
+                            "TOCHeading": "Compound Is Canonicalized",
+                            "Description": "Compound is canonicalized",
+                            "Section": [],
+                            "Information": [
+                                {
+                                    "ReferenceNumber": 21,
+                                    "Value": {
+                                        "StringWithMarkup": [
+                                            {
+                                                "String": "Yes",
+                                                "Markup": null,
+                                                "Id": null,
+                                                "Value_Id": null
+                                            }
+                                        ],
+                                        "Number": null,
+                                        "ExternalDataURL": null,
+                                        "Unit": null,
+                                        "Id": 0,
+                                        "InformationItem_Id": null,
+                                        "ExternalTableName": null,
+                                        "ExternalTableNumRows": null
+                                    },
+                                    "Description": null,
+                                    "Name": null,
+                                    "URL": null,
+                                    "Reference": null,
+                                    "Id": 0,
+                                    "SectionItem_Id": null,
+                                    "Unit": null
+                                }
+                            ],
+                            "URL": null,
+                            "Id": 0,
+                            "Section_Id": null,
+                            "Record_Id": null
+                        }
+                    ],
+                    "Information": null,
+                    "URL": null,
+                    "Id": 0,
+                    "Section_Id": null,
+                    "Record_Id": null
+                }
+            ],
+            "Information": null,
+            "URL": null,
+            "Id": 0,
+            "Section_Id": null,
+            "Record_Id": null
+        },
+        {
+            "TOCHeading": "Spectral Information",
+            "Description": "Spectral data for chemical compounds",
+            "Section": [
+                {
+                    "TOCHeading": "Mass Spectrometry",
+                    "Description": "Mass spectrometry (MS or mass spec) is a technique to determine molecular structure through ionization and fragmentation of the parent compound into smaller components.",
+                    "Section": [],
+                    "Information": [
+                        {
+                            "ReferenceNumber": 10,
+                            "Value": {
+                                "StringWithMarkup": [
+                                    {
+                                        "String": "FiehnHILIC000695",
+                                        "Markup": null,
+                                        "Id": null,
+                                        "Value_Id": null
+                                    }
+                                ],
+                                "Number": null,
+                                "ExternalDataURL": null,
+                                "Unit": null,
+                                "Id": 0,
+                                "InformationItem_Id": null,
+                                "ExternalTableName": null,
+                                "ExternalTableNumRows": null
+                            },
+                            "Description": null,
+                            "Name": "MoNA ID",
+                            "URL": "http://mona.fiehnlab.ucdavis.edu/spectra/display/FiehnHILIC000695",
+                            "Reference": null,
+                            "Id": 0,
+                            "SectionItem_Id": null,
+                            "Unit": null
+                        },
+                        {
+                            "ReferenceNumber": 10,
+                            "Value": {
+                                "StringWithMarkup": [
+                                    {
+                                        "String": "Experimental",
+                                        "Markup": null,
+                                        "Id": null,
+                                        "Value_Id": null
+                                    }
+                                ],
+                                "Number": null,
+                                "ExternalDataURL": null,
+                                "Unit": null,
+                                "Id": 0,
+                                "InformationItem_Id": null,
+                                "ExternalTableName": null,
+                                "ExternalTableNumRows": null
+                            },
+                            "Description": null,
+                            "Name": "MS Category",
+                            "URL": null,
+                            "Reference": null,
+                            "Id": 0,
+                            "SectionItem_Id": null,
+                            "Unit": null
+                        },
+                        {
+                            "ReferenceNumber": 10,
+                            "Value": {
+                                "StringWithMarkup": [
+                                    {
+                                        "String": "Chromatography identified as LC-MS",
+                                        "Markup": null,
+                                        "Id": null,
+                                        "Value_Id": null
+                                    }
+                                ],
+                                "Number": null,
+                                "ExternalDataURL": null,
+                                "Unit": null,
+                                "Id": 0,
+                                "InformationItem_Id": null,
+                                "ExternalTableName": null,
+                                "ExternalTableNumRows": null
+                            },
+                            "Description": null,
+                            "Name": "MS Type",
+                            "URL": null,
+                            "Reference": null,
+                            "Id": 0,
+                            "SectionItem_Id": null,
+                            "Unit": null
+                        },
+                        {
+                            "ReferenceNumber": 10,
+                            "Value": {
+                                "StringWithMarkup": [
+                                    {
+                                        "String": "MS2",
+                                        "Markup": null,
+                                        "Id": null,
+                                        "Value_Id": null
+                                    }
+                                ],
+                                "Number": null,
+                                "ExternalDataURL": null,
+                                "Unit": null,
+                                "Id": 0,
+                                "InformationItem_Id": null,
+                                "ExternalTableName": null,
+                                "ExternalTableNumRows": null
+                            },
+                            "Description": null,
+                            "Name": "MS Level",
+                            "URL": null,
+                            "Reference": null,
+                            "Id": 0,
+                            "SectionItem_Id": null,
+                            "Unit": null
+                        },
+                        {
+                            "ReferenceNumber": 10,
+                            "Value": {
+                                "StringWithMarkup": [
+                                    {
+                                        "String": "[M+H]+",
+                                        "Markup": null,
+                                        "Id": null,
+                                        "Value_Id": null
+                                    }
+                                ],
+                                "Number": null,
+                                "ExternalDataURL": null,
+                                "Unit": null,
+                                "Id": 0,
+                                "InformationItem_Id": null,
+                                "ExternalTableName": null,
+                                "ExternalTableNumRows": null
+                            },
+                            "Description": null,
+                            "Name": "Precursor Type",
+                            "URL": null,
+                            "Reference": null,
+                            "Id": 0,
+                            "SectionItem_Id": null,
+                            "Unit": null
+                        },
+                        {
+                            "ReferenceNumber": 10,
+                            "Value": {
+                                "StringWithMarkup": [
+                                    {
+                                        "String": "246.1709",
+                                        "Markup": null,
+                                        "Id": null,
+                                        "Value_Id": null
+                                    }
+                                ],
+                                "Number": null,
+                                "ExternalDataURL": null,
+                                "Unit": null,
+                                "Id": 0,
+                                "InformationItem_Id": null,
+                                "ExternalTableName": null,
+                                "ExternalTableNumRows": null
+                            },
+                            "Description": null,
+                            "Name": "precursor m/z",
+                            "URL": null,
+                            "Reference": null,
+                            "Id": 0,
+                            "SectionItem_Id": null,
+                            "Unit": null
+                        },
+                        {
+                            "ReferenceNumber": 10,
+                            "Value": {
+                                "StringWithMarkup": [
+                                    {
+                                        "String": "Thermo Q Exactive HF",
+                                        "Markup": null,
+                                        "Id": null,
+                                        "Value_Id": null
+                                    }
+                                ],
+                                "Number": null,
+                                "ExternalDataURL": null,
+                                "Unit": null,
+                                "Id": 0,
+                                "InformationItem_Id": null,
+                                "ExternalTableName": null,
+                                "ExternalTableNumRows": null
+                            },
+                            "Description": null,
+                            "Name": "Instrument",
+                            "URL": null,
+                            "Reference": null,
+                            "Id": 0,
+                            "SectionItem_Id": null,
+                            "Unit": null
+                        },
+                        {
+                            "ReferenceNumber": 10,
+                            "Value": {
+                                "StringWithMarkup": [
+                                    {
+                                        "String": "LC-ESI-QFT",
+                                        "Markup": null,
+                                        "Id": null,
+                                        "Value_Id": null
+                                    }
+                                ],
+                                "Number": null,
+                                "ExternalDataURL": null,
+                                "Unit": null,
+                                "Id": 0,
+                                "InformationItem_Id": null,
+                                "ExternalTableName": null,
+                                "ExternalTableNumRows": null
+                            },
+                            "Description": null,
+                            "Name": "Instrument Type",
+                            "URL": null,
+                            "Reference": null,
+                            "Id": 0,
+                            "SectionItem_Id": null,
+                            "Unit": null
+                        },
+                        {
+                            "ReferenceNumber": 10,
+                            "Value": {
+                                "StringWithMarkup": [
+                                    {
+                                        "String": "positive",
+                                        "Markup": null,
+                                        "Id": null,
+                                        "Value_Id": null
+                                    }
+                                ],
+                                "Number": null,
+                                "ExternalDataURL": null,
+                                "Unit": null,
+                                "Id": 0,
+                                "InformationItem_Id": null,
+                                "ExternalTableName": null,
+                                "ExternalTableNumRows": null
+                            },
+                            "Description": null,
+                            "Name": "Ionization Mode",
+                            "URL": null,
+                            "Reference": null,
+                            "Id": 0,
+                            "SectionItem_Id": null,
+                            "Unit": null
+                        },
+                        {
+                            "ReferenceNumber": 10,
+                            "Value": {
+                                "StringWithMarkup": [
+                                    {
+                                        "String": "HCD (NCE 20-30-40%)",
+                                        "Markup": null,
+                                        "Id": null,
+                                        "Value_Id": null
+                                    }
+                                ],
+                                "Number": null,
+                                "ExternalDataURL": null,
+                                "Unit": null,
+                                "Id": 0,
+                                "InformationItem_Id": null,
+                                "ExternalTableName": null,
+                                "ExternalTableNumRows": null
+                            },
+                            "Description": null,
+                            "Name": "Collision Energy",
+                            "URL": null,
+                            "Reference": null,
+                            "Id": 0,
+                            "SectionItem_Id": null,
+                            "Unit": null
+                        },
+                        {
+                            "ReferenceNumber": 10,
+                            "Value": {
+                                "StringWithMarkup": [
+                                    {
+                                        "String": "splash10-006t-3970000000-f58b5be9a7b21cd7a01a",
+                                        "Markup": null,
+                                        "Id": null,
+                                        "Value_Id": null
+                                    }
+                                ],
+                                "Number": null,
+                                "ExternalDataURL": null,
+                                "Unit": null,
+                                "Id": 0,
+                                "InformationItem_Id": null,
+                                "ExternalTableName": null,
+                                "ExternalTableNumRows": null
+                            },
+                            "Description": null,
+                            "Name": "Splash",
+                            "URL": "http://mona.fiehnlab.ucdavis.edu/spectra/browse?query=splash.splash%3D%3D%22splash10-006t-3970000000-f58b5be9a7b21cd7a01a%22",
+                            "Reference": null,
+                            "Id": 0,
+                            "SectionItem_Id": null,
+                            "Unit": null
+                        },
+                        {
+                            "ReferenceNumber": 10,
+                            "Value": {
+                                "StringWithMarkup": null,
+                                "Number": null,
+                                "ExternalDataURL": [
+                                    "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/key/3412750_1"
+                                ],
+                                "Unit": null,
+                                "Id": 0,
+                                "InformationItem_Id": null,
+                                "ExternalTableName": null,
+                                "ExternalTableNumRows": null
+                            },
+                            "Description": null,
+                            "Name": "Thumbnail",
+                            "URL": "http://mona.fiehnlab.ucdavis.edu/spectra/display/FiehnHILIC000695",
+                            "Reference": null,
+                            "Id": 0,
+                            "SectionItem_Id": null,
+                            "Unit": null
+                        },
+                        {
+                            "ReferenceNumber": 10,
+                            "Value": {
+                                "StringWithMarkup": [
+                                    {
+                                        "String": "Megan Showalter, University of California, Davis",
+                                        "Markup": null,
+                                        "Id": null,
+                                        "Value_Id": null
+                                    }
+                                ],
+                                "Number": null,
+                                "ExternalDataURL": null,
+                                "Unit": null,
+                                "Id": 0,
+                                "InformationItem_Id": null,
+                                "ExternalTableName": null,
+                                "ExternalTableNumRows": null
+                            },
+                            "Description": null,
+                            "Name": "Submitter",
+                            "URL": null,
+                            "Reference": null,
+                            "Id": 0,
+                            "SectionItem_Id": null,
+                            "Unit": null
+                        },
+                        {
+                            "ReferenceNumber": 11,
+                            "Value": {
+                                "StringWithMarkup": [
+                                    {
+                                        "String": "FiehnHILIC001456",
+                                        "Markup": null,
+                                        "Id": null,
+                                        "Value_Id": null
+                                    }
+                                ],
+                                "Number": null,
+                                "ExternalDataURL": null,
+                                "Unit": null,
+                                "Id": 0,
+                                "InformationItem_Id": null,
+                                "ExternalTableName": null,
+                                "ExternalTableNumRows": null
+                            },
+                            "Description": null,
+                            "Name": "MoNA ID",
+                            "URL": "http://mona.fiehnlab.ucdavis.edu/spectra/display/FiehnHILIC001456",
+                            "Reference": null,
+                            "Id": 0,
+                            "SectionItem_Id": null,
+                            "Unit": null
+                        },
+                        {
+                            "ReferenceNumber": 11,
+                            "Value": {
+                                "StringWithMarkup": [
+                                    {
+                                        "String": "Experimental",
+                                        "Markup": null,
+                                        "Id": null,
+                                        "Value_Id": null
+                                    }
+                                ],
+                                "Number": null,
+                                "ExternalDataURL": null,
+                                "Unit": null,
+                                "Id": 0,
+                                "InformationItem_Id": null,
+                                "ExternalTableName": null,
+                                "ExternalTableNumRows": null
+                            },
+                            "Description": null,
+                            "Name": "MS Category",
+                            "URL": null,
+                            "Reference": null,
+                            "Id": 0,
+                            "SectionItem_Id": null,
+                            "Unit": null
+                        },
+                        {
+                            "ReferenceNumber": 11,
+                            "Value": {
+                                "StringWithMarkup": [
+                                    {
+                                        "String": "Chromatography identified as LC-MS",
+                                        "Markup": null,
+                                        "Id": null,
+                                        "Value_Id": null
+                                    }
+                                ],
+                                "Number": null,
+                                "ExternalDataURL": null,
+                                "Unit": null,
+                                "Id": 0,
+                                "InformationItem_Id": null,
+                                "ExternalTableName": null,
+                                "ExternalTableNumRows": null
+                            },
+                            "Description": null,
+                            "Name": "MS Type",
+                            "URL": null,
+                            "Reference": null,
+                            "Id": 0,
+                            "SectionItem_Id": null,
+                            "Unit": null
+                        },
+                        {
+                            "ReferenceNumber": 11,
+                            "Value": {
+                                "StringWithMarkup": [
+                                    {
+                                        "String": "MS2",
+                                        "Markup": null,
+                                        "Id": null,
+                                        "Value_Id": null
+                                    }
+                                ],
+                                "Number": null,
+                                "ExternalDataURL": null,
+                                "Unit": null,
+                                "Id": 0,
+                                "InformationItem_Id": null,
+                                "ExternalTableName": null,
+                                "ExternalTableNumRows": null
+                            },
+                            "Description": null,
+                            "Name": "MS Level",
+                            "URL": null,
+                            "Reference": null,
+                            "Id": 0,
+                            "SectionItem_Id": null,
+                            "Unit": null
+                        },
+                        {
+                            "ReferenceNumber": 11,
+                            "Value": {
+                                "StringWithMarkup": [
+                                    {
+                                        "String": "[M-H]-",
+                                        "Markup": null,
+                                        "Id": null,
+                                        "Value_Id": null
+                                    }
+                                ],
+                                "Number": null,
+                                "ExternalDataURL": null,
+                                "Unit": null,
+                                "Id": 0,
+                                "InformationItem_Id": null,
+                                "ExternalTableName": null,
+                                "ExternalTableNumRows": null
+                            },
+                            "Description": null,
+                            "Name": "Precursor Type",
+                            "URL": null,
+                            "Reference": null,
+                            "Id": 0,
+                            "SectionItem_Id": null,
+                            "Unit": null
+                        },
+                        {
+                            "ReferenceNumber": 11,
+                            "Value": {
+                                "StringWithMarkup": [
+                                    {
+                                        "String": "244.1563",
+                                        "Markup": null,
+                                        "Id": null,
+                                        "Value_Id": null
+                                    }
+                                ],
+                                "Number": null,
+                                "ExternalDataURL": null,
+                                "Unit": null,
+                                "Id": 0,
+                                "InformationItem_Id": null,
+                                "ExternalTableName": null,
+                                "ExternalTableNumRows": null
+                            },
+                            "Description": null,
+                            "Name": "precursor m/z",
+                            "URL": null,
+                            "Reference": null,
+                            "Id": 0,
+                            "SectionItem_Id": null,
+                            "Unit": null
+                        },
+                        {
+                            "ReferenceNumber": 11,
+                            "Value": {
+                                "StringWithMarkup": [
+                                    {
+                                        "String": "Thermo Q Exactive HF",
+                                        "Markup": null,
+                                        "Id": null,
+                                        "Value_Id": null
+                                    }
+                                ],
+                                "Number": null,
+                                "ExternalDataURL": null,
+                                "Unit": null,
+                                "Id": 0,
+                                "InformationItem_Id": null,
+                                "ExternalTableName": null,
+                                "ExternalTableNumRows": null
+                            },
+                            "Description": null,
+                            "Name": "Instrument",
+                            "URL": null,
+                            "Reference": null,
+                            "Id": 0,
+                            "SectionItem_Id": null,
+                            "Unit": null
+                        },
+                        {
+                            "ReferenceNumber": 11,
+                            "Value": {
+                                "StringWithMarkup": [
+                                    {
+                                        "String": "LC-ESI-QFT",
+                                        "Markup": null,
+                                        "Id": null,
+                                        "Value_Id": null
+                                    }
+                                ],
+                                "Number": null,
+                                "ExternalDataURL": null,
+                                "Unit": null,
+                                "Id": 0,
+                                "InformationItem_Id": null,
+                                "ExternalTableName": null,
+                                "ExternalTableNumRows": null
+                            },
+                            "Description": null,
+                            "Name": "Instrument Type",
+                            "URL": null,
+                            "Reference": null,
+                            "Id": 0,
+                            "SectionItem_Id": null,
+                            "Unit": null
+                        },
+                        {
+                            "ReferenceNumber": 11,
+                            "Value": {
+                                "StringWithMarkup": [
+                                    {
+                                        "String": "negative",
+                                        "Markup": null,
+                                        "Id": null,
+                                        "Value_Id": null
+                                    }
+                                ],
+                                "Number": null,
+                                "ExternalDataURL": null,
+                                "Unit": null,
+                                "Id": 0,
+                                "InformationItem_Id": null,
+                                "ExternalTableName": null,
+                                "ExternalTableNumRows": null
+                            },
+                            "Description": null,
+                            "Name": "Ionization Mode",
+                            "URL": null,
+                            "Reference": null,
+                            "Id": 0,
+                            "SectionItem_Id": null,
+                            "Unit": null
+                        },
+                        {
+                            "ReferenceNumber": 11,
+                            "Value": {
+                                "StringWithMarkup": [
+                                    {
+                                        "String": "HCD (NCE 20-30-40%)",
+                                        "Markup": null,
+                                        "Id": null,
+                                        "Value_Id": null
+                                    }
+                                ],
+                                "Number": null,
+                                "ExternalDataURL": null,
+                                "Unit": null,
+                                "Id": 0,
+                                "InformationItem_Id": null,
+                                "ExternalTableName": null,
+                                "ExternalTableNumRows": null
+                            },
+                            "Description": null,
+                            "Name": "Collision Energy",
+                            "URL": null,
+                            "Reference": null,
+                            "Id": 0,
+                            "SectionItem_Id": null,
+                            "Unit": null
+                        },
+                        {
+                            "ReferenceNumber": 11,
+                            "Value": {
+                                "StringWithMarkup": [
+                                    {
+                                        "String": "splash10-0006-9050000000-44708d648852136ad8e2",
+                                        "Markup": null,
+                                        "Id": null,
+                                        "Value_Id": null
+                                    }
+                                ],
+                                "Number": null,
+                                "ExternalDataURL": null,
+                                "Unit": null,
+                                "Id": 0,
+                                "InformationItem_Id": null,
+                                "ExternalTableName": null,
+                                "ExternalTableNumRows": null
+                            },
+                            "Description": null,
+                            "Name": "Splash",
+                            "URL": "http://mona.fiehnlab.ucdavis.edu/spectra/browse?query=splash.splash%3D%3D%22splash10-0006-9050000000-44708d648852136ad8e2%22",
+                            "Reference": null,
+                            "Id": 0,
+                            "SectionItem_Id": null,
+                            "Unit": null
+                        },
+                        {
+                            "ReferenceNumber": 11,
+                            "Value": {
+                                "StringWithMarkup": null,
+                                "Number": null,
+                                "ExternalDataURL": [
+                                    "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/key/3413510_1"
+                                ],
+                                "Unit": null,
+                                "Id": 0,
+                                "InformationItem_Id": null,
+                                "ExternalTableName": null,
+                                "ExternalTableNumRows": null
+                            },
+                            "Description": null,
+                            "Name": "Thumbnail",
+                            "URL": "http://mona.fiehnlab.ucdavis.edu/spectra/display/FiehnHILIC001456",
+                            "Reference": null,
+                            "Id": 0,
+                            "SectionItem_Id": null,
+                            "Unit": null
+                        },
+                        {
+                            "ReferenceNumber": 11,
+                            "Value": {
+                                "StringWithMarkup": [
+                                    {
+                                        "String": "Megan Showalter, University of California, Davis",
+                                        "Markup": null,
+                                        "Id": null,
+                                        "Value_Id": null
+                                    }
+                                ],
+                                "Number": null,
+                                "ExternalDataURL": null,
+                                "Unit": null,
+                                "Id": 0,
+                                "InformationItem_Id": null,
+                                "ExternalTableName": null,
+                                "ExternalTableNumRows": null
+                            },
+                            "Description": null,
+                            "Name": "Submitter",
+                            "URL": null,
+                            "Reference": null,
+                            "Id": 0,
+                            "SectionItem_Id": null,
+                            "Unit": null
+                        },
+                        {
+                            "ReferenceNumber": 12,
+                            "Value": {
+                                "StringWithMarkup": [
+                                    {
+                                        "String": "FiehnHILIC002261",
+                                        "Markup": null,
+                                        "Id": null,
+                                        "Value_Id": null
+                                    }
+                                ],
+                                "Number": null,
+                                "ExternalDataURL": null,
+                                "Unit": null,
+                                "Id": 0,
+                                "InformationItem_Id": null,
+                                "ExternalTableName": null,
+                                "ExternalTableNumRows": null
+                            },
+                            "Description": null,
+                            "Name": "MoNA ID",
+                            "URL": "http://mona.fiehnlab.ucdavis.edu/spectra/display/FiehnHILIC002261",
+                            "Reference": null,
+                            "Id": 0,
+                            "SectionItem_Id": null,
+                            "Unit": null
+                        },
+                        {
+                            "ReferenceNumber": 12,
+                            "Value": {
+                                "StringWithMarkup": [
+                                    {
+                                        "String": "Experimental",
+                                        "Markup": null,
+                                        "Id": null,
+                                        "Value_Id": null
+                                    }
+                                ],
+                                "Number": null,
+                                "ExternalDataURL": null,
+                                "Unit": null,
+                                "Id": 0,
+                                "InformationItem_Id": null,
+                                "ExternalTableName": null,
+                                "ExternalTableNumRows": null
+                            },
+                            "Description": null,
+                            "Name": "MS Category",
+                            "URL": null,
+                            "Reference": null,
+                            "Id": 0,
+                            "SectionItem_Id": null,
+                            "Unit": null
+                        },
+                        {
+                            "ReferenceNumber": 12,
+                            "Value": {
+                                "StringWithMarkup": [
+                                    {
+                                        "String": "Chromatography identified as LC-MS",
+                                        "Markup": null,
+                                        "Id": null,
+                                        "Value_Id": null
+                                    }
+                                ],
+                                "Number": null,
+                                "ExternalDataURL": null,
+                                "Unit": null,
+                                "Id": 0,
+                                "InformationItem_Id": null,
+                                "ExternalTableName": null,
+                                "ExternalTableNumRows": null
+                            },
+                            "Description": null,
+                            "Name": "MS Type",
+                            "URL": null,
+                            "Reference": null,
+                            "Id": 0,
+                            "SectionItem_Id": null,
+                            "Unit": null
+                        },
+                        {
+                            "ReferenceNumber": 12,
+                            "Value": {
+                                "StringWithMarkup": [
+                                    {
+                                        "String": "MS2",
+                                        "Markup": null,
+                                        "Id": null,
+                                        "Value_Id": null
+                                    }
+                                ],
+                                "Number": null,
+                                "ExternalDataURL": null,
+                                "Unit": null,
+                                "Id": 0,
+                                "InformationItem_Id": null,
+                                "ExternalTableName": null,
+                                "ExternalTableNumRows": null
+                            },
+                            "Description": null,
+                            "Name": "MS Level",
+                            "URL": null,
+                            "Reference": null,
+                            "Id": 0,
+                            "SectionItem_Id": null,
+                            "Unit": null
+                        },
+                        {
+                            "ReferenceNumber": 12,
+                            "Value": {
+                                "StringWithMarkup": [
+                                    {
+                                        "String": "[M+H]+",
+                                        "Markup": null,
+                                        "Id": null,
+                                        "Value_Id": null
+                                    }
+                                ],
+                                "Number": null,
+                                "ExternalDataURL": null,
+                                "Unit": null,
+                                "Id": 0,
+                                "InformationItem_Id": null,
+                                "ExternalTableName": null,
+                                "ExternalTableNumRows": null
+                            },
+                            "Description": null,
+                            "Name": "Precursor Type",
+                            "URL": null,
+                            "Reference": null,
+                            "Id": 0,
+                            "SectionItem_Id": null,
+                            "Unit": null
+                        },
+                        {
+                            "ReferenceNumber": 12,
+                            "Value": {
+                                "StringWithMarkup": [
+                                    {
+                                        "String": "246.172",
+                                        "Markup": null,
+                                        "Id": null,
+                                        "Value_Id": null
+                                    }
+                                ],
+                                "Number": null,
+                                "ExternalDataURL": null,
+                                "Unit": null,
+                                "Id": 0,
+                                "InformationItem_Id": null,
+                                "ExternalTableName": null,
+                                "ExternalTableNumRows": null
+                            },
+                            "Description": null,
+                            "Name": "precursor m/z",
+                            "URL": null,
+                            "Reference": null,
+                            "Id": 0,
+                            "SectionItem_Id": null,
+                            "Unit": null
+                        },
+                        {
+                            "ReferenceNumber": 12,
+                            "Value": {
+                                "StringWithMarkup": [
+                                    {
+                                        "String": "SCIEX TripleTOF 6600",
+                                        "Markup": null,
+                                        "Id": null,
+                                        "Value_Id": null
+                                    }
+                                ],
+                                "Number": null,
+                                "ExternalDataURL": null,
+                                "Unit": null,
+                                "Id": 0,
+                                "InformationItem_Id": null,
+                                "ExternalTableName": null,
+                                "ExternalTableNumRows": null
+                            },
+                            "Description": null,
+                            "Name": "Instrument",
+                            "URL": null,
+                            "Reference": null,
+                            "Id": 0,
+                            "SectionItem_Id": null,
+                            "Unit": null
+                        },
+                        {
+                            "ReferenceNumber": 12,
+                            "Value": {
+                                "StringWithMarkup": [
+                                    {
+                                        "String": "LC-ESI-QTOF",
+                                        "Markup": null,
+                                        "Id": null,
+                                        "Value_Id": null
+                                    }
+                                ],
+                                "Number": null,
+                                "ExternalDataURL": null,
+                                "Unit": null,
+                                "Id": 0,
+                                "InformationItem_Id": null,
+                                "ExternalTableName": null,
+                                "ExternalTableNumRows": null
+                            },
+                            "Description": null,
+                            "Name": "Instrument Type",
+                            "URL": null,
+                            "Reference": null,
+                            "Id": 0,
+                            "SectionItem_Id": null,
+                            "Unit": null
+                        },
+                        {
+                            "ReferenceNumber": 12,
+                            "Value": {
+                                "StringWithMarkup": [
+                                    {
+                                        "String": "positive",
+                                        "Markup": null,
+                                        "Id": null,
+                                        "Value_Id": null
+                                    }
+                                ],
+                                "Number": null,
+                                "ExternalDataURL": null,
+                                "Unit": null,
+                                "Id": 0,
+                                "InformationItem_Id": null,
+                                "ExternalTableName": null,
+                                "ExternalTableNumRows": null
+                            },
+                            "Description": null,
+                            "Name": "Ionization Mode",
+                            "URL": null,
+                            "Reference": null,
+                            "Id": 0,
+                            "SectionItem_Id": null,
+                            "Unit": null
+                        },
+                        {
+                            "ReferenceNumber": 12,
+                            "Value": {
+                                "StringWithMarkup": [
+                                    {
+                                        "String": "35 eV",
+                                        "Markup": null,
+                                        "Id": null,
+                                        "Value_Id": null
+                                    }
+                                ],
+                                "Number": null,
+                                "ExternalDataURL": null,
+                                "Unit": null,
+                                "Id": 0,
+                                "InformationItem_Id": null,
+                                "ExternalTableName": null,
+                                "ExternalTableNumRows": null
+                            },
+                            "Description": null,
+                            "Name": "Collision Energy",
+                            "URL": null,
+                            "Reference": null,
+                            "Id": 0,
+                            "SectionItem_Id": null,
+                            "Unit": null
+                        },
+                        {
+                            "ReferenceNumber": 12,
+                            "Value": {
+                                "StringWithMarkup": [
+                                    {
+                                        "String": "splash10-00dj-4900000000-b15c55e7d6c3601e60d4",
+                                        "Markup": null,
+                                        "Id": null,
+                                        "Value_Id": null
+                                    }
+                                ],
+                                "Number": null,
+                                "ExternalDataURL": null,
+                                "Unit": null,
+                                "Id": 0,
+                                "InformationItem_Id": null,
+                                "ExternalTableName": null,
+                                "ExternalTableNumRows": null
+                            },
+                            "Description": null,
+                            "Name": "Splash",
+                            "URL": "http://mona.fiehnlab.ucdavis.edu/spectra/browse?query=splash.splash%3D%3D%22splash10-00dj-4900000000-b15c55e7d6c3601e60d4%22",
+                            "Reference": null,
+                            "Id": 0,
+                            "SectionItem_Id": null,
+                            "Unit": null
+                        },
+                        {
+                            "ReferenceNumber": 12,
+                            "Value": {
+                                "StringWithMarkup": null,
+                                "Number": null,
+                                "ExternalDataURL": [
+                                    "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/key/3414313_1"
+                                ],
+                                "Unit": null,
+                                "Id": 0,
+                                "InformationItem_Id": null,
+                                "ExternalTableName": null,
+                                "ExternalTableNumRows": null
+                            },
+                            "Description": null,
+                            "Name": "Thumbnail",
+                            "URL": "http://mona.fiehnlab.ucdavis.edu/spectra/display/FiehnHILIC002261",
+                            "Reference": null,
+                            "Id": 0,
+                            "SectionItem_Id": null,
+                            "Unit": null
+                        },
+                        {
+                            "ReferenceNumber": 12,
+                            "Value": {
+                                "StringWithMarkup": [
+                                    {
+                                        "String": "Megan Showalter, University of California, Davis",
+                                        "Markup": null,
+                                        "Id": null,
+                                        "Value_Id": null
+                                    }
+                                ],
+                                "Number": null,
+                                "ExternalDataURL": null,
+                                "Unit": null,
+                                "Id": 0,
+                                "InformationItem_Id": null,
+                                "ExternalTableName": null,
+                                "ExternalTableNumRows": null
+                            },
+                            "Description": null,
+                            "Name": "Submitter",
+                            "URL": null,
+                            "Reference": null,
+                            "Id": 0,
+                            "SectionItem_Id": null,
+                            "Unit": null
+                        },
+                        {
+                            "ReferenceNumber": 13,
+                            "Value": {
+                                "StringWithMarkup": [
+                                    {
+                                        "String": "FiehnHILIC002936",
+                                        "Markup": null,
+                                        "Id": null,
+                                        "Value_Id": null
+                                    }
+                                ],
+                                "Number": null,
+                                "ExternalDataURL": null,
+                                "Unit": null,
+                                "Id": 0,
+                                "InformationItem_Id": null,
+                                "ExternalTableName": null,
+                                "ExternalTableNumRows": null
+                            },
+                            "Description": null,
+                            "Name": "MoNA ID",
+                            "URL": "http://mona.fiehnlab.ucdavis.edu/spectra/display/FiehnHILIC002936",
+                            "Reference": null,
+                            "Id": 0,
+                            "SectionItem_Id": null,
+                            "Unit": null
+                        },
+                        {
+                            "ReferenceNumber": 13,
+                            "Value": {
+                                "StringWithMarkup": [
+                                    {
+                                        "String": "Experimental",
+                                        "Markup": null,
+                                        "Id": null,
+                                        "Value_Id": null
+                                    }
+                                ],
+                                "Number": null,
+                                "ExternalDataURL": null,
+                                "Unit": null,
+                                "Id": 0,
+                                "InformationItem_Id": null,
+                                "ExternalTableName": null,
+                                "ExternalTableNumRows": null
+                            },
+                            "Description": null,
+                            "Name": "MS Category",
+                            "URL": null,
+                            "Reference": null,
+                            "Id": 0,
+                            "SectionItem_Id": null,
+                            "Unit": null
+                        },
+                        {
+                            "ReferenceNumber": 13,
+                            "Value": {
+                                "StringWithMarkup": [
+                                    {
+                                        "String": "Chromatography identified as LC-MS",
+                                        "Markup": null,
+                                        "Id": null,
+                                        "Value_Id": null
+                                    }
+                                ],
+                                "Number": null,
+                                "ExternalDataURL": null,
+                                "Unit": null,
+                                "Id": 0,
+                                "InformationItem_Id": null,
+                                "ExternalTableName": null,
+                                "ExternalTableNumRows": null
+                            },
+                            "Description": null,
+                            "Name": "MS Type",
+                            "URL": null,
+                            "Reference": null,
+                            "Id": 0,
+                            "SectionItem_Id": null,
+                            "Unit": null
+                        },
+                        {
+                            "ReferenceNumber": 13,
+                            "Value": {
+                                "StringWithMarkup": [
+                                    {
+                                        "String": "MS2",
+                                        "Markup": null,
+                                        "Id": null,
+                                        "Value_Id": null
+                                    }
+                                ],
+                                "Number": null,
+                                "ExternalDataURL": null,
+                                "Unit": null,
+                                "Id": 0,
+                                "InformationItem_Id": null,
+                                "ExternalTableName": null,
+                                "ExternalTableNumRows": null
+                            },
+                            "Description": null,
+                            "Name": "MS Level",
+                            "URL": null,
+                            "Reference": null,
+                            "Id": 0,
+                            "SectionItem_Id": null,
+                            "Unit": null
+                        },
+                        {
+                            "ReferenceNumber": 13,
+                            "Value": {
+                                "StringWithMarkup": [
+                                    {
+                                        "String": "[M-H]-",
+                                        "Markup": null,
+                                        "Id": null,
+                                        "Value_Id": null
+                                    }
+                                ],
+                                "Number": null,
+                                "ExternalDataURL": null,
+                                "Unit": null,
+                                "Id": 0,
+                                "InformationItem_Id": null,
+                                "ExternalTableName": null,
+                                "ExternalTableNumRows": null
+                            },
+                            "Description": null,
+                            "Name": "Precursor Type",
+                            "URL": null,
+                            "Reference": null,
+                            "Id": 0,
+                            "SectionItem_Id": null,
+                            "Unit": null
+                        },
+                        {
+                            "ReferenceNumber": 13,
+                            "Value": {
+                                "StringWithMarkup": [
+                                    {
+                                        "String": "244.1573",
+                                        "Markup": null,
+                                        "Id": null,
+                                        "Value_Id": null
+                                    }
+                                ],
+                                "Number": null,
+                                "ExternalDataURL": null,
+                                "Unit": null,
+                                "Id": 0,
+                                "InformationItem_Id": null,
+                                "ExternalTableName": null,
+                                "ExternalTableNumRows": null
+                            },
+                            "Description": null,
+                            "Name": "precursor m/z",
+                            "URL": null,
+                            "Reference": null,
+                            "Id": 0,
+                            "SectionItem_Id": null,
+                            "Unit": null
+                        },
+                        {
+                            "ReferenceNumber": 13,
+                            "Value": {
+                                "StringWithMarkup": [
+                                    {
+                                        "String": "SCIEX TripleTOF 6600",
+                                        "Markup": null,
+                                        "Id": null,
+                                        "Value_Id": null
+                                    }
+                                ],
+                                "Number": null,
+                                "ExternalDataURL": null,
+                                "Unit": null,
+                                "Id": 0,
+                                "InformationItem_Id": null,
+                                "ExternalTableName": null,
+                                "ExternalTableNumRows": null
+                            },
+                            "Description": null,
+                            "Name": "Instrument",
+                            "URL": null,
+                            "Reference": null,
+                            "Id": 0,
+                            "SectionItem_Id": null,
+                            "Unit": null
+                        },
+                        {
+                            "ReferenceNumber": 13,
+                            "Value": {
+                                "StringWithMarkup": [
+                                    {
+                                        "String": "LC-ESI-QTOF",
+                                        "Markup": null,
+                                        "Id": null,
+                                        "Value_Id": null
+                                    }
+                                ],
+                                "Number": null,
+                                "ExternalDataURL": null,
+                                "Unit": null,
+                                "Id": 0,
+                                "InformationItem_Id": null,
+                                "ExternalTableName": null,
+                                "ExternalTableNumRows": null
+                            },
+                            "Description": null,
+                            "Name": "Instrument Type",
+                            "URL": null,
+                            "Reference": null,
+                            "Id": 0,
+                            "SectionItem_Id": null,
+                            "Unit": null
+                        },
+                        {
+                            "ReferenceNumber": 13,
+                            "Value": {
+                                "StringWithMarkup": [
+                                    {
+                                        "String": "negative",
+                                        "Markup": null,
+                                        "Id": null,
+                                        "Value_Id": null
+                                    }
+                                ],
+                                "Number": null,
+                                "ExternalDataURL": null,
+                                "Unit": null,
+                                "Id": 0,
+                                "InformationItem_Id": null,
+                                "ExternalTableName": null,
+                                "ExternalTableNumRows": null
+                            },
+                            "Description": null,
+                            "Name": "Ionization Mode",
+                            "URL": null,
+                            "Reference": null,
+                            "Id": 0,
+                            "SectionItem_Id": null,
+                            "Unit": null
+                        },
+                        {
+                            "ReferenceNumber": 13,
+                            "Value": {
+                                "StringWithMarkup": [
+                                    {
+                                        "String": "35 eV",
+                                        "Markup": null,
+                                        "Id": null,
+                                        "Value_Id": null
+                                    }
+                                ],
+                                "Number": null,
+                                "ExternalDataURL": null,
+                                "Unit": null,
+                                "Id": 0,
+                                "InformationItem_Id": null,
+                                "ExternalTableName": null,
+                                "ExternalTableNumRows": null
+                            },
+                            "Description": null,
+                            "Name": "Collision Energy",
+                            "URL": null,
+                            "Reference": null,
+                            "Id": 0,
+                            "SectionItem_Id": null,
+                            "Unit": null
+                        },
+                        {
+                            "ReferenceNumber": 13,
+                            "Value": {
+                                "StringWithMarkup": [
+                                    {
+                                        "String": "splash10-0006-9010000000-6c866ebbd94afff0d01e",
+                                        "Markup": null,
+                                        "Id": null,
+                                        "Value_Id": null
+                                    }
+                                ],
+                                "Number": null,
+                                "ExternalDataURL": null,
+                                "Unit": null,
+                                "Id": 0,
+                                "InformationItem_Id": null,
+                                "ExternalTableName": null,
+                                "ExternalTableNumRows": null
+                            },
+                            "Description": null,
+                            "Name": "Splash",
+                            "URL": "http://mona.fiehnlab.ucdavis.edu/spectra/browse?query=splash.splash%3D%3D%22splash10-0006-9010000000-6c866ebbd94afff0d01e%22",
+                            "Reference": null,
+                            "Id": 0,
+                            "SectionItem_Id": null,
+                            "Unit": null
+                        },
+                        {
+                            "ReferenceNumber": 13,
+                            "Value": {
+                                "StringWithMarkup": null,
+                                "Number": null,
+                                "ExternalDataURL": [
+                                    "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/key/3414974_1"
+                                ],
+                                "Unit": null,
+                                "Id": 0,
+                                "InformationItem_Id": null,
+                                "ExternalTableName": null,
+                                "ExternalTableNumRows": null
+                            },
+                            "Description": null,
+                            "Name": "Thumbnail",
+                            "URL": "http://mona.fiehnlab.ucdavis.edu/spectra/display/FiehnHILIC002936",
+                            "Reference": null,
+                            "Id": 0,
+                            "SectionItem_Id": null,
+                            "Unit": null
+                        },
+                        {
+                            "ReferenceNumber": 13,
+                            "Value": {
+                                "StringWithMarkup": [
+                                    {
+                                        "String": "Megan Showalter, University of California, Davis",
+                                        "Markup": null,
+                                        "Id": null,
+                                        "Value_Id": null
+                                    }
+                                ],
+                                "Number": null,
+                                "ExternalDataURL": null,
+                                "Unit": null,
+                                "Id": 0,
+                                "InformationItem_Id": null,
+                                "ExternalTableName": null,
+                                "ExternalTableNumRows": null
+                            },
+                            "Description": null,
+                            "Name": "Submitter",
+                            "URL": null,
+                            "Reference": null,
+                            "Id": 0,
+                            "SectionItem_Id": null,
+                            "Unit": null
+                        }
+                    ],
+                    "URL": null,
+                    "Id": 0,
+                    "Section_Id": null,
+                    "Record_Id": null
+                }
+            ],
+            "Information": null,
+            "URL": null,
+            "Id": 0,
+            "Section_Id": null,
+            "Record_Id": null
+        }
+    ],
+    "Id": 0,
+    "RecordTitleCN": "",
+    "Structure": "https://pubchem.ncbi.nlm.nih.gov/image/imgsrv.fcgi?cid=4826&t=l",
+    "InChIKeyList": [
+        "IVVNZDGDKPTYHK-UHFFFAOYSA-N"
+    ],
+    "InChIList": [
+        "InChI=1S/C13H19N5/c1-10(13(2,3)4)17-12(16-9-14)18-11-5-7-15-8-6-11/h5-8,10H,1-4H3,(H2,15,16,17,18)"
+    ],
+    "MolecularWeightList": [
+        "245.32 g/mol"
+    ],
+    "ChemicalNamesList": [
+        "1-cyano-2-(3,3-dimethylbutan-2-yl)-3-pyridin-4-ylguanidine"
+    ],
+    "SMILESList": [
+        "CC(C(C)(C)C)N=C(NC#N)NC1=CC=NC=C1"
+    ],
+    "CasList": [
+        "60560-33-0",
+        "85371-64-8 (Parent)",
+        "85371-64-8"
+    ],
+    "MolecularFormulaList": [],
+    "ChemicalSafetyList": [
+        {
+            "Name": "Irritant",
+            "Src": "https://pubchem.ncbi.nlm.nih.gov/images/ghs/GHS07.svg"
+        }
+    ],
+    "source": "https://baike.kingdraw.com/Scripts/app/detail.html?id=4826"
+}
